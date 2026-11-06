@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.16  
+**Wersja:** 0.17  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -95,3 +95,7 @@ Dziennikarka rozwiązuje **zagadki detektywistyczne** za pomocą notesu, aparatu
 ### Prolog oficera i Leszek — v0.16
 
 Zatwierdzone przez autora: **Leszek** jako imię przyjaciela; wz. 89 „Puma” z bechatką Puma; szkolenie oficera w całym arsenale gry; większa siła, wytrzymałość i prędkość/długość biegu względem Anny. Długi, pozornie spokojny początek w szpitalu (dokumenty, rosyjski sektor, –1, –2), tajemnicze skrzynie z zamkniętej klatki schodowej, konflikt i pierwsza walka z użyciem **AK-74 po poległym rosyjskim żołnierzu**. Awaria parowa i samotna pobudka: ból głowy, zakrwawiony mundur, pistolet, dwa magazynki, latarka obok. **–3 dopiero później**. Dokładna trasa, tempo, dialogi i sceny w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md` pozostają do testów. Piotr Bielecki i kapitan nadal propozycjami.
+
+### Korekta prologu v0.17 — przyjaciel od dawna, zamknięta klatka, karabinek
+
+**[KANON]** Leszek i polski oficer od początku gry są wieloletnimi przyjaciółmi — żadnego poznawania się w szpitalu. Oficer podczas inspekcji –2 ma obowiązek katalogować skrzynie z numerami wojskowymi **niepasującymi do manifestu**, ale nie ma dostępu do strzeżonej klatki. **AK-74** pochodzi od poległego Rosjanina; polskie karabinki epoki: **AKM/AKMS oraz wz. 88 Tantal**. **[OTWARTE]** Utrata karabinka w prologu jest widoczna i logiczna: kończy się amunicja albo poważnie uszkadza się mechanizm podczas awarii parowej. Nie wybrać jednego wariantu bez kolejnej decyzji autora.

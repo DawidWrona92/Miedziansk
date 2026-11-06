@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.16 — 6 listopada 2026  
+**Wersja:** 0.17 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -137,3 +137,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - **[KANON szkieletu]** Powolny początek inspekcji w szpitalu → rosyjski sektor → niemiecki poziom –1 → radziecki poziom –2; katalogowanie sprzętu i podejrzane skrzynie ze strzeżonej klatki; spór personelu, ataki, AK-74 podniesiony po poległym rosyjskim żołnierzu, awaria węzła parowego.
 - **[KANON]** Po odzyskaniu przytomności oficer jest sam, ma zakrwawiony mundur, ból głowy, tylko pistolet i dwa magazynki, a obok leży latarka. Los/obecność Leszka pozostają ukryte dla oficera do finału.
 - Rozpiska scen w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md` odróżnia zatwierdzone zdarzenia od pomysłów implementacyjnych.
+
+## Zmiany w wersji 0.17
+
+- **[KANON]** Leszek to wieloletni przyjaciel oficera, którego ten zna **jeszcze przed wydarzeniami gry**. Nie ma sceny poznawania Leszka przez oficera w szpitalu; ich bliskość pokazują naturalne rozmowy.
+- **[KANON]** Skrzynie przy zamkniętej, strzeżonej klatce –2 mają typowe oznaczenia wojskowe i numery, ale **nie odpowiadają spisowi wyposażenia**, który oficjalnie weryfikuje polska inspekcja. Oficer ma obowiązek katalogowania, ale nie prawo wejścia w każdą strefę; nie odkrywa jeszcze –3.
+- **[KANON KIERUNKU]** AK-74 podczas prologu nadal pochodzi od poległego rosyjskiego żołnierza; **AKM/AKMS oraz wz. 88 Tantal to poprawne typy polskich karabinków w 1992 r.**
+- **[OTWARTE między wariantami autora]** AK-74 po prologu nie działa/nie nadaje się do dalszego użycia, ponieważ **wyczerpuje się amunicja** lub **awaria parowa niszczy jego mechanizm**. Odrzucono domyślny pomysł przypadkowego zgubienia karabinka bez jasnej przyczyny.

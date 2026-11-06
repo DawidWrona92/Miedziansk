@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.16  
+**Wersja:** 0.17  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -154,3 +154,11 @@ Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijaj�
 **[KANON]** Przyjaciel to **Leszek**. Spokojny prolog: wejście do szpitala, kontrola rosyjskiego sektora, przegląd dokumentów, prośba o zejście do piwnic, poziom –1 z rosyjskim oficerem, dalej radziecki poziom –2, katalogowanie sprzętu i skrzyń wynoszonych z zamkniętej klatki schodowej. Narasta spór personelu; wybucha kryzys, oficer korzysta z **AK-74 poległego rosyjskiego żołnierza**, próbuje wydostać się z Leszkiem i traci przytomność podczas awarii **węzła parowego**. Po przebudzeniu ma ból głowy, zakrwawiony mundur, **pistolet i dwa magazynki**, a na ziemi obok leży latarka. Leszka nie ma. Serce Rubieży na –3 pozostaje na późny etap.
 
 **[PROPOZYCJA]** Typ pistoletu P-83 Wanad, długość i kompletne sceny, szczegółowy przebieg uszkodzenia parowego, utrata AK-74 i ślady pozostawione przez Leszka. Nowy szczegółowy dokument: `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`.
+
+## 22. Korekta prologu — relacja z Leszkiem, skrzynie i uzbrojenie (6.11.2026)
+
+**[KANON]** Leszek jest przyjacielem polskiego oficera jeszcze sprzed wydarzeń gry; w pierwszych scenach nie dochodzi do ich poznania. Wspólnie wykonują spokojną inspekcję, a gracz poznaje relację przez naturalne dialogi.
+
+**[KANON]** Na poziomie –2 oficer widzi skrzynie oznaczone wojskowymi numerami, ale **niezgodne z katalogowanym spisem**. Skrzynie przenoszone są z pomieszczeń przy **zamkniętej klatce schodowej**, której pilnuje wartownik i do której polska strona nie ma prawa wejść. Napięcie bierze się z konfliktu obowiązku katalogowania z ograniczonym dostępem, nie z bezpośredniego ujawnienia „Rubieży”.
+
+**[KANON TŁA]** AKM/AKMS i wz. 88 Tantal to poprawne przykłady broni polskiej w 1992 r.; karabinek AK-74 znaleziony podczas prologu należy do rosyjskiego żołnierza. **[DWA OTWARTE WARIANTY]** Brak AK-74 po przebudzeniu wynika z zużycia całej zdobytej amunicji lub jego poważnego mechanicznego uszkodzenia w awarii węzła parowego, a nie automatycznego usunięcia z ekwipunku. Konkretną wersję wybierzemy na etapie scenariusza.

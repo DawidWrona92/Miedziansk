@@ -125,3 +125,5 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
 
 - **[H38] Kolekcja prywatna z fotografiami muzealnymi — kurtka „bechatka” wz. 89 „Puma”, egzemplarz wyprodukowany w 1991 r.** Potwierdza możliwość użycia takiej kurtki w 1992 r. https://myvimu.com/exhibit/54826119-kurtka-bechatka-wz-89
 - **[H39] U.S. Army, FM 100-2-3, *The Soviet Army: Troops, Organization, and Equipment* (6.06.1991).** AK-74, AKS-74 i ich powszechność w siłach radzieckich. Nie potwierdza konkretnej broni każdego żołnierza fikcyjnego garnizonu. https://irp.fas.org/doddir/army/fm100-2-3.pdf
+
+- **[H40] Polska Zbrojna, nr 6/2019 — zestawienie AKM, Tantal wz. 88, Beryl.** AKM 7,62 × 39 mm w polskim wojsku, Tantal 5,45 × 39 mm przyjęty w 1991 r. (zob. też muzeum wirtualne). https://zbrojni.blob.core.windows.net/pzdata2/TinyMceFiles/pz6_2019.pdf ; https://v-museum.org/pl/museum/weapons-xxi/bron-dluga-karabiny-i-karabinki/karabinek-automatyczny-wz-88-tantal

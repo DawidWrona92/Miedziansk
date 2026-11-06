@@ -2,7 +2,7 @@
 
 **Stan:** KANON SZKIELETU zaakceptowany przez autora / PROPOZYCJA konkretnego rytmu, dialogów i interakcji.  
 **Data:** 6 listopada 2026 r.  
-**Postacie:** polski oficer z Krakowa (imię „Piotr Bielecki”, stopień kapitana nadal tylko propozycją), **Leszek** — imię przyjaciela oficera [KANON], rosyjski oficer eskortujący [IMIĘ OTWARTE], personel rosyjskiego skrzydła szpitala.  
+**Postacie:** polski oficer z Krakowa (imię „Piotr Bielecki”, stopień kapitana nadal tylko propozycją), **Leszek — jego wieloletni przyjaciel jeszcze sprzed gry [KANON]**, rosyjski oficer eskortujący [IMIĘ OTWARTE], personel rosyjskiego skrzydła szpitala.  
 **Zasady:** jeden pierwotny incydent zakażenia około 9–10 października; przyjazd polskiej inspekcji 13 października nie wywołuje epidemii, lecz przypadkowo zbiega się ze wzrostem napięć. Prologiczna katastrofa ma miejsce na technicznym poziomie **–2**, nie na tajnym poziomie **–3**, który zostanie odwiedzony późno w grze.
 
 ## 1. Dlaczego prolog zaczyna się powoli
@@ -13,10 +13,10 @@
 
 | Faza / miejsce | Działanie gracza | Napięcie i funkcja |
 |---|---|---|
-| 1. Wejście do szpitala | Przedstawia dokumenty, rozmawia z Leszkiem, przechodzi przez polską część do kontrolowanego rosyjskiego skrzydła. | Żywy szpital, pacjenci i personel; cywilno-wojskowa granica. |
+| 1. Wejście do szpitala | Przedstawia dokumenty, wymienia naturalne uwagi z **dobrze znanym mu Leszkiem**, przechodzi przez polską część do kontrolowanego rosyjskiego skrzydła. | Żywy szpital i wieloletnia znajomość obu Polaków pokazana bez sceny poznania; cywilno-wojskowa granica. |
 | 2. Rosyjski sektor | Kontroluje inwentarz i protokoły przekazania, może komentować niezgodności, rozmawia z rosyjskim oficerem. | Podniesione głosy, nagła zmiana planu kontroli, nerwowość. |
 | 3. Poziom –1 | Ogląda dawny niemiecki schron: korytarze sanitarne, wyposażenie techniczne i przejścia. | Zrozumienie historii miejsca; nadal brak jawnej katastrofy. |
-| 4. Poziom –2 | Kataloguje sprzęt radzieckiego zaplecza, widzi **nietypowe skrzynie przenoszone z obszaru zamkniętej, strzeżonej klatki schodowej** prowadzącej głębiej. | Pozostaje sprzeczność: pomieszczenia i skrzynie nie pasują do dostępnego wykazu. **Brak wejścia Polaków na –3.** |
+| 4. Poziom –2 | Kataloguje sprzęt; obserwuje **zwykle wyglądające wojskowe skrzynie z numerami i oznaczeniami**, wynoszone ze **strzeżonej klatki schodowej**, do której nie uzyskuje dostępu. | Liczby i oznaczenia **nie odpowiadają przekazanemu Polakom spisowi**. Oficer ma obowiązek wszystko skatalogować, lecz nie ma uprawnień do tej strefy. **Brak wejścia na –3 i brak ujawnienia zawartości skrzyń.** |
 | 5. Spór i alarm | Personel próbujący alarmować ściera się z ukrywającymi zagrożenie; wartownicy ruszają do strefy, odzywają się alarmy i zamykają przejścia. | Inspekcja przypadkowo zbiega się z już narastającą katastrofą; **nie jest źródłem zakażenia**. |
 | 6. Pierwsza walka | Gracz, działając z Leszkiem, **zabiera AK-74 po poległym rosyjskim żołnierzu** i próbuje przebić się przez mroczny korytarz. | Krótka, silna scena pokazująca możliwości oficera, lecz także ograniczenia broni i amunicji w zderzeniu z zakażonymi. |
 | 7. Awaria parowa | Węzeł starej instalacji parowej ulega gwałtownej awarii: hałas, para, uderzenie, utrata orientacji; bohater doznaje urazu i traci przytomność. | Wiarygodnie zaakcentować wcześniej stan instalacji; **rodzaj uszkodzenia i dokładna reżyseria do dopracowania**. |
@@ -26,7 +26,7 @@
 
 ## 2. Leszek [KANON IMIENIA I LOSU]
 
-**[KANON]** Przyjaciel polskiego oficera nosi imię **Leszek**. Idzie z nim przez znaczną część prologu, rozmawiają i wspólnie wykonują oględziny, a podczas katastrofy Leszek ratuje oficera. **Znika po prologu**. Oficer sądzi później, że Leszek nie żyje, ale **Leszek przeżywa i wraca w finale, ratując Annę oraz oficera**.
+**[KANON]** Przyjaciel polskiego oficera nosi imię **Leszek** i **znają się od lat, zanim zaczyna się gra**. Idzie z nim przez znaczną część prologu, rozmawiają swobodnie i wspólnie wykonują oględziny, a podczas katastrofy Leszek ratuje oficera. **Znika po prologu**. Oficer sądzi później, że Leszek nie żyje, ale **Leszek przeżywa i wraca w finale, ratując Annę oraz oficera**.
 
 **[PROPOZYCJA wykonania]** Po awarii Leszek wyciąga przyjaciela z zagrożonego rejonu i zostawia w osłoniętym pomieszczeniu. Przypuszczalnie zostawia mu latarkę, a następnie znika, aby pomóc w innych działaniach. **Nie ustalono**, dokąd poszedł, jakie dokumenty zdobył ani jak opuścił kompleks. Gracz nie powinien widzieć jego przeżycia wprost; ślady pojawiają się stopniowo w późniejszej części gry.
 
@@ -50,7 +50,7 @@ Rosyjskie dowództwo udostępnia Polakom oficjalnie zgłoszone pomieszczenia **�
 
 ### Dlaczego AK-74 nie zostaje w ekwipunku po przebudzeniu?
 
-**[PROPOZYCJA]** Upuszcza karabinek podczas uderzenia i awarii parowej; broń zostaje za przeszkodą albo w uszkodzonym korytarzu. **Nie usuwać sprzętu bez pokazania zdarzenia** — gracz powinien rozumieć utratę. Pistolet pozostaje w kaburze lub w bezpośrednim zasięgu.
+**[OTWARTE — DWA WARIANTY AUTORA]** (A) Oficer podczas walki **zużywa całą dostępną amunicję do AK-74** i pozbywa się bezużytecznego w danej chwili karabinka podczas ewakuacji. (B) Podczas awarii parowej broń zostaje **poważnie mechanicznie uszkodzona**, np. przygnieciona fragmentem instalacji i niezdatna do strzelania. Samo lekkie uderzenie bronią o podłogę nie powinno jej niszczyć. **Nie usuwać sprzętu bez pokazania przyczyny** — gracz musi rozumieć, dlaczego po przebudzeniu nie ma sprawnego AK-74. Pistolet pozostaje w kaburze. Wybór A/B do dalszej pracy.
 
 ### Dlaczego zakrwawiony mundur nie znaczy od razu „zakażony”?
 
@@ -85,3 +85,10 @@ R-4 przenosi się przez kontakt z zakażoną krwią i płynami ustrojowymi, nie 
 - **[H39]** U.S. Army, *The Soviet Army: Troops, Organization, and Equipment*, FM 100-2-3 (1991) — AK-74 jako radzieckie uzbrojenie: https://irp.fas.org/doddir/army/fm100-2-3.pdf
 
 **Materiały muzealne i wojskowe wspierają zgodność sprzętu z epoką, nie są dowodem dla fikcyjnych wydarzeń w Miedziańsku.**
+
+## 8. Korekty autora — 6 listopada 2026
+
+- **[KANON] Leszek nie jest nowo poznanym kompanem.** To wieloletni przyjaciel polskiego oficera, obaj mają wspólną historię i naturalne porozumienie już w scenie wejścia do szpitala. Nie wyjaśniać graczowi całej znajomości sztucznym dialogiem ekspozycyjnym.
+- **[KANON]** Skrzynie przy klatce –2 mają zwykłe numery i oznaczenia wojskowe, lecz nie pokrywają się z przekazanym spisem rzeczy do katalogowania. Oficer zauważa sprzeczność i ma obowiązek ją wyjaśnić, ale nie ma prawa wejść do strzeżonej strefy. To może być opcjonalna lub główna zagadka inspekcyjna; dokładna konstrukcja zagadki do decyzji.
+- **[KANON]** Zdobyczny AK-74 pochodzi od poległego rosyjskiego wojskowego. Poprawne karabinki polskie z epoki to także AKM/AKMS i wz. 88 Tantal [H40]; nie mylić pochodzenia rosyjskiego egzemplarza z polskim etatowym uzbrojeniem.
+- **[OTWARTE]** Nie znika „magicznie” broń długa po przebudzeniu: przyczyną może być **wyczerpanie amunicji** albo **poważne uszkodzenie mechanizmu w awarii węzła parowego**. Gracz musi zobaczyć powód. Nie wybierać wariantu bez akceptacji autora.
