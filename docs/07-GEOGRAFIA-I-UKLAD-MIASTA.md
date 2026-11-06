@@ -19,8 +19,9 @@
 **[PROPOZYCJA]** Wzniesienia na północy i południu, dolina biegnąca z **zachodu na wschód**. Niewielka rzeka miejska, roboczo **Miedzica** (nazwa niezatwierdzona), przepływa przez Starówkę i stanowi naturalny ciąg spacerowy, a miejscami utrudnia ruch pojazdów. Nie musi być szeroka jak Odra: wymaga wystarczających skarp i koryta, by mosty były ważnymi węzłami.
 
 - **Zachodnia część doliny:** dawne szyby, częściowo zalane wyrobiska pod współczesnymi magazynami i zakładami. Woda ze starych kopalń wynika z naturalnego napływu wód gruntowych; nie tworzymy bez badania nieprawdopodobnej podziemnej „rzeki” pod całym miastem.
-- **Północny brzeg:** Stare Miasto i częściowo ocalała reprezentacyjna zabudowa. Kwartał rosyjski na bardziej suchym, lekko wyniesionym terenie na północnym wschodzie (wygodne do ochrony i funkcjonowania rodzin wojskowych).
-- **Południowy brzeg:** główna oś kolejowa, dworzec, zakłady przemysłowe, osiedle robotnicze.
+- **Oba brzegi w centrum:** Stare Miasto historycznie obejmuje **oba brzegi rzeki**. Rynek i część kamienic leżą na północnym brzegu, zaś na południowym ciągną się stare ulice rzemieślnicze, zabudowa nadrzeczna i historyczny trakt do dworca. Dopiero dalej na południe leży powojenny pas przemysłowo-kolejowy.
+- **Północny wschód:** rosyjski kwartał na bardziej suchym, lekko wyniesionym terenie (wygodne do ochrony i funkcjonowania rodzin wojskowych).
+- **Południowa część doliny:** za południowym fragmentem Starego Miasta znajdują się oś kolejowa, duży dworzec, zakłady przemysłowe i osiedle robotnicze.
 - **Wschodnia, śródmiejska część południowego brzegu:** duży szpital przy głównej drodze oraz stosunkowo blisko przemysłu i jednego z mostów. Przed szpitalem ruch uliczny; odrębny wjazd techniczny rosyjskiego skrzydła od strony podwórza.
 
 Nazwa rzeki, przepływ i dokładny przebieg granic dzielnic to **szkic**, nie zatwierdzone nazewnictwo.
@@ -33,12 +34,13 @@ Nazwa rzeki, przepływ i dokładny przebieg granic dzielnic to **szkic**, nie za
                                 dawna szkoła → sztab
                                 wille, szkoła, stołówka
                                      | droga służbowa
-        [STARE MIASTO]----[RYNEK]----+-- dzielnice mieszkalne
-        hotel / muzeum    kamienice     i bloki po 1945
-                ╲         i bloki
-ZACHÓD --------- ~~~~ RZEKA przez centrum ~~~~ -------- WSCHÓD
-         dawny  ╲        | MOST A |       | MOST B |
-         nurt    ╲       |        |       |        |
+        [STARE MIASTO: PÓŁNOC]--[RYNEK]--+-- dzielnice mieszkalne
+         hotel / muzeum        kamienice     i bloki po 1945
+                 ╲            i bloki
+ZACHÓD --------- ~~~~ RZEKA PRZEZ STARÓWKĘ ~~~~ -------- WSCHÓD
+         dawny   ╲           MOST A        MOST B
+         nurt     ╲        [STARE MIASTO: POŁUDNIE]
+                     stare ulice nadrzeczne / trakt do dworca
  [DAWNE KOPALNIE]--[MZE / FABRYKI]--[SZPITAL MIEJSKI]-- dojazd
  zalane wyrobiska    strefa         polska + rosyjska    do trasy
                      przemysłowa    część / laboratorium
@@ -56,7 +58,7 @@ ZACHÓD --------- ~~~~ RZEKA przez centrum ~~~~ -------- WSCHÓD
 
 | ID | Obszar | Historyczne uzasadnienie | Co można zobaczyć w 1992 r. | Funkcja dla gry |
 |---|---|---|---|---|
-| ZON-01 | Rynek i Stare Miasto | Festung Kupfertal, nierówna odbudowa po 1945 | gęsta mozaika kamienic i bloków, hotel, ratusz, małe muzeum | początek dziennikarki, cywile, informatorzy, szybkie zmiany stanu |
+| ZON-01 | Rynek i Stare Miasto (oba brzegi) | Festung Kupfertal, nierówna odbudowa po 1945 | gęsta mozaika kamienic i bloków, hotel, ratusz, małe muzeum, nadrzeczne uliczki | początek dziennikarki, cywile, informatorzy, szybkie zmiany stanu |
 | ZON-02 | Nabrzeże i most historyczny | centrum nad rzeką, dawne trakty | skarpy, bulwar, mosty, schody na ulicę | orientacja, alternatywy piesze, kontrola przepraw |
 | ZON-03 | Dworzec i place kolejowe | węzeł komunikacyjny XIX i XX w. | hala dworcowa, tunele pasażerskie, perony, magazyny, bocznice | dramatyczna żywa lokacja, ewakuacja, zablokowane pociągi |
 | ZON-04 | MZE i pas przemysłowy | wygaszone złoża miedzi i zakłady PRL | hale, kominy, magazyny, stara kopalniana infrastruktura | walka/ukrywanie, ocaleni, narzędzia, przejścia techniczne |
