@@ -122,3 +122,6 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
 - **[H37] Muzeum Obrony Wybrzeża — mundur wz. 89 „Puma”.** Przejściowe kamuflaże z końca PRL i początku III RP; „Pantera” wz. 93 weszła później. https://muzeum.swinoujscie.pl/katalog-zabytkow/katalog-zabytkow/wyposazenie-osobiste/mundur-we-wzorze-89-puma/
 
 **Interpretacja fabularna:** istnienie historycznej 6 BDSz, P-83 i mundurów nie poświadcza istnienia fikcyjnego kapitana ani jego udziału w inspekcji Miedziańska. Stopień, personalia, przydział i inspekcja są autorską propozycją.
+
+- **[H38] Kolekcja prywatna z fotografiami muzealnymi — kurtka „bechatka” wz. 89 „Puma”, egzemplarz wyprodukowany w 1991 r.** Potwierdza możliwość użycia takiej kurtki w 1992 r. https://myvimu.com/exhibit/54826119-kurtka-bechatka-wz-89
+- **[H39] U.S. Army, FM 100-2-3, *The Soviet Army: Troops, Organization, and Equipment* (6.06.1991).** AK-74, AKS-74 i ich powszechność w siłach radzieckich. Nie potwierdza konkretnej broni każdego żołnierza fikcyjnego garnizonu. https://irp.fas.org/doddir/army/fm100-2-3.pdf

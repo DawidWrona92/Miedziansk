@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.15  
+**Wersja:** 0.16  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -91,3 +91,7 @@ Dziennikarka rozwiązuje **zagadki detektywistyczne** za pomocą notesu, aparatu
 ### Etap 05 — stan wersji 0.15 (6.11.2026)
 
 **[KANON]** Imię i nazwisko dziennikarki: **Anna Wysocka**. Nie ma przed spotkaniem z oficerem praktyki strzeleckiej, jej przewagą jest detektywistyczna rozgrywka, aparat, notes i znajomość skrótów. Nie rozpisujemy jeszcze dogłębnej psychologii żadnej z dwojga grywalnych postaci; zrobimy to dopiero po poznaniu ich kompetencji i możliwości konfliktu relacyjnego. **[PROPOZYCJA]** Karta polskiego oficera z Krakowa w `14-OFICER-POSTAC-I-GAMEPLAY.md`: sugerowany kapitan Piotr Bielecki, wiek 34–37 lat, możliwe związki z 6 Brygadą Desantowo-Szturmową, zadania w polskim zespole inspekcyjnym i historyczny sprzęt. Imię, stopień i pełna historia oficera nie zostały zatwierdzone.
+
+### Prolog oficera i Leszek — v0.16
+
+Zatwierdzone przez autora: **Leszek** jako imię przyjaciela; wz. 89 „Puma” z bechatką Puma; szkolenie oficera w całym arsenale gry; większa siła, wytrzymałość i prędkość/długość biegu względem Anny. Długi, pozornie spokojny początek w szpitalu (dokumenty, rosyjski sektor, –1, –2), tajemnicze skrzynie z zamkniętej klatki schodowej, konflikt i pierwsza walka z użyciem **AK-74 po poległym rosyjskim żołnierzu**. Awaria parowa i samotna pobudka: ból głowy, zakrwawiony mundur, pistolet, dwa magazynki, latarka obok. **–3 dopiero później**. Dokładna trasa, tempo, dialogi i sceny w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md` pozostają do testów. Piotr Bielecki i kapitan nadal propozycjami.

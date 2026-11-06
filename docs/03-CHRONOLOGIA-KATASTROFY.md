@@ -6,7 +6,7 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 
 | Czas | Oficer / laboratorium | Dziennikarka / miasto | Stan przestrzeni |
 |---|---|---|---|
-| **13.10 17:00** | Prolog: polska inspekcja trafia na nasilenie istniejącego kryzysu w technicznym zapleczu **–2**; pojawienie się Polaków może podsycić konflikt, ale nie powoduje zakażenia. Dochodzi do ataków i awarii; przyjaciel ratuje oficera, po prologu znika (los OTWARTY). Poziom **–3** zostaje na późny etap gry | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
+| **13.10 ok. 17:00** | Po wcześniejszym spokojnym rozpoczęciu inspekcji szpitala, rosyjskiego skrzydła, –1 i –2, oficer wraz z **Leszkiem** trafiają na załamanie kontroli. Dochodzi do ataków, czasowego użycia **AK-74** i awarii węzła parowego. Leszek ratuje oficera i znika; **przeżywa i wróci w finale**, choć oficer tego nie wie. **–3** pozostaje na późną część gry | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
 | **13.10 19:00** | Nieprzytomny albo ukryty w części schronu | Rozmowa w hotelowym barze; pierwsza gwałtowna scena | Pierwsze syreny; mieszkańcy nadal nie rozumieją zagrożenia |
 | **13.10 21:00** | Odzyskuje przytomność; próbuje wydostać się z kompleksu | Próbuje zdobyć informacje i bezpieczną drogę przez centrum | Lokalna policja i pogotowie działają, pojedyncze blokady |
 | **13.10 23:00** | Wciąż w kompleksie lub przy wyjściu | Widzi nasilające się działania służb | Strefa szpitala zamykana; pierwsze wojskowe punkty kontrolne; niepełny kordon |
@@ -55,3 +55,7 @@ Dodatkowa robocza rozpiska znajduje się w `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.
 ### Zatwierdzony wariant finału przyjaciela (6.11.2026)
 
 Wcześniejszy wpis **„warianty otwarte: przyjaciel ginie / przeżywa”** został rozstrzygnięty przez autora na rzecz **wariantu B**. Przyjaciel **przeżywa prolog, pozostaje zaginiony przez znaczną część rozgrywki, oficer uważa go za zmarłego, a w finale powraca i ratuje dwoje protagonistów**. Dopuszczone jako kierunki fabularne są dyskretny kontakt radiowy (CB), wydostanie się z dokumentami i wynikami dotyczącymi Rubieży, a także pomoc wpływowego wojskowego oraz gotówka. Dokładne miejsce i moment ratunku, stan kordonu, liczba pośredników i skutek przekazania dowodów pozostają otwarte. Nie wpisywać finałowego ratunku jako już rozplanowanej sceny.
+
+### Uszczegółowiony prolog oficera (v0.16)
+
+**[KANON]** Przed załamaniem sytuacji gracz wchodzi do miejskiego szpitala, ogląda rosyjski sektor, dokumenty, poziom –1 i katalogowane zaplecze –2. Rosyjska eskorta towarzyszy Polakom. Strzeżona klatka schodowa oraz skrzynie z niezgodnym spisem zapowiadają późne odkrycie poziomu –3. **[KANON]** Przyjaciel nazywa się **Leszek**. Po kryzysie i krótkim użyciu AK-74 znalezionego przy poległym rosyjskim wojskowym następuje awaria węzła parowego. Oficer po utracie przytomności budzi się zakrwawiony, z bólem głowy, z tylko pistoletem, dwoma magazynkami i latarką leżącą obok. Leszek jest zaginiony, przeżywa i wróci w finale. **[PROPOZYCJA]** Konkretne minuty, utrata karabinka i przyczyna awarii. Zob. `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`.

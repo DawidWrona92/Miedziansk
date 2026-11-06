@@ -133,3 +133,7 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 ## 13. Zatwierdzenie Anny i początek karty oficera (6.11.2026)
 
 **[KANON]** Dziennikarka to **Anna Wysocka**; nie posiada praktycznej wprawy w użyciu broni palnej i przed spotkaniem z oficerem jej nie ma. Sposób prowadzenia śledztwa, analogowy aparat, notes i miejskie skróty pozostają jej rozpoznawalnymi kompetencjami. **[ODROCZONE]** Dogłębna psychologia, rodzina i szczegółowa dynamika relacji Anny z oficerem będą tworzone dopiero po zatwierdzeniu obu kart postaci i głównych scen. **[PROPOZYCJA]** Pierwszy projekt oficera znajduje się w `14-OFICER-POSTAC-I-GAMEPLAY.md` i nie jest jeszcze zatwierdzonym profilem, poza wcześniej zaakceptowanym pochodzeniem z Krakowa, rodzajem wojsk i zadaniami w Miedziańsku.
+
+## 14. Leszek i scena rozdzielenia (6.11.2026)
+
+**[KANON]** Imię wojskowego przyjaciela oficera: **Leszek**. Towarzyszy oficerowi podczas spokojnej inspekcji szpitala i poziomów –1 i –2, katalogowania wyposażenia oraz podczas narastającego kryzysu. Po utracie kontroli i awarii węzła parowego ratuje przyjaciela, znika, ale przeżywa i wraca w finale. Oficer po przebudzeniu znajduje tylko pistolet, dwa magazynki i pobliską latarkę. **[OTWARTE]** Nazwisko Leszka, jego motywacja do odejścia, własna misja z dokumentami Rubieży i ślady dla gracza. Uzgodniony prolog szczegółowo opisano w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`. Imię oficera „Piotr Bielecki” wciąż pozostaje propozycją.

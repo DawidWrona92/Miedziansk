@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.15  
+**Wersja:** 0.16  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -48,8 +48,8 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - Polski oficer wojsk powietrznodesantowych **pochodzący z Krakowa, od kilku dni przebywający w Miedziańsku** jako przedstawiciel Wojska Polskiego przy wycofywaniu rosyjskich wojsk [KANON]. Szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
 - Ma nadzorować/opiniować wycofywanie rosyjskiego personelu i wyposażenia. Nie zna prawdziwej funkcji laboratorium.
 - Rozpoczyna prolog z przyjacielem podczas inspekcji, **w radzieckim zapleczu na poziomie –2**, gdzie na skutek wcześniej istniejącego kryzysu dochodzi do utraty kontroli. Bohater zostaje ranny/traci przytomność; **ratuje go przyjaciel**, który **znika po prologu**. **[KANON] Przyjaciel przeżywa, lecz oficer sądzi, że umarł; w finale przyjaciel wraca i ratuje oboje bohaterów.** Szczegóły ucieczki i kordonu otwarte.
-- Biegły w obsłudze broni palnej, taktyce i procedurach.
-- **Otwarte:** imię, stopień, historia służby, odpowiedzialność za wydarzenia z lat 80., los kolegi. Przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią, nie zatwierdzonym kanonem.
+- **[KANON]** Przeszkolony w **każdej broni palnej występującej w grze**; silniejszy i wytrzymalszy od Anny, może biec szybciej i dłużej. Mundur **wz. 89 Puma** i **bechatka w Pumie**. Bez nieludzkich parametrów; szczegóły balansu do etapu 08.
+- **Otwarte:** imię i nazwisko oficera („Piotr Bielecki” tylko propozycja), stopień (kapitan — propozycja), historia służby i wydarzenia z lat 80.; przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią. **[KANON] Przyjaciel nazywa się Leszek, przeżywa i wraca w finale**; jego nazwisko i historia pozostają otwarte.
 
 ### Relacja
 - Początek: nieufność i uprzedzenia. Potem wymuszona współpraca, otwarty konflikt moralny oraz ewentualny wzajemny szacunek.
@@ -146,3 +146,11 @@ Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijaj�
 ## 20. Anna Wysocka — nazwa zatwierdzona, psychologia odroczona (6.11.2026)
 
 **[KANON] Anna Wysocka** — pochodząca z Miedziańska dziennikarka mieszkająca we Wrocławiu. Zna miasto i prowadzi śledztwo z użyciem analogowego aparatu, notesu i dedukcji. Przed spotkaniem z polskim oficerem **nie posiada broni palnej ani praktycznej wprawy strzeleckiej**. Przyjmujemy charakterystyczną dla realiów PRL różnicę pomiędzy obowiązkowym doświadczeniem wojskowym mężczyzn i brakiem takiego powszechnego doświadczenia kobiet, ale nie rozszerzamy jej na absolutne twierdzenia o wszystkich kobietach. Sam szkolny przedmiot PO nie jest równoznaczny z praktyczną służbą i znajomością broni. **[OTWARTE]** psychologia Anny, jej głębsze motywacje i konflikty osobiste zostają do wspólnego etapu z oficerem, gdy będzie można zaplanować dynamikę relacji. Karta oficera to nadal propozycja `14-OFICER-POSTAC-I-GAMEPLAY.md`.
+
+## 21. Oficer — wygląd, sprawność i prolog (6.11.2026)
+
+**[KANON]** Mundur **wz. 89 „Puma”** i **ocieplana kurtka „bechatka” także we wzorze Puma**. Oficer ma kompetencje w obsłudze całego arsenału broni palnej dostępnego graczowi, jest silniejszy i wytrzymalszy od Anny Wysockiej, porusza się biegiem szybciej i dłużej. Nie posiada nadludzkiej sprawności i nie ma systemu awansowania umiejętności przez 36 godzin.
+
+**[KANON]** Przyjaciel to **Leszek**. Spokojny prolog: wejście do szpitala, kontrola rosyjskiego sektora, przegląd dokumentów, prośba o zejście do piwnic, poziom –1 z rosyjskim oficerem, dalej radziecki poziom –2, katalogowanie sprzętu i skrzyń wynoszonych z zamkniętej klatki schodowej. Narasta spór personelu; wybucha kryzys, oficer korzysta z **AK-74 poległego rosyjskiego żołnierza**, próbuje wydostać się z Leszkiem i traci przytomność podczas awarii **węzła parowego**. Po przebudzeniu ma ból głowy, zakrwawiony mundur, **pistolet i dwa magazynki**, a na ziemi obok leży latarka. Leszka nie ma. Serce Rubieży na –3 pozostaje na późny etap.
+
+**[PROPOZYCJA]** Typ pistoletu P-83 Wanad, długość i kompletne sceny, szczegółowy przebieg uszkodzenia parowego, utrata AK-74 i ślady pozostawione przez Leszka. Nowy szczegółowy dokument: `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`.

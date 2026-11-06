@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.15 — 6 listopada 2026  
+**Wersja:** 0.16 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -31,6 +31,8 @@
 16. [`docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`](docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md) — dziennikarka: zagadki detektywistyczne, analogowy aparat, notes, ukryte ścieżki i brak broni przed spotkaniem z oficerem. Biografia nadal otwarta.
 
 17. [`docs/14-OFICER-POSTAC-I-GAMEPLAY.md`](docs/14-OFICER-POSTAC-I-GAMEPLAY.md) — projekt oficera z Krakowa: historyczna 6 Brygada Desantowo-Szturmowa, proponowany kapitan Piotr Bielecki, wojskowe kompetencje, sprzęt 1992 i prolog. Imię, stopień oraz biografia do zatwierdzenia.
+
+18. [`docs/15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`](docs/15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md) — uzgodniony przebieg prologu: Leszek, spokojna inspekcja szpitala i poziomów –1/–2, skrzynie z zakazanej klatki, AK-74, awaria parowa i przebudzenie. Dokładne sceny nadal projektowe.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -126,3 +128,12 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - **[KIERUNEK POSTACI]** Anna nie ma praktycznej wprawy w używaniu broni palnej. Program szkolnego przysposobienia obronnego w PRL nie jest dowodem jej umiejętności strzeleckich; nie była objęta obowiązkową służbą wojskową jak mężczyźni.
 - **[PROPOZYCJA]** Nowa karta polskiego oficera z Krakowa, historyczne tło 6 Brygady Desantowo-Szturmowej, możliwy stopień kapitana i wyposażenie z 1992 r. w `14-OFICER-POSTAC-I-GAMEPLAY.md`.
 - Zrezygnowano z ustalania szczegółowej psychologii Anny i oficera przed uzgodnieniem mechanik obu i dynamiki ich współpracy.
+
+## Zmiany w wersji 0.16
+
+- **[KANON]** Przyjaciel oficera otrzymał imię **Leszek**, nazwisko otwarte.
+- **[KANON rozgrywki]** Oficer jest przeszkolony w posługiwaniu się każdą bronią palną obecną w grze, jest silniejszy i wytrzymalszy od Anny, biega szybciej i dłużej (bez nadludzkich możliwości).
+- **[KANON wyglądu]** Mundur wz. 89 Puma i ocieplana bechatka także w kamuflażu Puma — udokumentowane dla epoki.
+- **[KANON szkieletu]** Powolny początek inspekcji w szpitalu → rosyjski sektor → niemiecki poziom –1 → radziecki poziom –2; katalogowanie sprzętu i podejrzane skrzynie ze strzeżonej klatki; spór personelu, ataki, AK-74 podniesiony po poległym rosyjskim żołnierzu, awaria węzła parowego.
+- **[KANON]** Po odzyskaniu przytomności oficer jest sam, ma zakrwawiony mundur, ból głowy, tylko pistolet i dwa magazynki, a obok leży latarka. Los/obecność Leszka pozostają ukryte dla oficera do finału.
+- Rozpiska scen w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md` odróżnia zatwierdzone zdarzenia od pomysłów implementacyjnych.

@@ -1,6 +1,6 @@
 # Etap 05 — oficer Wojska Polskiego: postać i rozgrywka
 
-**Status: KANON TŁA / PROPOZYCJA KARTY POSTACI.**
+**Status: KANON TŁA, WYGLĄDU, OGÓLNEJ SPRAWNOŚCI I PROLOGU / PROPOZYCJA PERSONALII I SZCZEGÓŁÓW.**
 **Data:** 6 listopada 2026.
 **Źródła świata:** `00-FUNDAMENTY-I-KANON.md`, `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`, `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`, `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`.
 **Uwaga autorska:** nie projektować jeszcze głębokiej psychologii oficera ani dziennikarki. Dynamika ich relacji powinna wyniknąć z ustalenia obu funkcji w grze, a potem ze scenariusza.
@@ -46,7 +46,7 @@ Przed wybuchem epidemii może zauważyć **braki w spisach, zamknięte pomieszcz
 
 - **[FAKT]** Pistolet **P-83 Wanad** był przyjęty do uzbrojenia Wojska Polskiego i produkowany od 1984 r. [H36]. To wiarygodny **proponowany** pistolet oficera w 1992 r.; równie ważne będą warunki noszenia go podczas oficjalnych oględzin. Broń przydzielona do misji nie daje mu nieograniczonej amunicji ani prawa noszenia karabinu szturmowego w każdym korytarzu.
 - **[FAKT]** W 1992 r. nie stosować jako typowego wzoru munduru polowego współczesnej „Pantery” **wz. 93**. Wiarygodne tło to **moro wz. 68** i **Puma wz. 89** (wybrane sorty i okres przejściowy) [H37].
-- **[PROPOZYCJA]** Podczas oficjalnych oględzin strój służbowy odpowiedni do charakteru wizyty, z dokumentami i przepustką. Dokładny krój oraz prawo noszenia broni w rosyjskim skrzydle do ustalenia przy prologu.
+- **[KANON]** Mundur polowy **wz. 89 Puma** i ocieplana **bechatka również w kamuflażu Puma**. Dokumenty i przepustka podczas oględzin. Dokładne elementy oporządzenia oraz prawo noszenia broni w rosyjskim skrzydle do ustalenia przy prologu.
 - **[ZAKAZ ANACHRONIZMÓW]** Brak współczesnego wyposażenia sił specjalnych, GPS w kieszeni, automatycznego cyfrowego łączenia informacji, modernistycznych celowników czy sprzętu wz. 93 użytego „z automatu”.
 
 ## 5. Prolog, przyjaciel, Rubież [KANON SZKIELETU]
@@ -86,3 +86,11 @@ Najpierw ustalimy **obu protagonistów i ich możliwości w grze**, a potem przy
 - [H35] Oficjalna historia 6 Brygady Powietrznodesantowej o poprzednich nazwach i reorganizacji: https://www.wojsko-polskie.pl/6bpd/6-pdpd-i-6-bdsz/
 - [H36] Materiał szkoleniowy Policji o pistolecie P-83 Wanad; oraz Muzeum Polskich Formacji Granicznych o historycznym uzbrojeniu: https://muzeumsg.strazgraniczna.pl/muz/galeria-3d/uzbrojenie/bron-1945-1990/9086%2CBron-1945-1990.html
 - [H37] Muzeum Obrony Wybrzeża, mundur polowy wz. 89 „Puma”, wz. 68 i wz. 93: https://muzeum.swinoujscie.pl/katalog-zabytkow/katalog-zabytkow/wyposazenie-osobiste/mundur-we-wzorze-89-puma/
+
+## 8. Zatwierdzony styl gry i nowa sekwencja prologu (6.11.2026)
+
+**[KANON]** Oficer obsługuje każdą broń palną przewidzianą w grze bez dodatkowego rozwijania biegłości, jest **silniejszy, bardziej wytrzymały i biega szybciej oraz dłużej** niż Anna. Wciąż ma ludzkie ograniczenia, obrażenia i zmęczenie. Nosi **mundur polowy wz. 89 Puma i bechatkę Puma**.
+
+**[KANON]** Towarzyszy mu wojskowy przyjaciel **Leszek**. Gracz przechodzi spokojną inspekcję: szpital, rosyjskie skrzydło, kontrola dokumentów, poziom –1 z rosyjskim oficerem, następnie katalogowanie sprzętu na radzieckim –2 i obserwacja dziwnych skrzyń przenoszonych z zamkniętej klatki. Trwa istniejący od dni konflikt, dochodzi do ataków. Oficer podnosi **AK-74** po poległym rosyjskim żołnierzu i wraz z Leszkiem próbuje uciec mrocznym korytarzem. **Awaria węzła parowego**, uraz i utrata przytomności. Po przebudzeniu: ból głowy, zakrwawiony mundur, **pistolet, dwa magazynki i latarka leżąca na ziemi obok**. Leszka nie ma; wróci on dopiero w finale. Kompleks –3 odkryjemy później.
+
+**[PROPOZYCJA]** Typ pistoletu P-83, szczegółowy scenariusz, liczba przeciwników i amunicji, przyczyna awarii pary, scena utraty AK-74, źródło krwi i los Leszka do finału. Dokument scen: `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`.
