@@ -32,3 +32,6 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 - Dlaczego rosyjski dowódca nie ewakuuje wszystkiego przed 17:00? Tajny, nielegalny albo politycznie trudny ładunek i spóźnione przygotowania.
 - Dlaczego większość miasta nadal żyje rankiem? Infekcja rozwija się ogniskowo, służby i cywile miejscami skutecznie się bronią.
 - Dlaczego żołnierz nie może po prostu ujawnić stopnia i wyjechać przez kordon? Możliwy status „zakażony/niezidentyfikowany”, brak łączności, sprzeczne komendy — **propozycje, nie rozwiązanie kanoniczne**.
+## Aneks — podziemny program (propozycja etapu 04)
+
+W dokumencie `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md` opisano **roboczy** model wcześniejszych, nielicznych przypadków z 10–12 października oraz większego incydentu 13 października podczas likwidacji fikcyjnego ośrodka. Godziny kampanii (13–15 października) pozostają zgodne z poprzednią ramą; **żadne konkretne źródło zakażenia ani reguła transmisji nie stają się kanonem bez decyzji autora**. Osobisty udział bohaterów zostaje w późniejszej części III.

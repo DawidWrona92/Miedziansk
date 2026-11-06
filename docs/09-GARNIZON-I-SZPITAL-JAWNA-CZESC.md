@@ -1,6 +1,6 @@
 # Etap 03 — rosyjski garnizon i Szpital Miejski: jawna, realistyczna część świata
 
-**Status: PROPOZYCJA do zatwierdzenia przez autora.**  
+**Status: ZATWIERDZONA KONCEPCJA przez autora 6.11.2026.** Liczby, nazwy szczegółowe i robocze rekonstrukcje pozostają parametrami projektowymi, jeśli nie zaznaczono inaczej.  
 **Stan badań:** 6 listopada 2026 r.  
 **Miejsce i czas:** fikcyjny Miedziańsk, województwo legnickie, 13 października 1992 r.  
 **Zakres:** oficjalny garnizon rosyjski, cywilne życie, szpital polsko-rosyjski, stosunki prawno-administracyjne i przekazywanie obiektów. **Bez projektu tajnego laboratorium, patogenu ani przyczyny epidemii** — zostają na etap 04.
@@ -234,3 +234,7 @@ Elementy te są codzienne, oficjalne i możliwe do pokazania bez żadnego parano
 - [H25] Komenda Główna PSP — organizacja służby 1.07.1992: https://www.gov.pl/web/kgpsp/historia-psp
 - [H26] Archiwum Państwowe we Wrocławiu — przekazywanie obiektów: https://www.wroclaw.ap.gov.pl/sites/default/files/koniec-malej-moskwy/index.html
 - [H2] IPN, wychodzenie ostatniej jednostki bojowej 28.10.1992; [H6] ustawa o Policji 1990; odnośniki również w `04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`.
+
+## 14. Decyzja autora (6.11.2026)
+
+Autor zatwierdził realizm oficjalnego garnizonu, Kwadratu i wspólnego szpitala. Ten dokument pozostaje opisem **jawnej warstwy świata**. Tajny program, jego przeznaczenie i przyczyna katastrofy są opracowywane jako propozycja w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`; osobisty udział bohaterów dopiero w części III.

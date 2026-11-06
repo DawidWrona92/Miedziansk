@@ -226,3 +226,7 @@ Te napięcia mają istnieć już **przed** zakażeniami. Epidemia je wyostrza, z
 ## Aneks do historii — korekta układu miasta (6.11.2026)
 
 Powyższe ustalenia wprowadzają wojenne *Festung Kupfertal*, zniszczenie większości starego centrum, wypełnienie luk modernistyczną zabudową powojenną, rzekę w śródmieściu i zalane kopalnie przy pasie fabrycznym. Najważniejsza korekta: **nie ma odległego szpitala wyłącznie radzieckiego**; istnieje **jeden zasadniczy szpital miejski z wydzielonym, pilnowanym skrzydłem rosyjskim**, blisko centrum i przemysłu. Historia jego wspólnej eksploatacji wymaga później osobnego uzasadnienia prawnego i administracyjnego. Szczegółowy plan przestrzenny: `07-GEOGRAFIA-I-UKLAD-MIASTA.md`.
+
+## Uzupełnienie — podziemia i historyczny rok 1992
+
+Dokument `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md` proponuje tajny, niewielki program ulokowany w radzieckiej rozbudowie poniemieckiego schronu. Inspiracją polityczną są **rzeczywiste deklaracje o zakończeniu radzieckiego ofensywnego programu biologicznego w 1992 r.** To nie jest historyczny dowód, że w rzeczywistym legnickim szpitalu lub w Polsce prowadzono takie badania; cały program w Kupfertal/Miedziańsku jest fikcyjny. Zmiany proponowane w etapie 04 wymagają akceptacji autora.

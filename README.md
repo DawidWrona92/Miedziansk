@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.7 — 6 listopada 2026  
+**Wersja:** 0.8 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -22,6 +22,8 @@
 11. [`docs/maps/layout_1992.json`](docs/maps/layout_1992.json) — metryczny model układu miasta.
 
 12. [`docs/09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`](docs/09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md) — etap 03: historycznie wiarygodna, jawna organizacja garnizonu i szpitala (projekt do zatwierdzenia).
+
+13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: projekt ukrytego ośrodka i zarzewia epidemii, **do zatwierdzenia**; powiązania bohaterów w odrębnej części III.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -64,3 +66,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Autor zatwierdził metryczny układ Miedziańska i odległości; **etap 02 zakończony** na poziomie mapy koncepcyjnej. Konkretny whitebox ulic pozostaje zadaniem level designu, a nie warunkiem cofającym zatwierdzenie.
 - Przemieszczenie między lokacjami może odbywać się pieszo, krótkim przejazdem samochodem lub przeskokiem narracyjnym/cutscenką; nie wymaga pełnej symulacji każdego kilometra.
 - Rozpoczęto **etap 03**, w którym oddzielnie przygotowano realistyczną, jawną organizację garnizonu, szpitala i kompetencji polsko-rosyjskich, bez projektowania tajnego laboratorium i patogenu.
+
+## Zmiany w wersji 0.8
+
+- Autor zatwierdził realistyczną, jawną część garnizonu i Szpitala Miejskiego (etap 03).
+- Rozpoczęto etap 04: tajny podziemny program. Nowa nazwa „Rubież”, szczegóły badań, dwufalowa eskalacja i koncepcja zakażonych są **propozycjami** wymagającymi akceptacji.
+- Historycznym punktem odniesienia są rzeczywiste wydarzenia kwietnia–września 1992 r. wokół zakończenia radzieckiego programu biologicznego. Nie są dowodem na tajne prace w Legnicy.
+- Projekt osobistego uwikłania dziennikarki i oficera w program został świadomie przesunięty do części III.

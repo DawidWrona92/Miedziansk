@@ -92,3 +92,16 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
   https://www.wroclaw.ap.gov.pl/sites/default/files/koniec-malej-moskwy/index.html
 
 **Zastrzeżenie:** model jednego szpitala z polskim i rosyjskim skrzydłem oraz lokalny etat garnizonu są fikcją. Wykorzystanie odpowiednich realiów prawnych i obyczajowych nie zamienia ich w potwierdzone zdarzenia historyczne.
+
+## Źródła etapu 04 — kontekst biologicznych programów ZSRR i rok 1992
+
+- **[H27] National Defense University, Raymond A. Zilinskas (2016), „The Soviet Biological Weapons Program and Its Legacy in Today’s Russia”.** Tajny program Biopreparat, zakres prac i podział wiedzy; *nie* informacja o polskiej placówce.
+  https://wmdcenter.ndu.edu/Publications/Publication-View/article/848298/the-soviet-biological-weapons-program-and-its-legacy-in-todays-russia/msclkid/the-soviet-biological-weapons-program-and-its-legacy-in-todays-russia/
+- **[H28] National Research Council (2007), „The Biological Threat Reduction Program ...”, rozdział 1.** Dziedzictwo programu radzieckiego i problemy jego likwidacji.
+  https://www.nationalacademies.org/read/12005/chapter/4
+- **[H29] „The Washington Post”, R. Jeffrey Smith, 14.09.1992.** Współczesna relacja o rozmowach rosyjsko-amerykańsko-brytyjskich wokół zakończenia nielegalnych prac i przyszłych inspekcji.
+  https://www.washingtonpost.com/archive/politics/1992/09/15/russia-agrees-to-inspection-of-its-biological-research-facilities/242e23e9-ac5a-4225-914f-f05947ccb5e3/
+- **[H30] Departament Stanu USA (2020), coroczny raport zgodności ze zobowiązaniami rozbrojeniowymi.** Dekret kwietniowy i tło rozmów z września 1992.
+  https://2017-2021.state.gov/2020-adherence-to-and-compliance-with-arms-control-nonproliferation-and-disarmament-agreements-and-commitments-compliance-report-2/
+
+**Granica fakt/fikcja:** nie ma wiarygodnego potwierdzenia programu biologicznego w realnym szpitalu Legnicy ani w fikcyjnym Miedziańsku; bohaterowie, kryptonim „Rubież”, sztucznie opisane efekty i katastrofa są wyłącznie elementami gry. Opisy biologii to science fiction, nie wiedza medyczna i nie procedury eksperymentalne.
