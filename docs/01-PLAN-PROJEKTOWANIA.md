@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.10  
+**Wersja:** 0.11  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -18,8 +18,8 @@
 | 01 | **ZATWIERDZONY ZARYS** | **Historia Miedziańska: geneza przed 1930 i lata 1930–1992** | Dawne wydobycie miedzi i pochodzenie nazwy, przemysł, garnizon, szpital, rok 1992, małe muzeum | Oś czasu bez sprzeczności, co najmniej 8 lokacji wynikających z historii, decyzja o profilu gospodarczym i muzeum |
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
-| 04 | **W TOKU — SCIENCE FICTION R-4 W PROJEKCIE** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
-| 05 | DO ZROBIENIA | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
+| 04 | **ZATWIERDZONY KIERUNEK — PARAMETRY SZCZEGÓŁOWE DO ROZWINIĘCIA** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
+| 05 | **W TOKU — PROPOZYCJA DO UWAG AUTORA** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
 | 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
 | 08 | DO ZROBIENIA | Mechanika dwóch postaci | Walka, improwizacja, strach, ekwipunek, zagadki i śledztwo | Każdy archetyp ma unikalne skuteczne strategie, bez dominującej postaci |
@@ -32,8 +32,8 @@
 
 ## Dalszy tok prac
 
-1. **Teraz:** etap 04 — ocena projektu tajnego programu w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`; autor zatwierdził etap 03.
-2. **Następnie:** wydzielona **część III — powiązanie bohaterów z ośrodkiem** (motywacje dziennikarki, jej zaginiona przyjaciółka, polski oficer i ratujący go kolega); bez domyślnego zatwierdzania tych powiązań. Szczegółowe ulice i whitebox dopracujemy później.
+1. **Teraz:** ocena **proponowanej części III — bezpośrednie powiązania bohaterów** w `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`. To wersja do uwag, nie kanon.
+2. **Następnie:** wprowadzić uwagi autora do części III, a po akceptacji dopracować postacie i ich motywacje. Szczegółowe reguły zachowań zakażonych i ich statystyki powstaną później w etapie 09.
 3. **Potem:** przetestować spójność reguł zakażonych i eskalacji konfliktu na tle ustalonej historii, geografii i służb. Nie traktować roboczej biologii jako realnej nauki.
 4. **W dalszej kolejności:** projektować przeszłość i motywacje bohaterów na tle tej historii, a nie niezależnie od niej.
 
@@ -69,3 +69,7 @@ Autor nazwał **Rubież** ostateczną nazwą programu i zaproponował silniejsz�
 ### SF Rubieży i zakażonych — zmiana wymagań autora (6.11.2026)
 
 Nie narzucać realistycznych ograniczeń wirusologicznych fikcyjnej infekcji. Dopuścić przemiany w sekundy i grozę masowej hordy; realizm zachować w historii miasta i reakcjach instytucji. Uwzględnić **około 200 zakażonych wychodzących z całego szpitala** oraz wcześniejsze rozproszone interwencje Policji, PSP i pogotowia. Nowy projekt w `11-R4-I-ZAKAZENI.md`; nazwy R-4 i klas zakażonych wymagają akceptacji autora.
+
+### Stan aktualny v0.11
+
+Kanon infekcji został zatwierdzony (15 min najkrótsza przemiana; brak sprintu i nieumarłych; tolerancja bólu; krew/płyny ustrojowe). Typy Zerwani, Echa i Przełamani są zachowanymi pomysłami na etap przeciwników. `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md` zapisano jako **propozycję do uwag autora** — nie aktualizować na tej podstawie danych postaci w kanonie przed akceptacją.

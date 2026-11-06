@@ -254,3 +254,7 @@ Autor zatwierdził kryptonim **Rubież** i zaproponował zasadniczą przyczynowo
 ## 15. Kategoria science fiction i szpitalny punkt przełomowy
 
 **Nowa dyrektywa autora (6.11.2026):** nie ograniczać science fiction R-4 rzeczywistą wirusologią; dopuszczalne są przeobrażenia w około 10 sekund i gwałtowne hordy. Szpitalny kryzys prowadzi do wydostania się około 200 zakażonych z całego polsko-rosyjskiego kompleksu. Pojedyncze incydenty poprzedzają tę katastrofę. Nowe reguły i typy w `11-R4-I-ZAKAZENI.md` są projektem do zatwierdzenia.
+
+## 16. Ujednolicenie z zaakceptowanym obrazem R-4 (6.11.2026)
+
+Zatwierdzony przez autora opis infekcji znajduje się w `11-R4-I-ZAKAZENI.md` i **ma pierwszeństwo nad wcześniejszymi oznaczeniami [PROPOZYCJA] lub [OTWARTE] w niniejszym, historycznym dokumencie**. Obowiązują reguły: żywi zakażeni, brak nadludzkiej sprawności i sprintujących hord, wysoka tolerancja bólu (nie na fizyczne uszkodzenie tkanek), uszkodzenia głowy szczególnie skuteczne, kontakt z zakażoną krwią/płynami ustrojowymi, najszybsza późna przemiana około 15 minut zamiast sekund. Poza walką zakażeni mogą odtwarzać dawne nawyki. Około 200 zakażonych wydostaje się z całego kompleksu szpitalnego, nie z samego rosyjskiego skrzydła. Osobiste powiązania dwojga protagonistów z Rubieżą pozostają na razie **projektem do uwag** w rozdziale 12.

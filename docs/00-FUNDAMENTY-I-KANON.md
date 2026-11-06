@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.10  
+**Wersja:** 0.11  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -28,7 +28,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - **[KANON]** Miasto posiada duży dworzec, bocznice kolejowe i dobre połączenie drogowe z trasą przebiegającą w pobliżu. Zatwierdzono **układ logiczny** z rzeką zachód–wschód, dwoma głównymi mostami, miastem rozciągniętym na oba brzegi, przemysłowym południowym zachodem, wschodnim szpitalem, północno-wschodnim Kwadratem i dworcem na południu; dokładne współrzędne, droga przelotowa i fizyczna skala są projektem w `08-MAPA-MIASTA-W-SKALI.md`.
 - **13 października 1992 r. późnym popołudniem:** początek gry. **Noc 13/14 października:** pierwszy śnieg w fikcyjnym Miedziańsku, okres spotkania bohaterów. **14 października:** mroźny ranek ze śniegiem.
 - Cała opowieść ma objąć **nie więcej niż dwa dni** — proponowany okres od późnego popołudnia 13 października do wczesnego ranka 15 października (~36 godzin).
-- Ośrodek pod szpitalem prowadził tajny **program biologiczny**; geneza zakażenia i szczegółowe właściwości patogenu nie są jeszcze ustalone.
+- **[KANON]** Ośrodek pod szpitalem prowadził tajny program **„Rubież”**. Zakażeni pozostają żywi, są niewrażliwi na ból (ale nie niezniszczalni), poruszają się w ludzkim zakresie od chodu po zwykły bieg bez nadludzkiego sprintu. Choroba rozprzestrzenia się przez kontakt z zakażoną krwią i płynami ustrojowymi. Pierwsze przemiany trwają wiele godzin lub doby, w zaawansowanej fali najszybsze około 15 minut. Głowa jest najlepszym celem, lecz dość duże obrażenia ciała również zatrzymują zakażonego. Szczegóły w `11-R4-I-ZAKAZENI.md`. Robocze oznaczenie wirusa R-4 nie zostało jeszcze osobno przyjęte jako nazwa kanoniczna.
 - Chaos rośnie przez niespójne działania strony polskiej i rosyjskiej, brak wiedzy oraz dynamikę zakażeń. Miasto zostaje otoczone kordonem wojskowym; podchodzący do zewnętrznego kordonu mogą zostać ostrzelani. Służby nie znikają natychmiast — ich kontrola stopniowo się załamuje.
 - **[KANON] Miedziańsk nie zostaje zniszczony atomowo ani wymazany z mapy w finale.** Ucieczka bohaterów nie rozwiązuje automatycznie problemów miasta, a życie pozostałych mieszkańców i los kordonu pozostają otwarte.
 
@@ -123,3 +123,7 @@ Zatwierdzono nazwę „Rubież”. Użytkownik zaproponował: chaotyczne pakowan
 ## 15. Korekta kierunku science fiction (6.11.2026)
 
 Autor wyraźnie zdecydował, że **science fiction Rubieży nie powinno być ograniczane przez wiarygodność realnej wirusologii**. Zakażenie może przechodzić od pierwszych przypadków rozwijających się przez doby do wyjątkowo szybkich przemian, nawet w sekundach. Wcześniejsze epizody w mieście: pogryzienia, agresja, pobicia i podpalenia; kluczowy przełom to kryzys wielkiego wspólnego szpitala i masowa ucieczka **około 200 zakażonych z CAŁEGO kompleksu**, nie tylko z rosyjskiej strefy. Szczegółowe nazwy, rodzaje potworów i reguły w `11-R4-I-ZAKAZENI.md` są propozycjami do zatwierdzenia.
+
+## 16. Zatwierdzenie wirusa i rozdzielenie statusu bohaterów (6.11.2026)
+
+Autor zaakceptował ostateczny obraz infekcji, jej dramaturgię i przybliżoną skalę przełomu szpitalnego. Zakażeni nie są martwi ani nadludzko sprawni, nie sprintują masowo, lecz nie odczuwają bólu, tracą orientację i mogą odtwarzać zwykłe zachowania. Przemiany: najkrótsze około 15 minut, wcześniejsze godziny/doby. Transmisja przez zakażoną krew i płyny ustrojowe. **Rozdział `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md` ma status PROPOZYCJI**, a nie zatwierdzonej historii postaci: autor zapowiedział uwagi.

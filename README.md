@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.10 — 6 listopada 2026  
+**Wersja:** 0.11 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -25,7 +25,8 @@
 
 13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: program **Rubież**, nazwa zatwierdzona; przyczyna epidemii uzupełniona przez autora: jeden incydent, dwa etapy kryzysu. Osobiste powiązania bohaterów w osobnej części III.
 
-14. [`docs/11-R4-I-ZAKAZENI.md`](docs/11-R4-I-ZAKAZENI.md) — odważniejszy projekt science fiction: czas przemiany od dni do około 10 sekund, typy zachowań zakażonych i szpitalny punkt przełomowy (do akceptacji).
+14. [`docs/11-R4-I-ZAKAZENI.md`](docs/11-R4-I-ZAKAZENI.md) — zatwierdzony charakter zakażonych: żywi, nieodczuwający bólu, przeważnie chodzący lub truchtający; kontakt z krwią i płynami ustrojowymi, najkrótsza przemiana około 15 minut.
+15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **robocza część III do uwag autora**, nie kanon.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -88,3 +89,9 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Autor podkreślił priorytet **science fiction** w projektowaniu R-4. Nie ograniczać szybkości przemian i zachowań zakażonych prawdziwą wirusologią.
 - Wprowadzono robocze zasady bardzo szybkiej przemiany, nawet około 10 sekund, i szpitalny punkt przełomowy z około 200 zakażonymi z całego kompleksu.
 - Nowy dokument `11-R4-I-ZAKAZENI.md` proponuje trzy warstwy spotkań: Zerwani, Echa, Przełamani. Szczegóły do zatwierdzenia, nie kanon automatyczny.
+
+## Zmiany w wersji 0.11
+
+- Zgodnie z ostateczną decyzją autora poprawiono i ujednolicono reguły fikcyjnego wirusa: żywi zakażeni, brak sprintujących hord i nadludzkiej sprawności, obrażenia ciała skuteczne, transmisja przez kontakt z zakażoną krwią/płynami ustrojowymi, najkrótsze przemiany około 15 minut. Odrzucono wcześniejsze założenie 10 sekund.
+- Zachowano koncepcyjne typy Zerwani, Echa, Przełamani do przyszłego projektowania przeciwników.
+- Zapisano **część III — bohaterowie** jako propozycję do uwag; bez zmiany kanonu o losach postaci i bez nadawania im imion.

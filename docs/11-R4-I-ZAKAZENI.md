@@ -1,106 +1,80 @@
-# R-4 — fantastyka naukowa, przemiany i zakażeni Miedziańska
+# Zakażeni „Rubieży” — kanon zachowania i reguł infekcji
 
-**Status:** PROJEKT DO OCENY; wyraźnie oddzielono decyzje autora od nowych propozycji.
-**Data:** 6 listopada 2026 r.
-**Relacja:** program „Rubież” jest [KANON], oznaczenie czynnika „R-4” to [PROPOZYCJA].
-**Założenie autorskie:** wiarygodny historycznie Miedziańsk i instytucje NIE ograniczają skali science fiction. Możliwa przemiana w kilkanaście sekund, skrajnie dynamiczne hordy i nieznane realnej medycynie zachowania zakażonych.
-**Zastrzeżenie:** fikcyjne zjawisko. Bez realnych schematów biologicznej transmisji, eksperymentów, zwiększania zakaźności i laboratoryjnych protokołów.
+**Status:** **KANON** — zasadniczy obraz zaakceptowany przez autora 6 listopada 2026 r. Szczegóły form przeciwników, mutacji, animacji i balansu zostają do etapu 09.
+**Program:** „Rubież” [KANON]; robocze oznaczenie czynnika biologicznego **R-4** [PROPOZYCJA NAZWY]. Nazwa wirusa nie została oddzielnie zatwierdzona.
 
-## 1. Reguły gatunku: nie tłumaczyć za dużo [AUTORSKI KIERUNEK]
+## 1. Charakter gatunkowy [KANON]
 
-Nie musimy udowadniać, że rzeczywista biologia pozwala na przemianę człowieka w 10 sekund. W filmie `World War Z` (2013) tempo przemiany jest około 12 sekund, z wariantami, i służy przede wszystkim dramaturgii. W grze *Miedziańsk* określamy własne konsekwencje R-4 i sprawdzamy ich **spójność fabularno-mechaniczną**, nie podobieństwo do rzeczywistych chorób.
+To przede wszystkim **survival horror budujący grozę i niepewność, nie panikę ani ciągłe sprinty przed hordą**. Miedziańsk i polskie instytucje 1992 r. są historycznie wiarygodne; fikcyjny wirus może być nierealistyczny naukowo, ale musi mieć konsekwentne zasady wewnętrzne.
 
-- Epoka, polskie służby, infrastruktura, polityka i zachowania ludzi są wiarygodne i zakorzenione w 1992 roku.
-- Biologia R-4 jest **science fiction**, więc dopuszczalne są bardzo szybkie przemiany, niemożliwa dziś neurologia i niepokojące formy ruchu.
-- Zakażeni są groźni, nieprzewidywalni i różnorodni, ale nie zmieniają zasad arbitralnie w zależności od potrzeb scenarzysty.
-- Postać świeżo zarażona może stać się zagrożeniem w sekundy; gracz potrzebuje wizualnych i dźwiękowych sygnałów, by na tę możliwość uczciwie reagować.
+**Zakażeni nie są ożywionymi zwłokami.** To nadal biologicznie żywi ludzie, z uszkodzonym poczuciem bólu i zakłóconymi zachowaniami.
 
-## 2. Jak nazwać wirusa i chorobę? [PROPOZYCJA]
+## 2. Cel badania i efekty [KANON KIERUNKU]
 
-**Projekt badawczy: „Rubież” [KANON].**
-**Oznaczenie czynnika: R-4 [PROPOZYCJA].** Nie jest realną nazwą wirusa.
-**Choroba: „zespół zerwania” [PROPOZYCJA języka personelu]** — nazwa nieformalna opisująca moment utraty kontroli nad zachowaniem.
+- **Pierwszy kierunek badań „Rubieży”:** znoszenie/ograniczanie odczuwania bólu i zwiększanie zdolności człowieka do działania pomimo odniesionych obrażeń.
+- **Drugorzędny, niepożądany efekt:** dezorientacja, nieprzewidywalność, utrata kontroli, agresja.
+- **Wtórna zmiana militarnego zainteresowania:** dowództwo zaczyna widzieć w zaburzeniach zachowania sposób dezorganizowania i obezwładniania przeciwnika. Nie oznacza to udanego, przewidywalnego narzędzia wojskowego.
 
-Nie wymyślamy realnej taksonomii, sekwencji genetycznych ani biologicznej instrukcji „jak to działa”. Rosyjskie dokumenty mogą zawierać sprzeczne klasyfikacje i niepełną wiedzę.
+Ważne rozróżnienie: **zakażony nie jest niezniszczalny ani fizycznie odporniejszy od człowieka** — po prostu może nie reagować na obrażenia tak, jak żywy, niezakażony człowiek. To tłumaczy zakrwawienie i dalszą aktywność mimo ran.
 
-## 3. Trzy tryby przemiany R-4 [REKOMENDACJA SF]
+## 3. Jak zatrzymać zakażonego? [KANON ZASADY]
 
-| Tryb | Czas | Znaczenie dla scenariusza |
-|---|---|---|
-| **Utajony** | kilkanaście godzin do kilku dób (wczesne przypadki) | Personel próbuje rozpoznać chorobę i utajnić pierwsze zdarzenia. |
-| **Gwałtowny** | godziny lub minuty | Przyspieszenie epidemii w szpitalu i dzielnicach. |
-| **Błyskawiczny** | nawet **10–15 sekund** | Groza tłumu: świeżo ugryziony człowiek natychmiast przeobraża się w kolejne zagrożenie. |
+- Najskuteczniejsze są **trafienia w głowę**; nie jest to jednak jedyny sposób.
+- **Wystarczające obrażenia tułowia i kończyn** również mogą go powalić, unieruchomić lub zabić. Brak reakcji na ból nie chroni organizmu przed rzeczywistym uszkodzeniem.
+- Nie stosować zasady „wszyscy poza strzałem w głowę są nieśmiertelni”.
+- Szczegóły obrażeń, punktów życia i konkretnych broni opracować przy systemie walki, nie tutaj.
 
-**Klucz:** nie zamieniamy tego w niepodważalną regułę „wszystkie nowe zakażenia w 10 sekund”. R-4 jest niestabilny. Osoby postronne i personel nie umieją przewidzieć przebiegu. Ma być groźnie, a jednocześnie uczciwie dla gracza.
+## 4. Ruch, agresja i cisza [KANON]
 
-**Ważne rozróżnienie:** przemiana w 10 sekund jest wyrazistym motywem science fiction; nie sugerujemy, że wirus w naturze realnie ewoluuje w ciągu 48 godzin tak, by uzyskać tę zdolność. Wyjaśnienie w świecie może być celowo nieznane lub niedoskonałe, zamiast pseudo-naukowego wykładu.
+- **Zwykłe ludzkie możliwości ruchowe**, zazwyczaj chód, szybki krok lub trucht; możliwy zwykły bieg, ale **bez nadludzkiego sprintu**.
+- Brak tysięcy zorganizowanych, nieustannie sprintujących hord. Wielu zakażonych naraz w szpitalu to **wyjątkowy punkt przełomowy**, nie domyślna każda walka.
+- Zakażeni mogą zatrzymywać się, błądzić, bez celu powtarzać znane czynności, próbować wykonać dawną pracę, wpatrywać się w znajome obiekty i wracać do starych nawyków.
+- **Pierwotne emocje i odruchy nie są pełną świadomością.** Pytanie o zachowane poczucie tożsamości i ewentualną możliwość odwrócenia choroby pozostaje otwarte.
 
-## 4. Jaki rodzaj zombie? [REKOMENDACJA]
+## 5. Czas przemiany [KANON ZAKRESÓW]
 
-To „zakażeni Rubieży” — nie muszą odpowiadać klasycznym powolnym nieumarłym. Pozornie ludzka sylwetka, ale niemożliwe do przewidzenia zachowanie i odrażające przełamanie dawnych odruchów.
+| Etap historii epidemii | Przemiana — orientacyjny czas |
+|---|---|
+| Pierwsze przypadki (9–12 X) | wiele godzin, niekiedy doby |
+| Narastający kryzys (13 X) | czas może spadać do godzin |
+| Zaawansowana fala | w najszybszych przypadkach **około 15 minut** |
 
-### Warstwa 1: ZERWANI — podstawowi przeciwnicy
+**Nie ma przemiany w 10 sekund.** Te czasy są dramaturgiczną regułą fikcyjnego świata, nie opisem rzeczywistej choroby. Nie zakładać, że każdy nowy zakażony przemienia się dokładnie po 15 minutach.
 
-- Pędzą w kierunku ludzi gwałtownie, nie dbając o przeszkody, rzucają się na drzwi, pojazdy i barierki.
-- Czasami atakują w tłumie: przewracają się, wspinają po sobie i taranują wąskie wyjścia.
-- Nagłe pobudzenie może przechodzić w bezruch; gracz nie zawsze potrafi ocenić bezpieczeństwo z daleka.
-- Dopuszczalne są ruchy przekraczające typową ludzką koordynację, bez obowiązku realistycznego wyjaśnienia biomechanicznego.
+## 6. Kontakt i zakażenie [KANON FIKCJI]
 
-### Warstwa 2: ECHA — niepokojące pozostałości człowieka
+**R-4 rozprzestrzenia się przez kontakt z zakażoną krwią i płynami ustrojowymi**, analogicznie do ogólnej kategorii kontaktu znanej z chorób takich jak Ebola. W świecie gry kluczowe są **pogryzienia i zakrwawiony kontakt**, a nie sam widok chorego czy stanie w tym samym pokoju. Nie zakładamy transmisji powietrznej.
 
-- Zakażony nadal wykonuje czynność kojarzącą się z jego dotychczasowym życiem: pielęgniarka układa narzędzia, policjant stoi przy radiowozie, pracownik MZE naciska przycisk wyłączonej maszyny.
-- Urywki mowy i wykonywane gesty nie są dowodem powrotu świadomości; mogą jednak skłonić bohaterów i gracza do pomyłki.
-- Zagrożenie nie zawsze jest natychmiastowe; kluczowe bywa rozpoznanie sygnałów zmiany zachowania.
+**Uwaga:** „Ebola” jest analogią wyłącznie kategorii kontaktu; zakażeni „Rubieży”, ich gwałtowne zachowanie i przyspieszona przemiana są w całości science fiction. Nie przenosić szczegółów realnych chorób ani ich parametrów do gry.
 
-### Warstwa 3: PRZEŁAMANI — wyjątkowe formy [WYŁĄCZNIE POMYSŁ DO DALSZEGO ROZWINIĘCIA]
+Dla projektowania rozgrywki: sama obecność krwi na ubraniu nie oznacza automatycznej, natychmiastowej przemiany; konkretne reguły ryzyka i ochrony gracza trzeba rozpisać na poziomie systemu, aby mechanika była uczciwa.
 
-- Niewielka część zakażonych może przejawiać daleko posunięte anomalie zachowania i wyglądu, groteskowe oraz niezgodne z ludzką fizjologią.
-- Dopuszczalne wyraźniejsze deformacje i odmienne wzorce ruchu, ale nie losowe „supermoce” bez dramaturgicznej funkcji.
-- Nie projektujemy teraz szczegółowych podtypów potworów, statystyk ani mechanizmów ich powstawania (etap 09). Ta warstwa daje możliwość silnego science fiction także poza hordami.
+## 7. Szpital — epicentrum widocznej katastrofy [KANON KIERUNKU]
 
-**Otwarte:** czy zakażeni nadal żyją biologicznie, czy doszło do całkowicie obcego rodzaju istnienia; czy istnieje szansa odzyskania świadomości; jak wygląda definitywna śmierć zakażonego. Nie przesądzamy tych kwestii bez decyzji autora.
+- Jeden pierwotny incydent przy likwidacji „Rubieży” → pojedyncze początkowe zachorowania → obserwacja w zamkniętym rosyjskim skrzydle → tuszowanie informacji → gwałtowny kryzys.
+- Kilku zakażonych w rosyjskiej części szpitala wywołuje kryzys skrzydła, następnie zagrożenie obejmuje **polską część szpitala**, w której przebywają pacjenci, personel i odwiedzający.
+- **Około 200 zakażonych wydostaje się z całego szpitala do miasta**. Nie są to tylko pacjenci rosyjskiego skrzydła ani ludzie, którzy pierwsi trafili pod obserwację.
+- Na ulicach już wcześniej miały miejsce pojedyncze pogryzienia, pobicia, agresywne zachowania i pożary, na które reagowały Policja, pogotowie i straż pożarna.
+- Po katastrofie szpitalnej miasto pozostaje niejednorodne — część dzielnic jeszcze żyje, inne są odcinane, służby lokalnie walczą.
 
-## 5. Szpital — przełomowa scena epidemii [ZAŁOŻENIE AUTORA, ROZWINIĘCIE PROPOZYCJA]
+## 8. Archetypy zakażonych — ZACHOWANE NA ETAP 09 [KONCEPCJE ZAAKCEPTOWANE OGÓLNIE]
 
-Autor proponuje **około 200 zakażonych wybiegających z kompleksu szpitalnego**. Konsekwencje organizacyjne:
+**ZERWANI:** widocznie chorzy, agresywni, zdolni do chodu, truchtu i zwykłego biegu; nie są sprinterami, nie przekraczają ludzkich możliwości ruchowych. Główny typ bezpośredniego zagrożenia.
 
-1. Szpital nie ma wyłącznie 25–45 rosyjskich łóżek. Obecny plan: **150–200 miejsc w polskiej części** i 25–45 miejsc w rosyjskiej przed redukcją, a do tego dyżurny personel, odwiedzający, osoby czekające na pomoc i ludzie, którzy właśnie przybiegli po ratunek.
-2. **Pierwsi chorzy obserwowani w rosyjskim skrzydle** zaczynają gwałtowną fazę. Władze tej części utrzymują blokadę informacji zbyt długo.
-3. Kryzys stopniowo przelewa się na **cywilną część szpitala i otaczające go podwórza**. Nowe przemiany są tak szybkie, że liczba niebezpiecznych osób wzrasta gwałtownie; nie potrzeba fikcyjnych 200 łóżek na oddziale rosyjskim.
-4. Z całego kompleksu, przez kilka różnych wyjść i ciągów komunikacyjnych, **w ciągu kilkunastu–kilkudziesięciu minut wydostaje się rząd wielkości 200 zakażonych**. Jest to skala i rytm **propozycji sceny**, nie ścisła liczba policzonych w fabule osób.
-5. Nie każdy przebywający w szpitalu musi zostać zakażony. Część personelu i pacjentów próbuje uciec lub barykaduje się, a inne oddziały mogą być trzymane przez ratowników przez dalsze godziny.
+**ECHA:** ludzie, u których po infekcji pozostały nawyki i powtarzalne czynności, a agresja może pojawić się dopiero pod wpływem zewnętrznego bodźca. Podstawą jest niepokój obserwacyjny, a nie wyskakująca z szafy pułapka.
 
-**Punkt dramaturgiczny:** wcześniej pojedyncze agresywne zachowania wyglądały jak przestępstwa lub zaburzenia. Od chwili szpitalnego kryzysu mieszkańcy widzą, że państwo i wojsko nie panują nad całością sytuacji.
+**PRZEŁAMANI:** potencjalnie bardziej nietypowe konsekwencje zaawansowanego działania „Rubieży”. **Nie zatwierdzono nadludzkiej siły, deformacji ani nowych „supermocy”.** Nazwa i ogólny kierunek zostały przyjęte jako obszar do rozwinięcia przy projektowaniu przeciwników.
 
-## 6. Wcześniejsze sygnały i służby [AUTORSKIE MOTYWY + PROPOZYCJA]
+**Zasada:** te kategorie to wstępne projekty przeciwników, nie trzy potwierdzone biologiczne odmiany wirusa. Szczegóły ich zachowań, statystyki i animacje pozostają otwarte.
 
-- Dni **10–12 października**: pojedyncze pogryzienia, pobicia, gwałtowne ataki, niejasne pożary i podpalenia. Policja, pogotowie i PSP działają normalnie; interwencje nie są jeszcze spójnie powiązane.
-- Do **13 października po południu** część chorych jest obserwowana w zamkniętym rosyjskim skrzydle. Zwolennicy tuszowania nadal blokują rzetelne informacje.
-- **13 października wieczorem** kryzys w szpitalu i gwałtowne przemiany tworzą tłum zakażonych. Na ulicach pojawiają się niezależne epizody, które zaczynają się wzajemnie napędzać.
-- Nie ma drugiego tajemniczego wycieku z laboratorium. **Jeden pierwotny incydent → utajone przypadki → szpitalny punkt przełomowy → przyspieszenie w mieście.**
+## 9. Rzeczy do dopracowania później
 
-## 7. Zasady survival horroru [PROPOZYCJA]
+- Nazwa czynnika („R-4” wciąż tylko robocza), specyfika objawów i reguły grywalnej ochrony.
+- Dokładne formy i zachowania trzech typów, w tym sens i granice „Przełamanych”.
+- Rozbieżności w dokumentacji szpitala i raportach jako opcjonalne znajdźki dla osób rekonstruujących chronologię.
+- Zbalansowanie broni i osłabiania przeciwników: głowa skuteczniejsza, ale rany ciała też działają.
+- Ewentualna utrata świadomości, powrót do zdrowia i granice zachowanej tożsamości — nierozstrzygnięte.
 
-- **Niebezpieczny tłum, nie bezkarna armia do wystrzelania.** Nawet przygotowany żołnierz musi uważać na otoczenie i liczbę przeciwników.
-- **Czytelne znaki przed przemianą:** krótkie zmiany zachowania, nienaturalny ruch, dźwięk; nie każda przemiana musi mieć identyczną animację.
-- **Konsekwentne reakcje świata:** służby najpierw prowadzą ratownictwo, potem próbują izolacji, później część punktów oporu upada. Pozostają ocaleńcy i walczące grupy.
-- **Różne spotkania:** pojedynczy „Echo” w mieszkaniu ma wzbudzać inny rodzaj strachu niż kilkudziesięciu „Zerwanych” w szpitalnym holu.
-- **Zagadki i znajdźki:** gracz może odkryć sprzeczne raporty o czasie przemiany, zapis wcześniejszych zachorowań i niepełne listy pacjentów. Dokumenty służą układaniu chronologii, nie ujawniają od razu prawdy.
+## 10. Warunek narracyjny
 
-## 8. Co zatwierdzić przed częścią III o bohaterach?
-
-1. Czy „R-4” zostaje nazwą fikcyjnego czynnika?
-2. Czy akceptujemy **nieregularne przemiany od dni do 10 sekund**, bez wyjaśnień na siłę?
-3. Czy rdzeń to szybkie, zbiorowe ataki **Zerwanych**, z kontrastem niepokojących **Ech**?
-4. Czy pozwalamy na późniejsze bardziej fantastyczne formy **Przełamanych**?
-5. Czy pozostawiamy otwarty biologiczny status zakażonych i możliwość odzyskania człowieczeństwa?
-6. Czy szpitalna scena ma objąć **około 200 osób opuszczających cały kompleks**, a nie tylko rosyjskie skrzydło?
-
-Po akceptacji: dopiero wówczas **część III — uwikłanie polskiego oficera, jego kolegi, dziennikarki i jej przyjaciółki**. Oni mogą odkrywać reguły R-4 stopniowo, na bazie rozbieżnych dowodów.
-
-## Inspiracje i granica fikcji
-
-- `World War Z` (film 2013): reżyser Marc Forster opisał umowną przemianę w około **12 sekund**, z przypadkami różnej długości. Inspiracja **tempem grozy**, bez kopiowania wirusa, świata lub scen.
-  https://www.cinemablend.com/new/Spines-Divine-But-Knees-Are-Just-Fine-Director-Marc-Forster-Talks-World-War-Z-36663.html
-- Historyczny kontekst projektu `Rubież` w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`.
-- Nazwy, przebieg choroby, efekty i postacie z Miedziańska to **fikcja**, nie opis realnej choroby ani realnych eksperymentów w Polsce.
+Miedziańsk pozostaje wiarygodnym polskim miastem. Ale gdy 13 października ze szpitala wydostaje się około 200 zakażonych, mieszkańcy stają przed czymś, czego wcześniej nie potrafili sobie wyobrazić. **Kontrast pomiędzy normalnym życiem a stopniowym rozpadem porządku jest sercem survival horroru.**

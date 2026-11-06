@@ -43,3 +43,7 @@ Pierwszy spór wewnątrz Rubieży kończy się przejęciem oficjalnej decyzji pr
 ## Korekta dramaturgii epidemii — szpitalny punkt przełomowy (6.11.2026)
 
 Autor chce, aby przed 13 października Policja i inne służby interweniowały przy pojedynczych pogryzieniach, agresji, pobiciach i podpaleniach. Dnia 13 X szpital staje się sceną masowego kryzysu: w zamkniętym rosyjskim skrzydle chorzy wchodzą w fazę objawową, po czym kryzys obejmuje również polską część. W wariancie roboczym **około 200 zakażonych opuszcza CAŁY kompleks szpitalny kilkoma wyjściami podczas narastającego kryzysu**. Nie jest to liczba samych rosyjskich pacjentów. W świecie science fiction R-4 przemiana może trwać od dni do sekund, a rola poszczególnych przypadków będzie różna. Szczegóły i reguły zob. `11-R4-I-ZAKAZENI.md`.
+
+## Część III — proponowany związek bohaterów z chronologią (6.11.2026)
+
+Dodatkowa robocza rozpiska znajduje się w `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`. Propozycja: dziennikarka przyjeżdża w poszukiwaniu zaginionej przyjaciółki, planuje spotkanie w hotelu na 13 X wieczorem; oficer i kolega są tego popołudnia na legalnej inspekcji stref technicznych rosyjskiego skrzydła szpitala, gdzie zastaje ich kryzys. Bohater zostaje ranny, kolega go ratuje. **To rozwinięcie nie jest jeszcze zatwierdzone** poza wcześniej uzgodnionymi fundamentami fabuły. Punkt wspólnego spotkania podczas pierwszego śniegu pozostaje kanonem.
