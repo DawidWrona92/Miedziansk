@@ -2,7 +2,7 @@
 
 **Status: KANON KONCEPCJI / propozycje wykonawcze oddzielone.**
 **Data:** 6 listopada 2026 r.
-**Kanon postaci:** pochodzi z Miedziańska, mieszka we Wrocławiu, pracuje jako dziennikarka, szuka zaginionej przyjaciółki. Dokładne imię, nazwisko, wiek, redakcja i biografia niezatwierdzone (Anna Wysocka to tylko wcześniejsza propozycja).
+**Kanon postaci:** **Anna Wysocka**, pochodzi z Miedziańska, mieszka we Wrocławiu, pracuje jako dziennikarka, szuka zaginionej przyjaciółki. **Dokładny wiek, redakcja, rodzina i psychologia nadal niezatwierdzone.**
 
 ## Trzy fundamenty rozgrywki [KANON]
 
@@ -32,11 +32,15 @@ Różnica między nimi to rozumienie odpowiedzialności: ona może uważać, że
 
 ## Otwarte decyzje o osobowości i gameplayu
 
-- Imię i nazwisko (robocze: Anna Wysocka), wiek, redakcja i relacja z rodziną.
+- **Imię i nazwisko Anna Wysocka — KANON.** Otwarty jest wiek, redakcja i relacja z rodziną.
 - Charakter: cyniczna, idealistyczna lub bardziej złożona mieszanina tych cech.
 - Kim jest jej zaginiona przyjaciółka i jaki ślad uruchamia poszukiwania.
 - Jak precyzyjnie działają interfejs notesu, aparat i odkrywanie skrótów.
 - Czy i jak używa broni po spotkaniu z oficerem.
 - Jakie śledztwa są obowiązkowe, a które fakultatywne.
 
-**Nie przenosić propozycji biograficznych do kanonu przed decyzją autora.**
+**Nie przenosić propozycji biograficznych do kanonu przed decyzją autora.** Psychologię Anny i oficera dopracować razem, dopiero gdy ich dwie karty i dynamika współpracy będą wystarczająco jasne.
+
+## 1A. Doprecyzowanie kontaktu z bronią i płci w realiach PRL (6.11.2026)
+
+**[KANON POSTACI]** Anna Wysocka nie ma praktycznej wprawy w obsłudze pistoletów ani karabinów, mimo że istniało szkolne przysposobienie obronne. Realna różnica społeczna dotyczy przede wszystkim doświadczenia pokoleń mężczyzn objętych zasadniczą służbą wojskową i kobiet, które na ogół nie miały analogicznej praktyki. Nie zamieniamy tego w tezę, że żadna kobieta nie znała broni. Ustawowe istnienie PO nie mówi, ile skutecznego praktycznego szkolenia miała Anna. **Nie trzeba wyszukiwać fabularnych wyjątków, by przydzielić jej na początku pistolet — nie ma go.**

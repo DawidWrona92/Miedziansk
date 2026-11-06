@@ -114,3 +114,11 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
   https://cyfrowa.biblioteka.krakow.pl/Content/3985/PDF/nr35_1992_h.pdf
 
 **Rozdzielenie historii od fikcji:** nie ma źródła historycznego dla konkretnego miedziańskiego oficera, łapówki ani pozwolenia na opuszczenie miasta pod kordonem; są to możliwe elementy fabuły fikcyjnej.
+
+## Źródła etapu oficera i sprzętu 1992
+
+- **[H35] Oficjalna historia 6 Brygady Powietrznodesantowej — „6 PDPD i 6 BDSz”.** Historia krakowskiej jednostki: w 1989 r. nazwa 6 Pomorska Brygada Desantowo-Szturmowa, od 1991 r. **6 Brygada Desantowo-Szturmowa**, trwająca w 1992 r. reorganizacja. https://www.wojsko-polskie.pl/6bpd/6-pdpd-i-6-bdsz/
+- **[H36] Muzeum Polskich Formacji Granicznych — P-83 Wanad.** Historycznie udokumentowane używanie P-83, zbieżne z przyjęciem broni do Wojska Polskiego w latach 80. https://muzeumsg.strazgraniczna.pl/muz/galeria-3d/uzbrojenie/bron-1945-1990/9086%2CBron-1945-1990.html
+- **[H37] Muzeum Obrony Wybrzeża — mundur wz. 89 „Puma”.** Przejściowe kamuflaże z końca PRL i początku III RP; „Pantera” wz. 93 weszła później. https://muzeum.swinoujscie.pl/katalog-zabytkow/katalog-zabytkow/wyposazenie-osobiste/mundur-we-wzorze-89-puma/
+
+**Interpretacja fabularna:** istnienie historycznej 6 BDSz, P-83 i mundurów nie poświadcza istnienia fikcyjnego kapitana ani jego udziału w inspekcji Miedziańska. Stopień, personalia, przydział i inspekcja są autorską propozycją.

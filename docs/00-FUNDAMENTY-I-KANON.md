@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.14  
+**Wersja:** 0.15  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -37,6 +37,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 ## 4. Bohaterowie [KANON co do podstaw; szczegóły PROPOZYCJA]
 
 ### Dziennikarka
+- **[KANON] Imię i nazwisko: Anna Wysocka.**
 - Polska dziennikarka **pochodząca z Miedziańska, obecnie mieszkająca we Wrocławiu** [KANON]; entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej ze szpitalem i tropami laboratorium.
 - Rozpoczyna w mieście, prawdopodobnie w hotelowym barze, gdzie zdobywa informacje.
 - **KANON:** przed spotkaniem z oficerem nie ma broni palnej; nie jest wyszkoloną strzelczynią. Jej wyróżniki to **zagadki detektywistyczne, analogowy aparat, notes i rozpoznawanie ukrytych przejść w rodzinnym Miedziańsku**. Konkretne umiejętności walki, użycie broni po spotkaniu i mechaniki zagadek są jeszcze otwarte.
@@ -141,3 +142,7 @@ Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijaj�
 ## 19. Projekt gry dziennikarki — uzgodnione fundamenty
 
 **KANON:** dedukcja i rozwiązywanie zagadek na podstawie dokumentów oraz zeznań, aparat analogowy i notes jako narzędzia śledztwa, pamięć o dawnych skrótach i przejściach Miedziańska. Oficer może poznać istniejące przejście, ale nie ma automatycznie jej lokalnej wiedzy. Dziennikarka nie ma pistoletu przed ich spotkaniem. W około 36 godzin nie powstają nowe RPG-owe umiejętności; rośnie wiedza o sytuacji. **Kierunek konfliktu:** ona popiera demokratyzację, jednocześnie widząc biedę i koszty transformacji; oficer ma własne kontakty i zasoby, nie jest moralnie gorszy ze względu na przeszłość w PRL. Imię Anna Wysocka, redakcja, wiek i osobowość nadal pozostają propozycjami. Szczegóły: `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`.
+
+## 20. Anna Wysocka — nazwa zatwierdzona, psychologia odroczona (6.11.2026)
+
+**[KANON] Anna Wysocka** — pochodząca z Miedziańska dziennikarka mieszkająca we Wrocławiu. Zna miasto i prowadzi śledztwo z użyciem analogowego aparatu, notesu i dedukcji. Przed spotkaniem z polskim oficerem **nie posiada broni palnej ani praktycznej wprawy strzeleckiej**. Przyjmujemy charakterystyczną dla realiów PRL różnicę pomiędzy obowiązkowym doświadczeniem wojskowym mężczyzn i brakiem takiego powszechnego doświadczenia kobiet, ale nie rozszerzamy jej na absolutne twierdzenia o wszystkich kobietach. Sam szkolny przedmiot PO nie jest równoznaczny z praktyczną służbą i znajomością broni. **[OTWARTE]** psychologia Anny, jej głębsze motywacje i konflikty osobiste zostają do wspólnego etapu z oficerem, gdy będzie można zaplanować dynamikę relacji. Karta oficera to nadal propozycja `14-OFICER-POSTAC-I-GAMEPLAY.md`.

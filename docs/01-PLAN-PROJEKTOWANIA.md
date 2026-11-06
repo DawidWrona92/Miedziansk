@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.14  
+**Wersja:** 0.15  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -19,7 +19,7 @@
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
 | 04 | **ZATWIERDZONY KIERUNEK — PARAMETRY SZCZEGÓŁOWE DO ROZWINIĘCIA** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
-| 05 | **W TOKU — DZIENNIKARKA: MECHANIKI UZGODNIONE, BIOGRAFIA OTWARTA** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
+| 05 | **W TOKU — ANNA ZATWIERDZONA, KARTA OFICERA DO OCENY** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
 | 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
 | 08 | DO ZROBIENIA | Mechanika dwóch postaci | Walka, improwizacja, strach, ekwipunek, zagadki i śledztwo | Każdy archetyp ma unikalne skuteczne strategie, bez dominującej postaci |
@@ -87,3 +87,7 @@ Autor uznał szkic bezpośrednich powiązań bohaterów z „Rubieżą” za wys
 ### Uzgodniony styl gry dziennikarki (v0.14)
 
 Dziennikarka rozwiązuje **zagadki detektywistyczne** za pomocą notesu, aparatu analogowego i łączenia faktów; zna ukryte miejskie skróty, które oficer może poznać później. **Brak broni palnej przed spotkaniem z oficerem; brak drzewka umiejętności w 36 godzin.** Polska 1992 to społeczne koszty transformacji, bez moralnego stereotypu „dobra demokratka kontra zły żołnierz”. W `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md` oddzielono zaakceptowany kierunek od roboczych propozycji interfejsu i scen. Osobowość i imię nadal do zatwierdzenia.
+
+### Etap 05 — stan wersji 0.15 (6.11.2026)
+
+**[KANON]** Imię i nazwisko dziennikarki: **Anna Wysocka**. Nie ma przed spotkaniem z oficerem praktyki strzeleckiej, jej przewagą jest detektywistyczna rozgrywka, aparat, notes i znajomość skrótów. Nie rozpisujemy jeszcze dogłębnej psychologii żadnej z dwojga grywalnych postaci; zrobimy to dopiero po poznaniu ich kompetencji i możliwości konfliktu relacyjnego. **[PROPOZYCJA]** Karta polskiego oficera z Krakowa w `14-OFICER-POSTAC-I-GAMEPLAY.md`: sugerowany kapitan Piotr Bielecki, wiek 34–37 lat, możliwe związki z 6 Brygadą Desantowo-Szturmową, zadania w polskim zespole inspekcyjnym i historyczny sprzęt. Imię, stopień i pełna historia oficera nie zostały zatwierdzone.

@@ -2,7 +2,7 @@
 
 **STATUS: ZATWIERDZONY SZKIELET CZĘŚCI III; szczegóły biografii, scen i techniki finału nadal otwarte. Wariant B przyjaciela jest KANONEM.**
 **Data projektu:** 6 listopada 2026 r.
-**Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i kolegi oficera, spotkanie oraz ślady pozostawione graczowi. Imiona, losy postaci drugoplanowych, motywacje szczegółowe i przebieg scen **nie są zatwierdzone**.
+**Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i kolegi oficera, spotkanie oraz ślady pozostawione graczowi. **Anna Wysocka jest zatwierdzonym imieniem dziennikarki**; imię oficera, wiek i głęboka psychologia obu postaci, los przyjaciółki oraz szczegóły scen nadal pozostają otwarte.
 
 > Nie mylić z zatwierdzonymi założeniami świata: polski oficer wojsk powietrznodesantowych, dziennikarka, jej zaginiona przyjaciółka powiązana ze szpitalem, kolega oficera ratujący go po pierwszych atakach, spotkanie pary w nocy 13/14 października podczas pierwszego śniegu.
 
@@ -14,7 +14,7 @@
 
 ## 2. Dziennikarka — początek jej własnego dochodzenia [PROPOZYCJA]
 
-**[KANON]** Polska dziennikarka pochodzi z Miedziańska, ale obecnie **mieszka we Wrocławiu**. **[PROPOZYCJA]** Pracuje jako dziennikarka regionalna, ma około 29 lat, zna miasto i mieszkańców, jest zdecydowanie przychylna przemianom demokratycznym. Dokładny wiek, redakcja i imię **nie są kanonem**.
+**[KANON] Anna Wysocka** pochodzi z Miedziańska, ale obecnie **mieszka we Wrocławiu**. **[PROPOZYCJA]** Pracuje jako dziennikarka regionalna, ma około 29 lat, zna miasto i mieszkańców, jest zdecydowanie przychylna przemianom demokratycznym. Dokładny wiek, redakcja i imię **nie są kanonem**.
 
 **Cel jawny:** odnaleźć bliską przyjaciółkę, z którą urwał się kontakt. Obok osobistej troski pojawia się podejrzenie, że szpital i rosyjski garnizon coś ukrywają. Nie zaczyna od wiedzy o programie biologicznym.
 
@@ -104,7 +104,7 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 7. Jak zasugerować pozorną śmierć przyjaciela, skoro **kanonem jest jego przeżycie i powrót w finale**? Jakie dokumenty, kontakty CB i kontakty wojskowe zostawiają wiarygodne ślady?
 8. Jakie zdarzenie prowadzi do spotkania bohaterów przy szpitalu?
 9. Jaki udział obu perspektyw w odkryciach ma wynikać z gameplayu, a jaki z opcjonalnych znajdziek?
-10. Imiona, dokładne wieki, redakcja dziennikarki, charakter i wątki z lat 80. — pozostają do zatwierdzenia. Pochodzenie bohaterów (Miedziańsk/Wrocław i Kraków) zostało zatwierdzone.
+10. **Anna Wysocka — imię i nazwisko zatwierdzone.** Imię oficera, dokładne wieki, redakcja dziennikarki, charakter i wątki z lat 80. pozostają do zatwierdzenia. Pochodzenie bohaterów (Miedziańsk/Wrocław i Kraków) jest kanonem.
 
 ## 9. Ochrona istniejącego kanonu
 
@@ -129,3 +129,7 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 **[REALIA CB — ZWERYFIKOWANE]** W 1992 r. CB radio było w Polsce obecne, stosowano je w kontaktach drogowych i ratowniczych; współpraca PL-CB Radio z Policją została opisana w protokole 25.06.1992 [H31]. Artykuł prasowy z 1992 r. podaje, że popularny sprzęt pracował na 40 kanałach, przy wymaganych wówczas zezwoleniach oraz zasięgu zależnym od terenu [H32]. **CB nie jest łącznością szyfrowaną ani narzędziem do pewnego kontaktu na dowolną odległość.** Wątek ukrytego kontaktu może więc polegać na niepełnych sygnałach i ryzyku podsłuchu, a nie na cudownie prywatnym kanale.
 
 **[OTWARTE]** Kto odbiera meldunki, skąd przyjaciel ma dostęp do CB, czy dokumenty wychodzą poza kordon jeszcze przed finałem, komu konkretnie pomaga gotówka i jakie konsekwencje ma ta pomoc. Te szczegóły opracować przy scenariuszu, nie przy zamykaniu szkicu bohaterów.
+
+## 13. Zatwierdzenie Anny i początek karty oficera (6.11.2026)
+
+**[KANON]** Dziennikarka to **Anna Wysocka**; nie posiada praktycznej wprawy w użyciu broni palnej i przed spotkaniem z oficerem jej nie ma. Sposób prowadzenia śledztwa, analogowy aparat, notes i miejskie skróty pozostają jej rozpoznawalnymi kompetencjami. **[ODROCZONE]** Dogłębna psychologia, rodzina i szczegółowa dynamika relacji Anny z oficerem będą tworzone dopiero po zatwierdzeniu obu kart postaci i głównych scen. **[PROPOZYCJA]** Pierwszy projekt oficera znajduje się w `14-OFICER-POSTAC-I-GAMEPLAY.md` i nie jest jeszcze zatwierdzonym profilem, poza wcześniej zaakceptowanym pochodzeniem z Krakowa, rodzajem wojsk i zadaniami w Miedziańsku.

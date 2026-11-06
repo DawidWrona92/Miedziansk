@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.14 — 6 listopada 2026  
+**Wersja:** 0.15 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -29,6 +29,8 @@
 15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **część III z zatwierdzonym szkieletem**: pochodzenie bohaterów, struktura prologu, przyjaciel przeżywa i wraca w finale; scenariusz szczegółowy nadal otwarty.
 
 16. [`docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`](docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md) — dziennikarka: zagadki detektywistyczne, analogowy aparat, notes, ukryte ścieżki i brak broni przed spotkaniem z oficerem. Biografia nadal otwarta.
+
+17. [`docs/14-OFICER-POSTAC-I-GAMEPLAY.md`](docs/14-OFICER-POSTAC-I-GAMEPLAY.md) — projekt oficera z Krakowa: historyczna 6 Brygada Desantowo-Szturmowa, proponowany kapitan Piotr Bielecki, wojskowe kompetencje, sprzęt 1992 i prolog. Imię, stopień oraz biografia do zatwierdzenia.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -117,3 +119,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - **KANON:** przed spotkaniem z oficerem nie ma broni palnej; poznawanie faktów zamiast uczenia się nowych umiejętności w 36 godzin.
 - Polska roku 1992 pokazana bez idealizacji transformacji i bez prostego moralnego przeciwstawienia dziennikarki żołnierzowi.
 - Mechaniki i osobowość w `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md` zawierają także propozycje niezatwierdzone.
+
+## Zmiany w wersji 0.15
+
+- **[KANON]** Dziennikarka nosi imię i nazwisko **Anna Wysocka**; jej psychologię, dokładny wiek, redakcję, historię rodziny i osobiste napięcia zostawiamy na etap wspólnego projektowania obu protagonistów i ich relacji.
+- **[KIERUNEK POSTACI]** Anna nie ma praktycznej wprawy w używaniu broni palnej. Program szkolnego przysposobienia obronnego w PRL nie jest dowodem jej umiejętności strzeleckich; nie była objęta obowiązkową służbą wojskową jak mężczyźni.
+- **[PROPOZYCJA]** Nowa karta polskiego oficera z Krakowa, historyczne tło 6 Brygady Desantowo-Szturmowej, możliwy stopień kapitana i wyposażenie z 1992 r. w `14-OFICER-POSTAC-I-GAMEPLAY.md`.
+- Zrezygnowano z ustalania szczegółowej psychologii Anny i oficera przed uzgodnieniem mechanik obu i dynamiki ich współpracy.
