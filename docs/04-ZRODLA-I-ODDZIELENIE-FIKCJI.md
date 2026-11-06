@@ -33,7 +33,7 @@
 - **[H12] KGHM — historia Huty Miedzi Legnica.**
   https://kghm.com/pl/biznes/hutnictwo-i-rafinacja/legnica
 - **[H13] Miasto Stolberg — historyczny przydomek Kupferstadt, oficjalny od 2012 roku.**
-  https://media.stolberg.de/E_N_11_12/E_N_12/HA/ein_ha_26_06_2012.pdf
+  https://media.stolberg.de/E_N_11_12/E_N_12/E_12/HA/ein_ha_26_06_2012.pdf
 
 ## Fakty / fikcja
 

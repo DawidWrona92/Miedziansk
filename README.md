@@ -24,7 +24,7 @@ Każde ustalenie należy oznaczać jednym ze stanów:
 - **OTWARTE** — pytanie bez decyzji.
 - **FAKT HISTORYCZNY** — informacja z potwierdzonym źródłem; nie mieszać z fikcją.
 
-To **nowa gra**, niezależna od „Weleszy”. Nie aktualizowano żadnego istniejącego repozytorium GitHub. Repozytorium gry: https://github.com/DawidWrona92/Miedziansk. Nie modyfikować niezależnego repozytorium Welesza-Retro.
+To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedykowanym repozytorium gry na gałęzi `main`. Repozytorium gry: https://github.com/DawidWrona92/Miedziansk. Nie modyfikować niezależnego repozytorium Welesza-Retro.
 
 ## Co zmieniono w wersji 0.2
 
