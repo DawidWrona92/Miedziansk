@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.11  
+**Wersja:** 0.12  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -19,7 +19,7 @@
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
 | 04 | **ZATWIERDZONY KIERUNEK — PARAMETRY SZCZEGÓŁOWE DO ROZWINIĘCIA** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
-| 05 | **W TOKU — PROPOZYCJA DO UWAG AUTORA** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
+| 05 | **W TOKU — CZĘŚĆ UZGODNIONA, LOS PRZYJACIELA OTWARTY** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
 | 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
 | 08 | DO ZROBIENIA | Mechanika dwóch postaci | Walka, improwizacja, strach, ekwipunek, zagadki i śledztwo | Każdy archetyp ma unikalne skuteczne strategie, bez dominującej postaci |
@@ -73,3 +73,7 @@ Nie narzucać realistycznych ograniczeń wirusologicznych fikcyjnej infekcji. Do
 ### Stan aktualny v0.11
 
 Kanon infekcji został zatwierdzony (15 min najkrótsza przemiana; brak sprintu i nieumarłych; tolerancja bólu; krew/płyny ustrojowe). Typy Zerwani, Echa i Przełamani są zachowanymi pomysłami na etap przeciwników. `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md` zapisano jako **propozycję do uwag autora** — nie aktualizować na tej podstawie danych postaci w kanonie przed akceptacją.
+
+### Korekta autorska części III — 6 listopada 2026 (v0.12)
+
+**KANON:** pochodzenie dziennikarki Miedziańsk → Wrocław, pochodzenie oficera Kraków i obecność w Miedziańsku od kilku dni; przyjazd Polaków nie inicjuje biologicznego incydentu, ale może eskalować istniejący spór; prologiczne załamanie w radzieckiej części technicznej **–2**, a główne odkrycie „Rubieży” na **–3** dopiero pod koniec gry; przyjaciel ratuje oficera i znika po prologu. **OTWARTE:** A — ginie; B — przeżywa i powraca w finale, potencjalnie pomagając przekroczyć kordon, ale wymaga to logicznych wcześniejszych śladów i rozwiązania kwestii uprawnień. Nie planować stałego zespołu trzech grywalnych bohaterów ani trzyosobowej eskorty.

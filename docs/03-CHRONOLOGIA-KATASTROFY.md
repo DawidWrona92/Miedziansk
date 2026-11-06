@@ -6,7 +6,7 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 
 | Czas | Oficer / laboratorium | Dziennikarka / miasto | Stan przestrzeni |
 |---|---|---|---|
-| **13.10 17:00** | Prolog: przebywa przy kontrolowanej wywózce; trwa ujawniający się gwałtowny kryzys związany z **wcześniejszym incydentem**, dochodzi do ataków, kolega go ratuje (dokładny związek z Rubieżą do części III) | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
+| **13.10 17:00** | Prolog: polska inspekcja trafia na nasilenie istniejącego kryzysu w technicznym zapleczu **–2**; pojawienie się Polaków może podsycić konflikt, ale nie powoduje zakażenia. Dochodzi do ataków i awarii; przyjaciel ratuje oficera, po prologu znika (los OTWARTY). Poziom **–3** zostaje na późny etap gry | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
 | **13.10 19:00** | Nieprzytomny albo ukryty w części schronu | Rozmowa w hotelowym barze; pierwsza gwałtowna scena | Pierwsze syreny; mieszkańcy nadal nie rozumieją zagrożenia |
 | **13.10 21:00** | Odzyskuje przytomność; próbuje wydostać się z kompleksu | Próbuje zdobyć informacje i bezpieczną drogę przez centrum | Lokalna policja i pogotowie działają, pojedyncze blokady |
 | **13.10 23:00** | Wciąż w kompleksie lub przy wyjściu | Widzi nasilające się działania służb | Strefa szpitala zamykana; pierwsze wojskowe punkty kontrolne; niepełny kordon |
@@ -47,3 +47,7 @@ Autor chce, aby przed 13 października Policja i inne służby interweniowały p
 ## Część III — proponowany związek bohaterów z chronologią (6.11.2026)
 
 Dodatkowa robocza rozpiska znajduje się w `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`. Propozycja: dziennikarka przyjeżdża w poszukiwaniu zaginionej przyjaciółki, planuje spotkanie w hotelu na 13 X wieczorem; oficer i kolega są tego popołudnia na legalnej inspekcji stref technicznych rosyjskiego skrzydła szpitala, gdzie zastaje ich kryzys. Bohater zostaje ranny, kolega go ratuje. **To rozwinięcie nie jest jeszcze zatwierdzone** poza wcześniej uzgodnionymi fundamentami fabuły. Punkt wspólnego spotkania podczas pierwszego śniegu pozostaje kanonem.
+
+### Doprecyzowanie narracyjne prologu i powrotu do podziemi (6.11.2026)
+
+[**KANON**] Pierwotny incydent nastąpił kilka dni wcześniej. Wizyta polskich przedstawicieli Wojska Polskiego w dniu 13 października **zbiega się z konfliktem wewnątrz rosyjskiego zespołu**, przyspiesza możliwe reakcje paniki, lecz nie wywołuje pierwotnego zakażenia. [**KANON**] Prologiczna utrata kontroli rozgrywa się w **radzieckim zapleczu na poziomie –2**; poziom –3 jest **sercem projektu Rubież**, przeznaczonym na późny etap kampanii. [**KANON**] Przyjaciel ratuje oficera, ale **znika po prologu**, więc po spotkaniu dziennikarki i oficera nie tworzy się stały trzyosobowy zespół. **WARIANTY OTWARTE:** przyjaciel ginie / przeżywa i wraca w finale, być może pomagając przekroczyć kordon. Szczegółowy mechanizm awarii technicznej, rozkład prologu i finałowy ratunek pozostają propozycjami.

@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.11 — 6 listopada 2026  
+**Wersja:** 0.12 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -26,7 +26,7 @@
 13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: program **Rubież**, nazwa zatwierdzona; przyczyna epidemii uzupełniona przez autora: jeden incydent, dwa etapy kryzysu. Osobiste powiązania bohaterów w osobnej części III.
 
 14. [`docs/11-R4-I-ZAKAZENI.md`](docs/11-R4-I-ZAKAZENI.md) — zatwierdzony charakter zakażonych: żywi, nieodczuwający bólu, przeważnie chodzący lub truchtający; kontakt z krwią i płynami ustrojowymi, najkrótsza przemiana około 15 minut.
-15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **robocza część III do uwag autora**, nie kanon.
+15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **część III z uwagami autora**: zatwierdzone pochodzenie bohaterów i struktura prologu, warianty losu przyjaciela nadal otwarte.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -95,3 +95,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Zgodnie z ostateczną decyzją autora poprawiono i ujednolicono reguły fikcyjnego wirusa: żywi zakażeni, brak sprintujących hord i nadludzkiej sprawności, obrażenia ciała skuteczne, transmisja przez kontakt z zakażoną krwią/płynami ustrojowymi, najkrótsze przemiany około 15 minut. Odrzucono wcześniejsze założenie 10 sekund.
 - Zachowano koncepcyjne typy Zerwani, Echa, Przełamani do przyszłego projektowania przeciwników.
 - Zapisano **część III — bohaterowie** jako propozycję do uwag; bez zmiany kanonu o losach postaci i bez nadawania im imion.
+
+## Zmiany w wersji 0.12
+
+- **[KANON]** Dziennikarka pochodzi z Miedziańska, ale mieszka we Wrocławiu; polski oficer pochodzi z Krakowa i przebywa w Miedziańsku od kilku dni na inspekcji wycofywanych wojsk.
+- **[KANON UKŁADU FABULARNEGO]** Jeden wcześniejszy incydent zakażenia nie jest powodowany przybyciem polskiej komisji. Jej pojawienie się w chwili zaostrzającego się konfliktu jest niefortunnym zbiegiem okoliczności i może podnieść napięcie. Utrata kontroli podczas prologu rozgrywa się w radzieckim zapleczu na poziomie **–2**, nie w sercu laboratorium **–3**. Odkrycie –3 zostaje na późny etap gry.
+- **[KANON RELACJI]** Przyjaciel ratuje oficera, ale **znika po prologu**; w zasadniczej grze nie ma stałego trzyosobowego zespołu. **[OTWARTE]** Przyjaciel ginie lub okazuje się, że przeżył i może wrócić pomóc w finale. Nie ustalono drogi przez kordon.
+- Poprzednia propozycja 30–40-minutowego prologu, dokładnego mechanizmu awarii oraz dalszego przebiegu ratunku pozostaje propozycją, a nie kanonem.

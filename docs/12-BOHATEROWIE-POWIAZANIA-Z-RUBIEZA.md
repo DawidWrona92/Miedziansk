@@ -1,6 +1,6 @@
 # Część III — bohaterowie wobec katastrofy „Rubieży”
 
-**STATUS: PROPOZYCJA FABULARNA DO UWAG AUTORA, NIE KANON.**
+**STATUS: MIESZANY — zatwierdzone kierunki są oznaczone [KANON]; rozwinięcia fabuły i los przyjaciela nadal do oceny autora.**
 **Data projektu:** 6 listopada 2026 r.
 **Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i kolegi oficera, spotkanie oraz ślady pozostawione graczowi. Imiona, losy postaci drugoplanowych, motywacje szczegółowe i przebieg scen **nie są zatwierdzone**.
 
@@ -14,7 +14,7 @@
 
 ## 2. Dziennikarka — początek jej własnego dochodzenia [PROPOZYCJA]
 
-**Profil roboczy:** polska dziennikarka regionalna, około **29 lat**, pochodzi z Miedziańska, ale pracuje poza nim. Zna miasto i mieszkańców; jest zdecydowanie przychylna przemianom demokratycznym. Dokładny wiek, miasto zatrudnienia i imię **nie są kanonem**.
+**[KANON]** Polska dziennikarka pochodzi z Miedziańska, ale obecnie **mieszka we Wrocławiu**. **[PROPOZYCJA]** Pracuje jako dziennikarka regionalna, ma około 29 lat, zna miasto i mieszkańców, jest zdecydowanie przychylna przemianom demokratycznym. Dokładny wiek, redakcja i imię **nie są kanonem**.
 
 **Cel jawny:** odnaleźć bliską przyjaciółkę, z którą urwał się kontakt. Obok osobistej troski pojawia się podejrzenie, że szpital i rosyjski garnizon coś ukrywają. Nie zaczyna od wiedzy o programie biologicznym.
 
@@ -36,27 +36,31 @@
 
 ## 4. Polski oficer — legalna misja i katastrofa [PROPOZYCJA szczegółów; kanon roli ogólnej]
 
-**[KANON]** Oficer wojsk powietrznodesantowych służy w Wojsko Polskim, czasowo zajmuje się inspekcją/oceną przekazywania obiektów i wyposażenia wycofywanego garnizonu. Nie zna „Rubieży”. Biegły w broni, procedurach i sytuacjach kryzysowych. Podczas pierwszego kryzysu zostaje ranny / traci przytomność, a kolega go ratuje.
+**[KANON]** Oficer wojsk powietrznodesantowych **pochodzi z Krakowa, jest w Miedziańsku zaledwie od kilku dni** i służy w Wojsku Polskim; czasowo zajmuje się inspekcją/oceną przekazywania obiektów i wyposażenia wycofywanego garnizonu. Nie zna „Rubieży”. Biegły w broni, procedurach i sytuacjach kryzysowych. Podczas pierwszego kryzysu zostaje ranny / traci przytomność, a kolega go ratuje.
 
 **[PROPOZYCJA]** 13 października uczestniczy z kolegą w **wcześniej uzgodnionych oględzinach technicznego zaplecza wojskowego skrzydła szpitala**. Obecny jest rosyjski oficer towarzyszący inspekcji, pilnujący dopuszczonego zakresu. Polski oficer nie ma swobodnego prawa wejścia do nielegalnego laboratorium.
 
-**Punkt zwrotny [PROPOZYCJA]:** około 17:00 rozwija się gwałtowny kryzys po wejściu pierwszych zaobserwowanych pacjentów w fazę objawową. Równolegle personel rosyjski i wojskowi próbują utrzymać kontrolę nad swoim skrzydłem. W zamieszaniu część stref technicznych zostaje odcięta, a grupa kontrolna traci bezpieczną drogę wyjścia.
+**Punkt zwrotny [KANON MIEJSCA / PROPOZYCJA INSENIZACJI]:** około 17:00, w radzieckim technicznym zapleczu **–2**, rozwija się kryzys po wejściu wcześniej obserwowanych pacjentów w gwałtowną fazę objawową. Wizyta Polaków zbiega się z nasileniem istniejącego sporu pomiędzy zwolennikami ukrywania programu a tymi, którzy domagają się alarmu; **nie powoduje pierwotnego wycieku**. Równolegle personel rosyjski i wojskowi próbują utrzymać kontrolę nad swoim skrzydłem. W zamieszaniu część stref technicznych zostaje odcięta, a grupa kontrolna traci bezpieczną drogę wyjścia.
 
-**Ratunek:** kolega oficera wyciąga go z bezpośredniego zagrożenia i **ukrywa w bardziej bezpiecznej części starego schronu**. To może być przyczyna, dlaczego bohater odzyskuje przytomność później i ma niepełną wiedzę o wydarzeniach. Dokładne obrażenia, miejsce schronienia, sposób utraty przytomności i czas pozostawania pod ziemią są do dopracowania.
+**Ratunek [KANON RDZENIA]:** przyjaciel oficera wyciąga go z bezpośredniego zagrożenia i chroni w bezpieczniejszej części kompleksu. **Po prologu przyjaciel znika**, a oficer pozostaje sam; dokładne miejsce schronienia, uraz i powód rozdzielenia są otwarte. To uzasadnia późniejsze odzyskanie przytomności i niepełną wiedzę bohatera. Dokładne obrażenia, miejsce schronienia, sposób utraty przytomności i czas pozostawania pod ziemią są do dopracowania.
 
 **Cel początkowy:** odnaleźć kolegę, odzyskać łączność ze swoimi przełożonymi i bezpiecznie wydostać się ze szpitala. Dochodzenie w sprawie „Rubieży” rozwija się dopiero z dowodów odnalezionych podczas ucieczki.
 
-## 5. Kolega oficera [PROPOZYCJA]
+## 5. Przyjaciel oficera — ratunek, zniknięcie i dwa warianty losu
 
-Jest członkiem polskiego zespołu, ma własne doświadczenie wojskowe i nie musi mieć wiedzy o tajnym programie. **Ratuje bohatera**, ale jego dalszy los pozostaje **otwarty**.
+**[KANON]** Jest przyjacielem polskiego oficera i uczestniczy z nim w inspekcji. Podczas gwałtownego załamania sytuacji ratuje go przed bezpośrednim zagrożeniem. **Znika po prologu** — nie tworzy po spotkaniu z dziennikarką stałego trzyosobowego zespołu.
 
-Opcje do późniejszego zaprojektowania (żadna nie jest rozstrzygnięta):
-- próbuje sprowadzić pomoc i nie wraca;
-- zostaje w rejonie szpitala, by pomóc rannym;
-- zostaje odcięty od bohatera po kolejnej blokadzie;
-- sam staje przed trudnym wyborem między obowiązkiem i ratowaniem ludzi.
+**[OTWARTE] Dwa równorzędne warianty zakończenia jego historii:**
 
-Nie uśmiercać go z góry tylko po to, by zwiększyć dramatyzm. Powinien mieć własną sprawczość i czytelne decyzje.
+| Wariant | Przebieg | Wymóg fabularny |
+|---|---|---|
+| A — ginie | Ratunek kosztuje go życie, być może poza polem widzenia bohatera. | Nie wykorzystywać tylko jako łatwego szoku; uzasadnić decyzje i pozostawić wiarygodne ślady. |
+| B — przeżywa | Oficer po rozdzieleniu uważa, że przyjaciel nie żyje; w finale przyjaciel powraca i ratuje bohaterów, potencjalnie umożliwiając wydostanie się zza kordonu. | Wcześniej subtelnie pokazać możliwość jego przeżycia oraz przygotować logiczną drogę i zasoby do finałowego ratunku. |
+
+**[PROPOZYCJA]** W wariancie B można napotkać ślady radiowego meldunku, pomocy udzielanej innym albo działania polskiej jednostki poza kordonem. **Żaden nie jest zatwierdzonym zdarzeniem** i nie wolno od razu rozstrzygać jego losu.
+
+**[ZASADA]** Gracz powinien zostać sam z oficerem po prologu. Przyjaciel ma własną podmiotowość, ale nie odbiera roli ani miejsca dziennikarce. Wariant B nie może być nagłym cudownym odblokowaniem kordonu.
+
 
 ## 6. Jak historie się zazębiają [PROPOZYCJA]
 
@@ -68,7 +72,7 @@ Nie uśmiercać go z góry tylko po to, by zwiększyć dramatyzm. Powinien mieć
 | Noc 13/14 X | Ma tropy dotyczące polskiej części szpitala i zaginionej przyjaciółki. | Ma informacje o wojskowym zapleczu, których cywile zwykle nie mają. |
 | Po spotkaniu | Potrzebuje jego pomocy w dotarciu do informacji i przeżyciu. | Potrzebuje jej znajomości miasta, kontaktów i umiejętności zdobywania informacji. |
 
-**[KANON RAMY]** Bohaterowie spotykają się **na powierzchni w okolicach szpitala nocą 13/14 października**, gdy zaczyna padać śnieg. **[PROPOZYCJA]** Ich spotkanie następuje w wyniku dwóch odrębnych prób dotarcia do szpitala lub opuszczenia jego sąsiedztwa; nie zakładamy na tym etapie konkretnego zbiegu okoliczności, dialogu ani wroga zmuszającego ich do współpracy.
+**[KANON RAMY]** Bohaterowie spotykają się **na powierzchni w okolicach szpitala nocą 13/14 października**, gdy zaczyna padać śnieg. Przyjaciel oficera nie jest wtedy stałym towarzyszem — zniknął po prologu. **[PROPOZYCJA]** Ich spotkanie następuje w wyniku dwóch odrębnych prób dotarcia do szpitala lub opuszczenia jego sąsiedztwa; nie zakładamy na tym etapie konkretnego zbiegu okoliczności, dialogu ani wroga zmuszającego ich do współpracy.
 
 **Relacja:** początkowa nieufność i tarcia polityczno-pokoleniowe, a dopiero później wzajemny szacunek. Bez obowiązkowego romansu. Oboje zachowują sprawczość i odmienne narzędzia.
 
@@ -95,10 +99,10 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 4. Kim jest hotelowy informator i dlaczego zdecydował się spotkać właśnie 13 X?
 5. Czy polska inspekcja 13 X dotyczy pomieszczeń szpitalnych, czy innego elementu wojskowej infrastruktury?
 6. Co dokładnie spotyka oficera i gdzie kolega go ukrywa?
-7. Gdzie przebywa kolega po ratunku i jakie podejmuje decyzje?
+7. Czy przyjaciel ginie podczas/prosto po prologu (wariant A), czy przeżywa i wraca w finale (wariant B)? Jak odróżnić pozorną śmierć od rzeczywistej w opowieści?
 8. Jakie zdarzenie prowadzi do spotkania bohaterów przy szpitalu?
 9. Jaki udział obu perspektyw w odkryciach ma wynikać z gameplayu, a jaki z opcjonalnych znajdziek?
-10. Imiona, dokładne wieki, miejsce pracy, charakter i wątki z lat 80. — pozostają do zatwierdzenia.
+10. Imiona, dokładne wieki, redakcja dziennikarki, charakter i wątki z lat 80. — pozostają do zatwierdzenia. Pochodzenie bohaterów (Miedziańsk/Wrocław i Kraków) zostało zatwierdzone.
 
 ## 9. Ochrona istniejącego kanonu
 
@@ -107,3 +111,9 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 - Nie przypisujemy rosyjskim i polskim instytucjom rzeczywistych historycznych eksperymentów w Legnicy; wszystkie zdarzenia opisane w tym pliku to fikcja.
 - Nie wprowadzamy „wybrańców”, odporności fabularnej bez uzasadnienia ani obowiązkowego zakończenia historii miasta wraz z ucieczką pary.
 - **Cały dokument jest roboczy. Uwagi autora mają pierwszeństwo przed opisanymi tu wariantami.**
+
+## 10. Decyzja autora — rozłożenie tajemnicy na całą grę (6 listopada 2026)
+
+**[KANON]** Dziennikarka pochodzi z Miedziańska, mieszka we Wrocławiu; oficer pochodzi z Krakowa, jest w Miedziańsku od kilku dni. Pierwszy incydent biologiczny wydarzył się **kilka dni przed prologiem** i nie wynika z przybycia Polaków. Ich inspekcja 13 X może nasilić trwający konflikt personelu; katastrofa prologu rozgrywa się na radzieckim poziomie technicznym **–2**, natomiast serce programu na poziomie **–3** zostaje odkryte dopiero w późnej części gry.
+
+**[KANON]** Przyjaciel ratuje oficera i znika po prologu. Nie powstaje z niego trzeci, stale obecny członek drużyny. **[OTWARTE]** Wariant A — przyjaciel umiera; wariant B — oficer uważa go za martwego, ale przyjaciel przetrwał i powraca w finale z pomocą. Sposób uratowania przez niego pary z okolic kordonu nie jest jeszcze ustalony. Dokładny prolog, czas trwania (wcześniejsza propozycja 30–40 minut), rozmiar kompleksu, rodzaj awarii i przejścia między poziomami wymagają dalszego projektu.

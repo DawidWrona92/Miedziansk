@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.11  
+**Wersja:** 0.12  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -37,16 +37,16 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 ## 4. Bohaterowie [KANON co do podstaw; szczegóły PROPOZYCJA]
 
 ### Dziennikarka
-- Polska dziennikarka, entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej z pracą laboratorium.
+- Polska dziennikarka **pochodząca z Miedziańska, obecnie mieszkająca we Wrocławiu** [KANON]; entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej ze szpitalem i tropami laboratorium.
 - Rozpoczyna w mieście, prawdopodobnie w hotelowym barze, gdzie zdobywa informacje.
 - Nieprzeszkolona strzelecko: w stresie celuje gorzej i wolniej przeładowuje; sprawna w walce wręcz, improwizacji i tworzeniu prowizorycznych ochraniaczy; może wykorzystywać sprzęt z magazynów policyjnych po dawnej MO.
 - Zna lokalnych mieszkańców i przestrzeń miejską.
 - **Otwarte:** imię, wiek, związki z opozycją, powód umiejętności walki wręcz, zawodowe źródła.
 
 ### Oficer
-- Polski oficer wojsk powietrznodesantowych, szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
+- Polski oficer wojsk powietrznodesantowych **pochodzący z Krakowa, od kilku dni przebywający w Miedziańsku** jako przedstawiciel Wojska Polskiego przy wycofywaniu rosyjskich wojsk [KANON]. Szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
 - Ma nadzorować/opiniować wycofywanie rosyjskiego personelu i wyposażenia. Nie zna prawdziwej funkcji laboratorium.
-- Rozpoczyna w bunkrze; podczas narastającej epidemii traci przytomność; **ratuje go kolega**, również uczestniczący w kontroli wyprowadzki.
+- Rozpoczyna prolog z przyjacielem podczas inspekcji, **w radzieckim zapleczu na poziomie –2**, gdzie na skutek wcześniej istniejącego kryzysu dochodzi do utraty kontroli. Bohater zostaje ranny/traci przytomność; **ratuje go przyjaciel**, który **znika po prologu**. Dalszy los przyjaciela pozostaje otwarty: umiera albo okazuje się, że przeżył i może wrócić w finale.
 - Biegły w obsłudze broni palnej, taktyce i procedurach.
 - **Otwarte:** imię, stopień, historia służby, odpowiedzialność za wydarzenia z lat 80., los kolegi. Przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią, nie zatwierdzonym kanonem.
 
@@ -127,3 +127,7 @@ Autor wyraźnie zdecydował, że **science fiction Rubieży nie powinno być ogr
 ## 16. Zatwierdzenie wirusa i rozdzielenie statusu bohaterów (6.11.2026)
 
 Autor zaakceptował ostateczny obraz infekcji, jej dramaturgię i przybliżoną skalę przełomu szpitalnego. Zakażeni nie są martwi ani nadludzko sprawni, nie sprintują masowo, lecz nie odczuwają bólu, tracą orientację i mogą odtwarzać zwykłe zachowania. Przemiany: najkrótsze około 15 minut, wcześniejsze godziny/doby. Transmisja przez zakażoną krew i płyny ustrojowe. **Rozdział `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md` ma status PROPOZYCJI**, a nie zatwierdzonej historii postaci: autor zapowiedział uwagi.
+
+## 17. Zatwierdzony kierunek prologu i rola przyjaciela (6.11.2026)
+
+Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijającego się kryzysu, **bez spowodowania pierwotnego wycieku**; eskalację w dawnym radzieckim poziomie technicznym **–2**, bez odsłaniania serca programu na **–3**; odłożenie eksploracji –3 do późnej części gry; **zniknięcie przyjaciela po prologu** i brak stałego trzeciego towarzysza. **OTWARTE:** śmierć przyjaciela albo przeżycie i jego możliwy ratunek finałowy. Nie przyjmować żadnego wariantu milcząco. Główne profile: dziennikarka z Miedziańska, mieszka we Wrocławiu; oficer z Krakowa, na miejscu dopiero od kilku dni.
