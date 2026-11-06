@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.4  
+**Wersja:** 0.5  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -16,7 +16,7 @@
 | Nr | Status | Temat | Rezultat | Kryterium zakończenia |
 |---|---|---|---|---|
 | 01 | **ZATWIERDZONY ZARYS** | **Historia Miedziańska: geneza przed 1930 i lata 1930–1992** | Dawne wydobycie miedzi i pochodzenie nazwy, przemysł, garnizon, szpital, rok 1992, małe muzeum | Oś czasu bez sprzeczności, co najmniej 8 lokacji wynikających z historii, decyzja o profilu gospodarczym i muzeum |
-| 02 | DO ZROBIENIA | Geografia i struktura miasta | Dzielnice, korytarze komunikacyjne, topografia, mapa warstwowa | Wiarygodny dojazd do szpitala, garnizonu, zakładu i bocznicy; sensowny kordon |
+| 02 | **W TOKU — założenia zatwierdzone, układ szczegółowy do akceptacji** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | DO ZROBIENIA | Garnizon i szpital | Dowództwo rosyjskie, Polska komisja, hierarchia, jawna funkcja szpitala, kolejne rozbudowy | Wiadomo kto, co i kiedy kontroluje, skąd zna informacje, jakie ma możliwości |
 | 04 | DO ZROBIENIA | Tajny program i epidemia | Pochodzenie, incydent pierwotny, reguły zakażenia, skala i tempo | Zakażenia i reakcja służb spójne z 36 h, brak magicznych wygodnych wyjątków |
 | 05 | DO ZROBIENIA | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
@@ -32,7 +32,7 @@
 
 ## Dalszy tok prac
 
-1. **Teraz:** etap 02: geografia i dzielnice Miedziańska; historyczny kierunek został zatwierdzony.
+1. **Teraz:** domknąć etap 02 — zatwierdzić szkic przestrzenny w `07-GEOGRAFIA-I-UKLAD-MIASTA.md`, ewentualnie poprawić orientację, skalę i mosty.
 2. **Następnie:** narysować prostą mapę z realnymi relacjami: rynek–dworzec–fabryka–Kwadrat–szpital–drogi wylotowe.
 3. **Potem:** dopiero precyzować instytucję rosyjską i podziemny program. Historia i geografia muszą uzasadniać ich położenie.
 4. **W dalszej kolejności:** projektować przeszłość i motywacje bohaterów na tle tej historii, a nie niezależnie od niej.
@@ -48,8 +48,8 @@ Niektóre wątki można opracowywać równolegle, ale połączenia między nimi 
 - **[UZGODNIONE]** Miedziańsk powstał dzięki dawnym złożom miedzi, a później rozwinął się w ośrodek kolejowo-przemysłowy; po 1945 r. stał się dodatkowo miastem garnizonowym.
 - **[ZATWIERDZONY KIERUNEK]** Dawne górnictwo wygasło przed 1930 r., lecz przemysł i warsztaty przetrwały. Dokładny rok do ustalenia.
 - Czy główny zakład PRL ma produkować maszyny, części elektromaszynowe i urządzenia dla hutnictwa/górnictwa, zamiast być pełną hutą miedzi? (rekomendacja: tak, mniejsza skala łatwiejsza do uzasadnienia).
-- Czy stary szpital wojskowy leży na **zalesionym wzgórzu / obrzeżu**, z niewielkim schronem z końca lat 30.? (rekomendacja: tak).
+- **[KANON — KOREKTA]** Jedyny główny szpital miasta leży blisko centrum i przemysłu, ma część polską oraz rosyjskie skrzydło z przepustkami. Dawna propozycja położenia go na dalekim obrzeżu jest anulowana; mały niemiecki schron pozostaje kanonem.
 - **[KANON]** Małe muzeum miedzi i historii miasta w centrum. Jego szczegółowa funkcja w kampanii nadal otwarta.
-- Czy radziecki garnizon ma **dwa odrębne kompleksy**: reprezentacyjny kwartał sztabowy i szpital z zapleczem, plus bocznicę/magazyn? (rekomendacja: tak).
+- **[KANON]** Rosyjski kwartał ma sztab w dawnym poniemieckim garnizonie/szkole, mieszkania, szkołę i usługi. Szpital stanowi inny, centralny obiekt o podzielonym dostępie; magazyny i bocznice do rozmieszczenia na mapie.
 - Jak mocno pokazać represje z lat 1981–1982 w rodzinnych historiach bohaterów? (otwarte, wymaga taktu i badań).
 **[KANON] Nazwa przedwojenna:** **Kupfertal**. Od 1945 r. nazwa polska: **Miedziańsk**. Decyzja zamknięta; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`.

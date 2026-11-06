@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.4  
+**Wersja:** 0.5  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -21,9 +21,11 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - Miasto liczy około **30–40 tys. mieszkańców**; PRL-owskie fabryki i duży szpital są tu całkowicie dopuszczalne.
 - **[KANON] Nazwa Miedziańsk wywodzi się z rzeczywistej, dawnej eksploatacji miedzi w fikcyjnym mieście.** Historyczne złoża, dawne kopalnie i infrastruktura gospodarcza istniały przed wojną. Rozwijający się przemysł niemiecki przejęli po 1945 r. Polacy, zachowując miedziowe skojarzenie w nazwie miasta; przed 1945 r. miasto nosiło jedyną niemiecką nazwę **Kupfertal**, po wojnie otrzymało polską nazwę **Miedziańsk** (zob. `06-NAZEWNICTWO-NIEMIECKIE.md`).
 - **[KANON]** Niewielkie Muzeum Miedzi i Historii Miasta, z wystawą „Miedź na ziemiach polskich”, w jednym budynku przy Starym Mieście. Patrz `05-MUZEUM-MIEDZI-I-MIASTA.md`.
-- Historyczne centrum, dzielnica przemysłowa/robotnicza, dzielnica rosyjska, osiedla, szpital wojskowy i jego podziemia.
-- Budynek szpitala powstał w okresie niemieckim; początkowo był przy nim **niewielki schron**. Po wojnie zajęli go Sowieci i stopniowo rozbudowali instalację podziemną.
-- W mieście istnieje wyodrębniona infrastruktura rosyjskiego garnizonu oraz ośrodek dowodzenia/specjalistycznego zabezpieczenia; dokładna struktura i nazwa do opracowania.
+- **[KANON]** Kupfertal/Miedziańsk powstał w rzecznej dolinie między wzniesieniami. Rzeka przepływa przez Stare Miasto. Dawne, zalane wyrobiska miedzi leżą przy obecnym pasie przemysłowym. W centrum sąsiadują odbudowane i ocalałe kamienice z blokami PRL. Historyczna obrona fikcyjnej **Festung Kupfertal** w 1945 r. doprowadziła do ogromnych zniszczeń centrum. 
+- **[KANON]** Główne obszary: Stare Miasto, osiedla, dzielnica przemysłowa/robotnicza, rosyjski kwartał, dworzec i bocznice, wspólny szpital miejski z podziemiami.
+- **[KANON]** Jest to zasadniczo **jeden szpital dla całego miasta**, z cywilną polską częścią i odseparowanym rosyjskim skrzydłem wojskowym, do którego dostęp jest kontrolowany dokumentami. Powstał jeszcze w okresie niemieckim, pierwotnie miał mały schron, który później Rosjanie rozbudowali w podziemny kompleks. **Szpital znajduje się blisko śródmieścia i zakładów przemysłowych, nie na dalekich obrzeżach**. Powiązania administracyjne i techniczne tej nietypowej placówki są fikcyjne i będą wyjaśnione w etapie 03.
+- **[KANON]** Dzielnica rosyjska ma własne budynki sztabu, koszary, mieszkania, domy oficerów, małą szkołę, sklepy i stołówki. Sztab mieści się w dawnym poniemieckim garnizonie, powstałym przez adaptację wcześniejszej szkoły; charakter jednostki i dokładna historia adaptacji do opracowania w etapie 03.
+- **[KANON]** Miasto posiada duży dworzec, bocznice kolejowe i dobre połączenie drogowe z trasą przebiegającą w pobliżu. Liczba mostów, kierunki ulic, układ kordonu oraz punkty dostępu do dzielnic pozostają propozycjami etapu 02.
 - **13 października 1992 r. późnym popołudniem:** początek gry. **Noc 13/14 października:** pierwszy śnieg w fikcyjnym Miedziańsku, okres spotkania bohaterów. **14 października:** mroźny ranek ze śniegiem.
 - Cała opowieść ma objąć **nie więcej niż dwa dni** — proponowany okres od późnego popołudnia 13 października do wczesnego ranka 15 października (~36 godzin).
 - Ośrodek pod szpitalem prowadził tajny **program biologiczny**; geneza zakażenia i szczegółowe właściwości patogenu nie są jeszcze ustalone.
@@ -81,7 +83,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - Związek przyjaciółki dziennikarki z laboratorium i jej los.
 - Los kolegi oficera, pozostałych żołnierzy i obsady szpitala.
 - Nazwa/kod rosyjskiej instalacji, skala garnizonu i daty kolejnych rozbudów.
-- Układ dzielnic, ścieżki ucieczki, rozmieszczenie węzłów komunikacyjnych.
+- Dokładne strony świata, liczba i położenie przepraw, układ ulic, trasy ewakuacji, rozmieszczenie węzłów komunikacyjnych (ogólny kierunek geografii jest kanonem; patrz `07-GEOGRAFIA-I-UKLAD-MIASTA.md`).
 - Szczegółowy finał i konsekwencje dla pozostałych mieszkańców (**bez nuklearnego zniszczenia miasta**).
 - Kamera, platforma, docelowa długość gry, system sterowania, faktyczny zakres produkcyjny.
 - Oficjalna nazwa gry — „Ostatni transport” pozostaje wyłącznie roboczą propozycją.
@@ -92,3 +94,7 @@ Dotychczasowy kierunek świata i historii, muzeum, rama fabuły, dwaj bohaterowi
 ## 9. Ostateczny wybór nazwy (6.11.2026)
 
 **[KANON] Kupfertal** jest jedyną niemiecką nazwą miasta przed rokiem 1945. Po wojnie obowiązuje **Miedziańsk**. Autor wykluczył inne warianty niemieckiej nazwy i przydomki. Niemieckie „Kupfer” (miedź) i „Tal” (dolina) nawiązują do historycznych złóż i położenia miasta. Ta decyzja zamyka kwestię nazewnictwa; nie należy ponownie przedstawiać jej jako pytania otwartego.
+
+## 10. Zatwierdzone zmiany urbanistyczne (6.11.2026)
+
+Rzeka przez historyczne centrum, stara kopalnia pod dzisiejszym przemysłem, wysoka skala zniszczeń wojennych i powojenne mieszane pierzeje, rozbudowany dworzec oraz dojazd do trasy, dawny budynek szkolny przejęty na garnizon, komplet rosyjskiej dzielnicy, wspólny miejski szpital z zamkniętym rosyjskim skrzydłem **w centrum lub niedalekim śródmieściu przy przemysłowym pasie** są nowymi elementami kanonicznymi. Wcześniejszy szpital na leśnym wzgórzu poza miastem został jawnie zastąpiony. Warianty szczegółowego przebiegu dróg, mostów i dzielnic są jeszcze do oceny.

@@ -14,7 +14,7 @@ Nie powinien wyglądać jak kolejne anonimowe miasto z PRL. W jednym kadrze moż
 
 **Tożsamość gospodarcza:** **dawna miedź → niemiecki przemysł metalowy i kolej → polski przemysł elektromaszynowy dla Zagłębia Miedziowego + garnizon**. Historyczne płytkie złoża mogą zostać wyczerpane lub przestać się opłacać, ale nie znikają warsztaty, bocznica, budynki, fachowcy i tradycje. W 1992 r. miasto **nie potrzebuje dużej czynnej kopalni**. Podział na „stare” lokalne złoża i „nowe” głębokie złoża Legnicko-Głogowskiego Okręgu Miedziowego jest zgodny z realnym historycznym rozwojem regionu [H8, H9, H10].
 
-**Szkic ukształtowania:** nieduża dolina z rzeką, historyczne centrum na lekkim wyniesieniu, zabudowa fabryczna i bocznica przy linii kolejowej, willowa dzielnica zamknięta blisko centrum, leśne wzgórze ze szpitalem na północno-zachodnim obrzeżu. Dokładne strony świata są **robocze** i powinny zostać ustalone dopiero przy mapie.
+**[KANON GEOGRAFII]** Miasto powstało w dolinie rzecznej między dwoma pasmami wzniesień; rzeka przepływa przez historyczne centrum. Dawne szyby miedzi, obecnie zalane, znajdują się na terenach otoczonych współczesną zabudową przemysłową. W Starym Mieście obok ocalałych i odbudowanych poniemieckich kamienic stoją bloki PRL. Szpital leży **w śródmieściu/blisko śródmieścia i dzielnicy przemysłowej**, a nie na odległym wzgórzu. Rosyjski „Kwadrat” mieści się w przedwojennym garnizonie wyrosłym z jeszcze wcześniejszej szkoły. Miasto ma duży dworzec, bocznice i dogodny dojazd do trasy pozamiejskiej. Ostateczne strony świata i położenie przepraw są dopiero propozycją w `07-GEOGRAFIA-I-UKLAD-MIASTA.md`.
 
 ## Przed rokiem 1930 — skąd wziął się Miedziańsk?
 
@@ -42,11 +42,11 @@ Miedziańsk leży w ówczesnych Niemczech, administracyjnie w historycznym regio
 
 Miasteczko liczy **około 14–18 tys. mieszkańców** [PROPOZYCJA]. Rozwija się dzięki linii kolejowej, warsztatom naprawczym, zakładom metalowym i drobnej produkcji. Wciąż widać dziedzictwo dawnego górnictwa: wyrobiska poza granicami zabudowy, magazyny rudy przekształcone w składy, stare nazwy ulic i rodzinne tradycje. Same kopalnie są już w większości wygaszone. W rynku działają restauracje, apteka, niewielki hotel, księgarnie; obok stoi budynek sądu lub urzędu. Na obrzeżach są sady, ogrody działkowe i nieduży las. Właśnie w tej dekadzie wznoszone są lub modernizowane niektóre budynki publiczne.
 
-**Ślad dla gracza:** oryginalne niemieckie kafelki na klatkach schodowych; wyblakłe litery pod nowymi szyldami; wielojęzyczne stare dokumenty; żeliwne poręcze i piękne fasady ukrywające ślady wojny.
+**Ślad dla gracza:** oryginalne niemieckie kafelki na klatkach schodowych; wyblakłe litery pod nowymi szyldami; wielojęzyczne stare dokumenty; żeliwne poręcze i piękne fasady ukrywające ślady wojny. W 1992 r. ocalałe kamienice przeplatają się z blokami postawionymi w lukach po zniszczeniach *Festung Kupfertal*.
 
 ## 2. Lata 1936–1939 — budowa szpitala i małego schronu
 
-Na skraju leśnego wzgórza niemieckie władze wojskowe budują **szpital wojskowy / rezerwową placówkę medyczną**. Jego powstanie uzasadniają rosnące przygotowania militarne, położenie przy kolei oraz możliwość izolowania budynku od centrum miasta. Nie jest to monumentalny odpowiednik legnickiego szpitala, tylko mniejszy kompleks: budynek główny, część gospodarcza, kotłownia, kaplica lub sala chorych i magazyn.
+Przy centrum Kupfertal, niedaleko kolejowego i przemysłowego zaplecza, niemieckie władze rozbudowują placówkę medyczną do **szpitala miejskiego z funkcją rezerwową dla wojska**. Powstaje duży, ale nie monumentalny kompleks: główny gmach z kilkoma skrzydłami, część gospodarcza, kotłownia, sala chorych i magazyn. Umiejscowienie blisko centrum sprawia, że po 1945 r. może obsługiwać większość miasta, a dostęp do jednego ze skrzydeł zostaje ograniczony przez władze radzieckie. Rozmieszczenie wejść i funkcję każdego skrzydła opracujemy osobno.
 
 **Skala proponowana:** około 120–180 łóżek w okresie wojennym, z możliwością czasowej rozbudowy. To **liczby fikcyjne**, dobrane do 35-tysięcznego Miedziańska. Legnicki odpowiednik, wybudowany w 1937 roku, był znacznie większy [H3].
 
@@ -58,7 +58,7 @@ Pod jednym skrzydłem powstaje **niewielki schron sanitarny**: kilka pomieszcze�
 
 W czasie II wojny światowej szpital służy niemieckim wojskowym. Fabryki przestawiają część produkcji na zamówienia wojenne. W mieście pojawiają się robotnicy przymusowi i jeńcy wykorzystywani do pracy; ich losy mogą być częścią lokalnego archiwum, ale trzeba je przedstawiać poważnie, a nie jako dekorację horroru.
 
-W końcowej fazie wojny odbywają się ewakuacje personelu i części sprzętu. Naloty lub walki uszkadzają **wybrane** fragmenty centrum i okolicy stacji kolejowej — nie całe miasto. Wiosną 1945 roku docierają tu oddziały Armii Czerwonej. Szpital, koszary i strategiczne obiekty zostają przejęte pod wojskowy zarząd.
+**[KANON — FIKCYJNA HISTORIA]** Pod koniec 1944 lub na początku 1945 roku niemieckie dowództwo wyznacza Kupfertal jako punkt oporu, w narracji militarnej określany jako **Festung Kupfertal**. Wobec ofensywy Armii Czerwonej organizuje obronę mostów, stacji, zakładów i zabudowy śródmiejskiej. Długie walki doprowadzają do ogromnych zniszczeń starego centrum, w szczególności całych kwartałów kamienic. Nie wszystkie dzielnice są zniszczone w równym stopniu: część zabudowy niemieckiej ocalała, a zakłady i wielki dworzec mogą zostać po wojnie odbudowane; część szpitala oraz gmach dawnej szkoły/garnizonu pozostają użytkowalne. Są to **wydarzenia fikcyjnego miasta**, inspirowane przede wszystkim prawdziwym *Festung Glogau*, a nie przebiegiem walk o Legnicę. Na początku 1945 r. Kupfertal zajmuje Armia Czerwona.
 
 **Ślad dla gracza:** w kotłowni za późniejszą ścianą znajdują się niemieckie numery techniczne; w piwnicy kamienicy — niedokończone oznaczenia ewakuacyjne. Nie wszystkie sekrety muszą być związane z wirusem.
 
@@ -66,14 +66,14 @@ W końcowej fazie wojny odbywają się ewakuacje personelu i części sprzętu. 
 
 Po wojnie Miedziańsk trafia w granice Polski. Zmienia się administracja i nazwy ulic. W kolejnych latach znaczna część niemieckich mieszkańców zostaje wysiedlona, a do miasta przyjeżdżają polscy osadnicy, w tym ludzie przesiedleni z dawnych ziem wschodnich i z innych obszarów kraju. To proces bolesny, nierówny i pełen konfliktów o mieszkania, warsztaty oraz własność [H5].
 
-Po wojnie polska administracja nadaje miastu nazwę **Miedziańsk**, nawiązującą znaczeniem do starszego, miedziowego niemieckiego toponimu. Polskie zakłady przejmują dawną infrastrukturę przemysłową i zatrudniają część nowych osadników. W mieście funkcjonują odtąd dwie rzeczywistości:
+Po wojnie polska administracja nadaje miastu nazwę **Miedziańsk**, nawiązującą do dawnej nazwy Kupfertal. Polskie zakłady przejmują i odbudowują przedwojenną infrastrukturę przemysłową, a kolejne plany odbudowy Starego Miasta w latach 50.–70. pozostawiają typową **mozaikę odrestaurowanych niemieckich kamienic oraz nowych bloków z wielkiej płyty w tych samych pierzejach**. W mieście funkcjonują odtąd dwie rzeczywistości:
 
 1. **Polska** — odbudowująca rynek, dworzec i zakłady; nowe rodziny próbują urządzić się w obcych wcześniej budynkach.
 2. **Radziecka** — wojskowa, odgrodzona, uprzywilejowana dostępem do części infrastruktury, nieprzejrzysta dla mieszkańców.
 
-Armia radziecka zajmuje szpital z przyległym lasem, kilka reprezentacyjnych willi i budynek dawnej administracji wojskowej. Z czasem powstaje **zamknięty kwartał sztabowy**, lokalnie nazywany roboczo **Kwadratem**, w nawiązaniu do Legnicy [H1]. Polscy mieszkańcy mogą przechodzić obok ogrodzenia, ale nie wejść do środka. Część ludzi pracuje dla garnizonu jako personel cywilny; inni czerpią korzyści z handlu. Jeszcze inni odbierają zajęte budynki jako trwającą utratę kontroli nad własnym miastem.
+Armia radziecka zajmuje dawny budynek szkolny zaadaptowany jeszcze przez Niemców na garnizon oraz przyległe koszary i wille. Z czasem rozbudowuje **zamknięty kwartał sztabowy**, lokalnie nazywany roboczo **Kwadratem**, w nawiązaniu do Legnicy [H1]. Są w nim biura sztabu, kwatery, domy oficerskie, mała szkoła, sklepy i stołówki. Polscy mieszkańcy mijają ogrodzenia i posterunki, ale nie mają swobodnego dostępu. Radzieccy wojskowi **zajmują także w centrum część szpitala**, podczas gdy reszta budynku po uregulowaniu powojennych stosunków własnościowych nadal działa jako **główna polska placówka medyczna**. Podział dostępu, obsługi i odpowiedzialności musi mieć odrębne, fikcyjne uzasadnienie w etapie 03; nie przedstawiamy go jako udokumentowanego legnickiego precedensu.
 
-**Ślad dla gracza:** szpital na oficjalnych mapach nadal istnieje, ale otaczający go las i część dróg nie są dostępne. Niektóre przejścia w mieście od lat kończą się na zamkniętej bramie.
+**Ślad dla gracza:** na szpitalnym piętrze od dziesięcioleci stoją drzwi i uzbrojony posterunek, za które polski personel nie ma wstępu. Dawne plany medyczne pokazują skrzydło jako część placówki, ale aktualne wewnętrzne schematy polskiego szpitala omijają tę strefę.
 
 ## 5. Lata 1956–1969 — miasto przemysłu i specjalistycznego zaplecza
 
@@ -81,7 +81,7 @@ Miedziańsk rozwija zakład produkcji części maszyn i wyposażenia dla przemys
 
 W tym samym czasie radziecka infrastruktura otrzymuje nowe zadanie: **rejonowe zabezpieczenie techniczne, medyczne i rozpoznawanie skażeń** dla wybranych jednostek Północnej Grupy Wojsk. Jest to **fikcyjny, lokalny ośrodek**, podporządkowany większym strukturom w Legnicy; Miedziańsk nie konkuruje z rzeczywistym sztabem PGW.
 
-Pod koniec lat 60. szpital zostaje rozbudowany o blok laboratoryjno-diagnostyczny (jawny), a **pierwszy etap podziemnych rozbudów** powiększa dawny niemiecki schron o korytarze techniczne, magazyny i infrastrukturę awaryjną [PROPOZYCJA]. Dokładne daty, liczby poziomów i organizację tuneli ustalimy na etapie projektowania kompleksu.
+Pod koniec lat 60. **wspólny polsko-radziecki budynek szpitalny** otrzymuje nową powierzchnię diagnostyczną i zmodernizowaną obsługę techniczną. Za zamkniętymi drzwiami skrzydła rosyjskiego **pierwszy etap podziemnych rozbudów** powiększa dawny niemiecki schron o pomieszczenia techniczne, magazyny i infrastrukturę awaryjną [PROPOZYCJA]. Personel cywilny nie ma dostępu do tej części. Dokładne daty i struktura odpowiedzialności będą ustalone w etapie 03.
 
 **Ślad dla gracza:** dokumenty z 1938 roku, projekty budowlane z lat 60. i plan instalacji z 1991 roku pokazują trzy różne rozmiary tego samego obiektu.
 
@@ -166,9 +166,9 @@ W centrum dziennikarka przygotowuje spotkanie z informatorem w hotelowym barze. 
 | LOC-01 | **Rynek i Stare Miasto** | niemieckie kamienice, polskie urzędy i sklepy, nowe szyldy | pierwsza „żywa” dzielnica, powrót po katastrofie |
 | LOC-02 | **Hotel przy rynku** | stary gmach, później zakwaterowanie i miejsce spotkań | start dziennikarki, rozmowy, pierwszy atak |
 | LOC-03 | **Dworzec i bocznica** | węzeł przemysłowo-wojskowy | transport rosyjskich wojsk, możliwa droga ucieczki |
-| LOC-04 | **MZE i osiedle robotnicze** | niemieckie warsztaty + zakłady PRL + Solidarność | cywilni ocaleni, wybory moralne, eksploracja hali |
+| LOC-04 | **MZE, zalane dawne szyby i osiedle robotnicze** | wyrobiska miedzi, niemieckie warsztaty, zakłady PRL + Solidarność | cywilni ocaleni, woda pod ziemią, wybory moralne, eksploracja hali |
 | LOC-05 | **Kwadrat** | historyczne wille przejęte po wojnie przez wojskowych | ogrodzony rosyjski świat, ślady ewakuacji |
-| LOC-06 | **Szpital na Leśnym Wzgórzu** | niemiecka lecznica, przejęcie i rozbudowa | główna tajemnica, dojście do podziemi |
+| LOC-06 | **Szpital Miejski z zamkniętym skrzydłem rosyjskim** | centralny niemiecki szpital, po wojnie podzielony | główna tajemnica i ognisko epidemii w sercu miasta |
 | LOC-07 | **Schron i laboratorium** | mały niemiecki schron + rosyjskie poziomy | prolog i późniejsza eksploracja, trzy epoki architektury |
 | LOC-08 | **Komisariat / magazyn prewencji** | stara infrastruktura nowej Policji | improwizowany sprzęt dziennikarki, napięcia ze służbami |
 | LOC-09 | **Most i wyjazd z miasta** | zwykły węzeł drogowy przechodzący w kordon | dynamiczna granica dzielnic, finalna stawka |
@@ -223,3 +223,6 @@ Te napięcia mają istnieć już **przed** zakażeniami. Epidemia je wyostrza, z
 **[KANON KIERUNKU]** Miedziańsk nie zostaje zniszczony przez wybuch atomowy ani nie znika po opuszczeniu go przez głównych bohaterów. **Ucieczka protagonistów nie oznacza zwycięstwa nad epidemią, końca blokady ani losu wszystkich mieszkańców.** W mieście mogą pozostawać żywi cywile, odcięte grupy ratunkowe i niezlikwidowane ogniska zakażenia.
 
 **[OTWARTE]** Dokładny stan miasta po 15.10.1992, skutki kwarantanny, decyzje władz oraz możliwość późniejszego powrotu do Miedziańska — ustalimy przy projektowaniu finału. Nie wprowadzamy z góry żadnego katastroficznego „wymazania” miasta z mapy.
+## Aneks do historii — korekta układu miasta (6.11.2026)
+
+Powyższe ustalenia wprowadzają wojenne *Festung Kupfertal*, zniszczenie większości starego centrum, wypełnienie luk modernistyczną zabudową powojenną, rzekę w śródmieściu i zalane kopalnie przy pasie fabrycznym. Najważniejsza korekta: **nie ma odległego szpitala wyłącznie radzieckiego**; istnieje **jeden zasadniczy szpital miejski z wydzielonym, pilnowanym skrzydłem rosyjskim**, blisko centrum i przemysłu. Historia jego wspólnej eksploatacji wymaga później osobnego uzasadnienia prawnego i administracyjnego. Szczegółowy plan przestrzenny: `07-GEOGRAFIA-I-UKLAD-MIASTA.md`.

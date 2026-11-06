@@ -35,6 +35,16 @@
 - **[H13] Miasto Stolberg — historyczny przydomek Kupferstadt, oficjalny od 2012 roku.**
   https://media.stolberg.de/E_N_11_12/E_N_12/E_12/HA/ein_ha_26_06_2012.pdf
 
+
+- **[H14] Oficjalny portal Legnicy — studium zagospodarowania przestrzennego i przekształcenia Starego Miasta.** Zniszczenia (także powojenne) i przebudowa starówki w latach 60. XX w., mieszana zabudowa.  
+  https://um.bip.legnica.eu/download.php?id=9235&s=107
+- **[H15] Urząd Miasta Głogów — „1000 lat Głogowa”.** Oficjalne wyznaczenie Festung Glogau w 1944 r., walki i zniszczenia przekraczające 90% zabudowy. Analogiczny kontekst dla *fikcyjnej* Festung Kupfertal.  
+  https://www.glogow.pl/1000lat/index.php?Itemid=1&id=88&option=com_content&view=article
+- **[H16] Oficjalny portal Legnicy — wydzielone kompleksy radzieckie, szpitale i szkoły.** Analogiczna praktyka izolacji; **nie dokumentuje wspólnego polsko-rosyjskiego szpitala w jednym budynku**.  
+  https://portal.legnica.eu/sladami-malej-moskwy-9-22/
+- **[H17] Archiwum Państwowe we Wrocławiu — „Koniec Małej Moskwy”.** Przekazywanie budynków i nieruchomości po wojskach radzieckich, w tym szpitalnych, w 1992–1993 r.  
+  https://www.wroclaw.ap.gov.pl/sites/default/files/koniec-malej-moskwy/index.html
+
 ## Fakty / fikcja
 
 | Informacja | Klasyfikacja |
@@ -56,3 +66,5 @@
 
 Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kompetencje służb, konkretna struktura rosyjskich wojsk RChB oraz prawdziwy wygląd wyposażenia wojskowego z 1992 r. wymagają osobnego researchu przy kolejnych etapach. Nie należy podawać historycznych analogii jako dowodu na istnienie tajnego programu biologicznego w Legnicy.
 **Ważne:** „Kupfertal” jest ostateczną niemiecką nazwą fikcyjnego Miedziańska w kanonie gry. Nie jest to twierdzenie o historycznej nazwie żadnego rzeczywistego miasta.
+
+**Uzupełnienie fikcji (6.11.2026):** *Festung Kupfertal* (fikcyjna decyzja dowództwa niemieckiego z zimy 1944/45) jest inspirowana prawdziwym *Festung Glogau* [H15]; nie twierdzimy, że Legnica była analogiczną twierdzą. Szpital polsko-rosyjski z jedną wspólną bryłą i pilnowanym skrzydłem to rozwiązanie **fabularne**, nie potwierdzony historycznie model funkcjonowania szpitala w Legnicy [H16, H17].

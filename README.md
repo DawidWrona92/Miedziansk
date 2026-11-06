@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.4 — 6 listopada 2026  
+**Wersja:** 0.5 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -14,6 +14,8 @@
 6. [`docs/05-MUZEUM-MIEDZI-I-MIASTA.md`](docs/05-MUZEUM-MIEDZI-I-MIASTA.md) — **zatwierdzona mała lokacja muzealna w sercu miasta**.
 
 7. [`docs/06-NAZEWNICTWO-NIEMIECKIE.md`](docs/06-NAZEWNICTWO-NIEMIECKIE.md) — zatwierdzona przedwojenna nazwa Kupfertal.
+
+8. [`docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md`](docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md) — geografia, położenie dzielnic, rzeka, kolej, szpital i węzły komunikacji; etap 02 w toku.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -38,3 +40,9 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Zatwierdzono dotychczasowy kierunek historii miasta i cały uzgodniony fundament projektu 6 listopada 2026 r.
 - Etap 01 (historia): zatwierdzony zarys; kolejny etap 02 (geografia).
 - Wersja 0.4: ostatecznie przyjęto **Kupfertal** jako jedyną nazwę niemiecką do 1945 r.; **Miedziańsk** pozostaje nazwą polską po 1945 r. Usunięto alternatywę nazewniczą z kanonu.
+
+## Zmiany w wersji 0.5
+
+- Zaakceptowano założenia geograficzne: dolina rzeczna, przepływ rzeki przez Stare Miasto, dawne zalane kopalnie pod/obok późniejszych terenów przemysłowych, miasto zniszczone w obronie Festung Kupfertal (fikcyjne), kontrast kamienic i bloków.
+- Zatwierdzono centralne położenie jednego miejskiego szpitala oraz istnienie odseparowanego skrzydła rosyjskiego; dawny opis szpitala na peryferyjnym wzgórzu jest nieaktualny.
+- Rozpoczęto etap 02: szkic topografii, dzielnic, kolei, mostów, tras i propozycja mapy logicznej. Szczegóły liczbowo-topograficzne pozostają propozycjami do akceptacji.
