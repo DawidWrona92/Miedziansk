@@ -1,0 +1,90 @@
+# Fundamenty i stan ustaleń
+
+**Wersja:** 0.3  
+**Zakres:** stan projektu po rozmowach do 6 listopada 2026.
+
+## 1. Pitch
+
+Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dziennikarka szukająca zaginionej przyjaciółki zostają uwięzieni w Miedziańsku — niewielkim dolnośląskim mieście z tajnym kompleksem biologicznym pod wojskowym szpitalem. Epidemia narasta na ich oczach, a wojskowy kordon odcina drogę ucieczki. Dwoje ludzi z przeciwnych stron politycznego i społecznego podziału musi współpracować, choć każde inaczej rozumie wolność, porządek i odpowiedzialność.
+
+## 2. Uzgodnione filary [KANON]
+
+1. **Polska okresu transformacji, nie generyczne postapo.** Autentyczność obyczajów i instytucji ma współistnieć z fikcyjną epidemią.
+2. **Żywe miasto przechodzące katastrofę.** Gracz obserwuje kolejne etapy chaosu; nie zaczyna w pustych, statycznych ruinach.
+3. **Dwie grywalne perspektywy i konflikt poglądów.** Bohaterowie nie są prostym podziałem na dobro/zło; współpraca budzi wzajemny szacunek bez konieczności zgody politycznej.
+4. **Survival horror: niedobór, napięcie, ucieczka i śledztwo.** Bez obowiązkowego „wystrzelania całego miasta”.
+5. **To samo miejsce może nabierać innego znaczenia.** Lokacje mają zmieniać się w czasie (ludność, barykady, pożary, śnieg, zakażeni, obecność służb).
+
+## 3. Świat i czas [KANON]
+
+- **Miedziańsk** — miasto fikcyjne, inspirowane **Legnicą**, na Dolnym Śląsku; w realiach 1992 r. umieszczane roboczo na terenie ówczesnego województwa legnickiego.
+- Miasto liczy około **30–40 tys. mieszkańców**; PRL-owskie fabryki i duży szpital są tu całkowicie dopuszczalne.
+- **[KANON] Nazwa Miedziańsk wywodzi się z rzeczywistej, dawnej eksploatacji miedzi w fikcyjnym mieście.** Historyczne złoża, dawne kopalnie i infrastruktura gospodarcza istniały przed wojną. Rozwijający się przemysł niemiecki przejęli po 1945 r. Polacy, zachowując miedziowe skojarzenie w nazwie miasta; dokładna niemiecka nazwa jest otwarta (propozycje: „Kupferstadt Tal”, „Kupfertal”; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`).
+- **[KANON]** Niewielkie Muzeum Miedzi i Historii Miasta, z wystawą „Miedź na ziemiach polskich”, w jednym budynku przy Starym Mieście. Patrz `05-MUZEUM-MIEDZI-I-MIASTA.md`.
+- Historyczne centrum, dzielnica przemysłowa/robotnicza, dzielnica rosyjska, osiedla, szpital wojskowy i jego podziemia.
+- Budynek szpitala powstał w okresie niemieckim; początkowo był przy nim **niewielki schron**. Po wojnie zajęli go Sowieci i stopniowo rozbudowali instalację podziemną.
+- W mieście istnieje wyodrębniona infrastruktura rosyjskiego garnizonu oraz ośrodek dowodzenia/specjalistycznego zabezpieczenia; dokładna struktura i nazwa do opracowania.
+- **13 października 1992 r. późnym popołudniem:** początek gry. **Noc 13/14 października:** pierwszy śnieg w fikcyjnym Miedziańsku, okres spotkania bohaterów. **14 października:** mroźny ranek ze śniegiem.
+- Cała opowieść ma objąć **nie więcej niż dwa dni** — proponowany okres od późnego popołudnia 13 października do wczesnego ranka 15 października (~36 godzin).
+- Ośrodek pod szpitalem prowadził tajny **program biologiczny**; geneza zakażenia i szczegółowe właściwości patogenu nie są jeszcze ustalone.
+- Chaos rośnie przez niespójne działania strony polskiej i rosyjskiej, brak wiedzy oraz dynamikę zakażeń. Miasto zostaje otoczone kordonem wojskowym; podchodzący do zewnętrznego kordonu mogą zostać ostrzelani. Służby nie znikają natychmiast — ich kontrola stopniowo się załamuje.
+- **[KANON] Miedziańsk nie zostaje zniszczony atomowo ani wymazany z mapy w finale.** Ucieczka bohaterów nie rozwiązuje automatycznie problemów miasta, a życie pozostałych mieszkańców i los kordonu pozostają otwarte.
+
+**Uwaga historyczna:** śnieg w Miedziańsku jest **ustaleniem fikcyjnej pogody fabularnej**, a nie zweryfikowaną obserwacją meteorologiczną dla Dolnego Śląska w nocy 13/14.10.1992.
+
+## 4. Bohaterowie [KANON co do podstaw; szczegóły PROPOZYCJA]
+
+### Dziennikarka
+- Polska dziennikarka, entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej z pracą laboratorium.
+- Rozpoczyna w mieście, prawdopodobnie w hotelowym barze, gdzie zdobywa informacje.
+- Nieprzeszkolona strzelecko: w stresie celuje gorzej i wolniej przeładowuje; sprawna w walce wręcz, improwizacji i tworzeniu prowizorycznych ochraniaczy; może wykorzystywać sprzęt z magazynów policyjnych po dawnej MO.
+- Zna lokalnych mieszkańców i przestrzeń miejską.
+- **Otwarte:** imię, wiek, związki z opozycją, powód umiejętności walki wręcz, zawodowe źródła.
+
+### Oficer
+- Polski oficer wojsk powietrznodesantowych, szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
+- Ma nadzorować/opiniować wycofywanie rosyjskiego personelu i wyposażenia. Nie zna prawdziwej funkcji laboratorium.
+- Rozpoczyna w bunkrze; podczas narastającej epidemii traci przytomność; **ratuje go kolega**, również uczestniczący w kontroli wyprowadzki.
+- Biegły w obsłudze broni palnej, taktyce i procedurach.
+- **Otwarte:** imię, stopień, historia służby, odpowiedzialność za wydarzenia z lat 80., los kolegi. Przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią, nie zatwierdzonym kanonem.
+
+### Relacja
+- Początek: nieufność i uprzedzenia. Potem wymuszona współpraca, otwarty konflikt moralny oraz ewentualny wzajemny szacunek.
+- Nie zakładamy romansu.
+- Bohaterowie spotykają się **na powierzchni**, około nocy 13/14 października, w pobliżu kompleksu.
+
+## 5. Struktura opowieści [KANON ogólny, tytuły robocze]
+
+| Etap | Perspektywa | Cel dramatyczny |
+|---|---|---|
+| Prolog — Ostatni załadunek | Oficer | Wywózka sprzętu, awaria, pierwsze ataki, ratunek kolegi |
+| I — Ostatni spokojny wieczór | Dziennikarka | Śledztwo w hotelu, początek epidemii w mieście |
+| II — Pod ziemią | Oficer | Wyjście z bunkra, odkrycie części tajemnicy |
+| III — Miasto zamknięte | Dziennikarka | Narastająca panika, próby ucieczki, kordon |
+| IV — Spotkanie | Oboje | Nieufność, wymuszona współpraca |
+| V — Miasto umarłych (nazwa robocza) | Oboje | Eksploracja dzielnic i rozwijanie relacji w żyjącym, zagrożonym mieście |
+| VI — Ostatni transport (nazwa robocza) | Oboje | Finałowa próba ucieczki i konsekwencje odkryć |
+
+## 6. Zasady mechaniczne [KANON celów / PROPOZYCJA implementacji]
+
+- Style gry obu postaci muszą być różne, **ale równowartościowe**; dziennikarka nie może być „słabszą wersją żołnierza”.
+- Walka wręcz jest użyteczna, lecz kontakt z zakażonym nadal ryzykowny.
+- Ograniczone zasoby, silny nacisk na omijanie zagrożeń, wykorzystywanie otoczenia i eksplorację.
+- Obszary gry są ponownie odwiedzane w odmiennym stanie; docelowy poziom współdzielenia geometrii **około 70–75%** to **propozycja produkcyjna**, nie zatwierdzony wymóg.
+- **Uwaga techniczna:** zmiana wyglądu przez podmianę assetów jest korzystna, ale zmiany barykad, wejść, NPC i zagrożeń będą także wymagać zarządzania kolizją, nawigacją AI, punktami spawnu i stanem questów. Nie zakładać, że każdą zmianę załatwia wyłącznie zmiana tekstury/dekoracji.
+- Przestrzenie mają być częściowo otwarte; ograniczenia wynikają z wiarygodnych przeszkód i sytuacji, nie ze sztucznego korytarzowania.
+
+## 7. Co *nie* jest jeszcze ustalone [OTWARTE]
+
+- Przyczyna wydostania się patogenu (błąd, sabotaż, eksperyment, działanie trzeciej strony).
+- Reguły zarażania, inkubacja, stopień przemian, typy przeciwników.
+- Związek przyjaciółki dziennikarki z laboratorium i jej los.
+- Los kolegi oficera, pozostałych żołnierzy i obsady szpitala.
+- Nazwa/kod rosyjskiej instalacji, skala garnizonu i daty kolejnych rozbudów.
+- Układ dzielnic, ścieżki ucieczki, rozmieszczenie węzłów komunikacyjnych.
+- Szczegółowy finał i konsekwencje dla pozostałych mieszkańców (**bez nuklearnego zniszczenia miasta**).
+- Kamera, platforma, docelowa długość gry, system sterowania, faktyczny zakres produkcyjny.
+- Oficjalna nazwa gry — „Ostatni transport” pozostaje wyłącznie roboczą propozycją.
+## 8. Zatwierdzenie przez autora (6.11.2026)
+
+Dotychczasowy kierunek świata i historii, muzeum, rama fabuły, dwaj bohaterowie, zmienny stan miasta i los Miedziańska po finale są przyjęte. Nierozstrzygnięte szczegóły (imiona, struktura wojskowa, charakter infekcji, finał, formalna niemiecka nazwa) pozostają otwarte, a nie domyślnie zatwierdzone.
