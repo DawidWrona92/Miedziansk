@@ -105,3 +105,12 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
   https://2017-2021.state.gov/2020-adherence-to-and-compliance-with-arms-control-nonproliferation-and-disarmament-agreements-and-commitments-compliance-report-2/
 
 **Granica fakt/fikcja:** nie ma wiarygodnego potwierdzenia programu biologicznego w realnym szpitalu Legnicy ani w fikcyjnym Miedziańsku; bohaterowie, kryptonim „Rubież”, sztucznie opisane efekty i katastrofa są wyłącznie elementami gry. Opisy biologii to science fiction, nie wiedza medyczna i nie procedury eksperymentalne.
+
+## Źródła etapu postaci i łączności — Polska w 1992 r.
+
+- **[H31] Protokół spotkania stowarzyszenia PL-CB RADIO z przedstawicielami MSW i Komendy Głównej Policji, 25.06.1992 r.** Współpraca ratownicza, kanał ratunkowy i obecność radia CB. To źródło potwierdza istnienie środka łączności, a nie fikcyjną drogę ucieczki z kordonu.
+  https://www.ariadna.pl/plcb/po250692.htm
+- **[H32] Archiwalne czasopismo z 1992 r., materiał o CB Radio.** Zezwolenia, 40 kanałów, typowe zasięgi i faktyczna popularność w początkach lat 90.; szczegóły techniczne i geograficzne w fikcyjnym Miedziańsku nie są w źródle potwierdzone.
+  https://cyfrowa.biblioteka.krakow.pl/Content/3985/PDF/nr35_1992_h.pdf
+
+**Rozdzielenie historii od fikcji:** nie ma źródła historycznego dla konkretnego miedziańskiego oficera, łapówki ani pozwolenia na opuszczenie miasta pod kordonem; są to możliwe elementy fabuły fikcyjnej.

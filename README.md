@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.12 — 6 listopada 2026  
+**Wersja:** 0.13 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -26,7 +26,7 @@
 13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: program **Rubież**, nazwa zatwierdzona; przyczyna epidemii uzupełniona przez autora: jeden incydent, dwa etapy kryzysu. Osobiste powiązania bohaterów w osobnej części III.
 
 14. [`docs/11-R4-I-ZAKAZENI.md`](docs/11-R4-I-ZAKAZENI.md) — zatwierdzony charakter zakażonych: żywi, nieodczuwający bólu, przeważnie chodzący lub truchtający; kontakt z krwią i płynami ustrojowymi, najkrótsza przemiana około 15 minut.
-15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **część III z uwagami autora**: zatwierdzone pochodzenie bohaterów i struktura prologu, warianty losu przyjaciela nadal otwarte.
+15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **część III z zatwierdzonym szkieletem**: pochodzenie bohaterów, struktura prologu, przyjaciel przeżywa i wraca w finale; scenariusz szczegółowy nadal otwarty.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -102,3 +102,9 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - **[KANON UKŁADU FABULARNEGO]** Jeden wcześniejszy incydent zakażenia nie jest powodowany przybyciem polskiej komisji. Jej pojawienie się w chwili zaostrzającego się konfliktu jest niefortunnym zbiegiem okoliczności i może podnieść napięcie. Utrata kontroli podczas prologu rozgrywa się w radzieckim zapleczu na poziomie **–2**, nie w sercu laboratorium **–3**. Odkrycie –3 zostaje na późny etap gry.
 - **[KANON RELACJI]** Przyjaciel ratuje oficera, ale **znika po prologu**; w zasadniczej grze nie ma stałego trzyosobowego zespołu. **[OTWARTE]** Przyjaciel ginie lub okazuje się, że przeżył i może wrócić pomóc w finale. Nie ustalono drogi przez kordon.
 - Poprzednia propozycja 30–40-minutowego prologu, dokładnego mechanizmu awarii oraz dalszego przebiegu ratunku pozostaje propozycją, a nie kanonem.
+
+## Zmiany w wersji 0.13
+
+- Autor **ostatecznie wybrał wariant B**: przyjaciel oficera przeżywa zniknięcie po prologu, oficer uważa go za zmarłego, ale w finale przyjaciel powraca i ratuje bohaterów.
+- Zaakceptowano kierunek fabularny wykorzystujący **dyskretny kontakt, radio CB, próbę wydostania dokumentów i wyników dotyczących Rubieży oraz wojskowe znajomości / pieniądze** w realiach Polski 1992. Konkretne sceny i sposób pokonania kordonu pozostają do zaprojektowania.
+- **Część III — powiązanie głównych bohaterów z Rubieżą — zamknięta na poziomie szkieletu fabularnego.** Etap 05 (szczegółowe karty postaci), postacie drugoplanowe i pełny scenariusz pozostają otwarte.

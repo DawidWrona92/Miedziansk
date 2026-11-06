@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.12  
+**Wersja:** 0.13  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -46,7 +46,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 ### Oficer
 - Polski oficer wojsk powietrznodesantowych **pochodzący z Krakowa, od kilku dni przebywający w Miedziańsku** jako przedstawiciel Wojska Polskiego przy wycofywaniu rosyjskich wojsk [KANON]. Szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
 - Ma nadzorować/opiniować wycofywanie rosyjskiego personelu i wyposażenia. Nie zna prawdziwej funkcji laboratorium.
-- Rozpoczyna prolog z przyjacielem podczas inspekcji, **w radzieckim zapleczu na poziomie –2**, gdzie na skutek wcześniej istniejącego kryzysu dochodzi do utraty kontroli. Bohater zostaje ranny/traci przytomność; **ratuje go przyjaciel**, który **znika po prologu**. Dalszy los przyjaciela pozostaje otwarty: umiera albo okazuje się, że przeżył i może wrócić w finale.
+- Rozpoczyna prolog z przyjacielem podczas inspekcji, **w radzieckim zapleczu na poziomie –2**, gdzie na skutek wcześniej istniejącego kryzysu dochodzi do utraty kontroli. Bohater zostaje ranny/traci przytomność; **ratuje go przyjaciel**, który **znika po prologu**. **[KANON] Przyjaciel przeżywa, lecz oficer sądzi, że umarł; w finale przyjaciel wraca i ratuje oboje bohaterów.** Szczegóły ucieczki i kordonu otwarte.
 - Biegły w obsłudze broni palnej, taktyce i procedurach.
 - **Otwarte:** imię, stopień, historia służby, odpowiedzialność za wydarzenia z lat 80., los kolegi. Przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią, nie zatwierdzonym kanonem.
 
@@ -130,4 +130,10 @@ Autor zaakceptował ostateczny obraz infekcji, jej dramaturgię i przybliżoną 
 
 ## 17. Zatwierdzony kierunek prologu i rola przyjaciela (6.11.2026)
 
-Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijającego się kryzysu, **bez spowodowania pierwotnego wycieku**; eskalację w dawnym radzieckim poziomie technicznym **–2**, bez odsłaniania serca programu na **–3**; odłożenie eksploracji –3 do późnej części gry; **zniknięcie przyjaciela po prologu** i brak stałego trzeciego towarzysza. **OTWARTE:** śmierć przyjaciela albo przeżycie i jego możliwy ratunek finałowy. Nie przyjmować żadnego wariantu milcząco. Główne profile: dziennikarka z Miedziańska, mieszka we Wrocławiu; oficer z Krakowa, na miejscu dopiero od kilku dni.
+Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijającego się kryzysu, **bez spowodowania pierwotnego wycieku**; eskalację w dawnym radzieckim poziomie technicznym **–2**, bez odsłaniania serca programu na **–3**; odłożenie eksploracji –3 do późnej części gry; **zniknięcie przyjaciela po prologu** i brak stałego trzeciego towarzysza. **[ROZSTRZYGNIĘTE NASTĘPNĄ DECYZJĄ]** Przyjaciel przeżywa, a jego powrót w finale i ratunek pary są kanonem. Dokładny sposób ocalenia nie jest jeszcze określony. Główne profile: dziennikarka z Miedziańska, mieszka we Wrocławiu; oficer z Krakowa, na miejscu dopiero od kilku dni.
+
+## 18. Zakończenie części III — finałowy powrót przyjaciela (6.11.2026)
+
+**[KANON] Wariant B**: przyjaciel oficera przeżył katastrofę prologu, ale oficer błędnie sądzi, że przyjaciel zginął. Po długiej nieobecności **wraca w finale i ratuje parę bohaterów**. Nie staje się trzecim stałym towarzyszem.
+
+**[ZATWIERDZONY KIERUNEK / SZCZEGÓŁY OTWARTE]** Przyjaciel może próbować wydostać z Miedziańska dowody na „Rubież” (raporty, dokumenty, wyniki), utrzymywać dyskretną łączność radiową (np. CB) i wykorzystać kontakty wojskowe, wpływowego oficera oraz pieniądze, aby zdobyć pomoc w rejonie kordonu. To realistyczne motywy korupcji i prywatnych powiązań w świecie fikcyjnym, **nie oznacza, że każdy posterunek można przekupić ani że dowolny rozkaz można anulować gotówką**. Nie rozstrzygnięto, kto jest po drugiej stronie radia, czy dokumenty opuściły miasto, ani w jaki sposób ostatecznie dochodzi do ratunku. **Część III została zatwierdzona jako szkic fabularny; szczegółowe karty postaci i pełny scenariusz pozostają przyszłymi etapami.**

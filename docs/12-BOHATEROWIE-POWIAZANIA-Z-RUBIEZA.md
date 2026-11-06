@@ -1,6 +1,6 @@
 # Część III — bohaterowie wobec katastrofy „Rubieży”
 
-**STATUS: MIESZANY — zatwierdzone kierunki są oznaczone [KANON]; rozwinięcia fabuły i los przyjaciela nadal do oceny autora.**
+**STATUS: ZATWIERDZONY SZKIELET CZĘŚCI III; szczegóły biografii, scen i techniki finału nadal otwarte. Wariant B przyjaciela jest KANONEM.**
 **Data projektu:** 6 listopada 2026 r.
 **Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i kolegi oficera, spotkanie oraz ślady pozostawione graczowi. Imiona, losy postaci drugoplanowych, motywacje szczegółowe i przebieg scen **nie są zatwierdzone**.
 
@@ -50,14 +50,16 @@
 
 **[KANON]** Jest przyjacielem polskiego oficera i uczestniczy z nim w inspekcji. Podczas gwałtownego załamania sytuacji ratuje go przed bezpośrednim zagrożeniem. **Znika po prologu** — nie tworzy po spotkaniu z dziennikarką stałego trzyosobowego zespołu.
 
-**[OTWARTE] Dwa równorzędne warianty zakończenia jego historii:**
+**[KANON] Autor 6.11.2026 wybrał wariant B. Wariant A został odrzucony:**
 
 | Wariant | Przebieg | Wymóg fabularny |
 |---|---|---|
-| A — ginie | Ratunek kosztuje go życie, być może poza polem widzenia bohatera. | Nie wykorzystywać tylko jako łatwego szoku; uzasadnić decyzje i pozostawić wiarygodne ślady. |
-| B — przeżywa | Oficer po rozdzieleniu uważa, że przyjaciel nie żyje; w finale przyjaciel powraca i ratuje bohaterów, potencjalnie umożliwiając wydostanie się zza kordonu. | Wcześniej subtelnie pokazać możliwość jego przeżycia oraz przygotować logiczną drogę i zasoby do finałowego ratunku. |
+| A — ginie [ODRZUCONE] | Rzeczywista śmierć po prologu. | Nie rozwijać tego wariantu w kanonie. |
+| B — przeżywa [KANON] | Oficer po rozdzieleniu uważa, że przyjaciel nie żyje. Przyjaciel wraca w finale i **ratuje oboje bohaterów**. | Wpleść dyskretne ślady przeżycia oraz logiczną drogę do pomocy na granicy kordonu. |
 
-**[PROPOZYCJA]** W wariancie B można napotkać ślady radiowego meldunku, pomocy udzielanej innym albo działania polskiej jednostki poza kordonem. **Żaden nie jest zatwierdzonym zdarzeniem** i nie wolno od razu rozstrzygać jego losu.
+**[ZATWIERDZONY KIERUNEK FABULARNY / DETAL DO ZAPROJEKTOWANIA]** Po zniknięciu przyjaciel może starać się wynieść z Miedziańska **dowody na „Rubież”**: kopie raportów, dokumenty o zakażeniu, wybrane wyniki. Prowadzi dyskretny kontakt z zaufaną osobą, np. przy użyciu **CB-radia**; w świecie 1992 r. to wiarygodny sprzęt, ale kanał nie jest szyfrowany, a zasięg zależy od anteny i ukształtowania doliny. Wysoko postawiony wojskowy, osobiste znajomości i gotówka mogą pomóc wynegocjować lub nieformalnie umożliwić przejazd przez fragment niespójnego kordonu. To **nie oznacza automatycznej kontroli nad całym wojskiem i Policją**. 
+
+**[PROPOZYCJA FORESHADOWINGU]** Gracz może wcześniej znaleźć sygnał wywoławczy na kartce, usłyszeć niepełny komunikat radiowy, zobaczyć dokument, który powinien pozostać w podziemiach, albo natknąć się na ślad kontaktu przyjaciela z przełożonym. Konkretne osoby, miejsca i godziny pozostają nieustalone. Finał nie może wyglądać na przypadkowy ratunek znikąd.
 
 **[ZASADA]** Gracz powinien zostać sam z oficerem po prologu. Przyjaciel ma własną podmiotowość, ale nie odbiera roli ani miejsca dziennikarce. Wariant B nie może być nagłym cudownym odblokowaniem kordonu.
 
@@ -99,7 +101,7 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 4. Kim jest hotelowy informator i dlaczego zdecydował się spotkać właśnie 13 X?
 5. Czy polska inspekcja 13 X dotyczy pomieszczeń szpitalnych, czy innego elementu wojskowej infrastruktury?
 6. Co dokładnie spotyka oficera i gdzie kolega go ukrywa?
-7. Czy przyjaciel ginie podczas/prosto po prologu (wariant A), czy przeżywa i wraca w finale (wariant B)? Jak odróżnić pozorną śmierć od rzeczywistej w opowieści?
+7. Jak zasugerować pozorną śmierć przyjaciela, skoro **kanonem jest jego przeżycie i powrót w finale**? Jakie dokumenty, kontakty CB i kontakty wojskowe zostawiają wiarygodne ślady?
 8. Jakie zdarzenie prowadzi do spotkania bohaterów przy szpitalu?
 9. Jaki udział obu perspektyw w odkryciach ma wynikać z gameplayu, a jaki z opcjonalnych znajdziek?
 10. Imiona, dokładne wieki, redakcja dziennikarki, charakter i wątki z lat 80. — pozostają do zatwierdzenia. Pochodzenie bohaterów (Miedziańsk/Wrocław i Kraków) zostało zatwierdzone.
@@ -110,10 +112,20 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 - Program „Rubież” to fikcyjny tajny program biologiczny, z jednym pierwotnym incydentem podczas jego chaotycznej likwidacji.
 - Nie przypisujemy rosyjskim i polskim instytucjom rzeczywistych historycznych eksperymentów w Legnicy; wszystkie zdarzenia opisane w tym pliku to fikcja.
 - Nie wprowadzamy „wybrańców”, odporności fabularnej bez uzasadnienia ani obowiązkowego zakończenia historii miasta wraz z ucieczką pary.
-- **Cały dokument jest roboczy. Uwagi autora mają pierwszeństwo przed opisanymi tu wariantami.**
+- **Szkielet części III jest zatwierdzony.** Wykonawcze szczegóły fabuły, karty postaci, motywy znajdziek i dokładna logika finału nadal pozostają robocze i podlegają przyszłym uwagom autora.
 
 ## 10. Decyzja autora — rozłożenie tajemnicy na całą grę (6 listopada 2026)
 
 **[KANON]** Dziennikarka pochodzi z Miedziańska, mieszka we Wrocławiu; oficer pochodzi z Krakowa, jest w Miedziańsku od kilku dni. Pierwszy incydent biologiczny wydarzył się **kilka dni przed prologiem** i nie wynika z przybycia Polaków. Ich inspekcja 13 X może nasilić trwający konflikt personelu; katastrofa prologu rozgrywa się na radzieckim poziomie technicznym **–2**, natomiast serce programu na poziomie **–3** zostaje odkryte dopiero w późnej części gry.
 
-**[KANON]** Przyjaciel ratuje oficera i znika po prologu. Nie powstaje z niego trzeci, stale obecny członek drużyny. **[OTWARTE]** Wariant A — przyjaciel umiera; wariant B — oficer uważa go za martwego, ale przyjaciel przetrwał i powraca w finale z pomocą. Sposób uratowania przez niego pary z okolic kordonu nie jest jeszcze ustalony. Dokładny prolog, czas trwania (wcześniejsza propozycja 30–40 minut), rozmiar kompleksu, rodzaj awarii i przejścia między poziomami wymagają dalszego projektu.
+**[KANON — OSTATECZNY WYBÓR]** Przyjaciel ratuje oficera i znika po prologu. Nie powstaje z niego trzeci, stale obecny członek drużyny. **Wariant B został wybrany 6.11.2026:** oficer uważa go za martwego, lecz przyjaciel przeżywa, wraca w finale i ratuje dwoje bohaterów. **[PROPOZYCJA]** Wątek dyskretnego kontaktu, CB-radia, wynoszenia dokumentów i pomocy wysoko postawionego oficera / gotówki; sam sposób ratunku przy kordonie jeszcze otwarty. Dokładny prolog, czas trwania (wcześniejsza propozycja 30–40 minut), rozmiar kompleksu, rodzaj awarii i przejścia między poziomami wymagają dalszego projektu.
+
+## 11. Zakończenie części III i uzasadnienie CB w 1992 r.
+
+**[KANON]** Przyjaciel przeżywa, wraca w finale i ratuje bohaterów. Oficer jest do tej chwili przekonany o jego śmierci. Zatwierdzony jest szkielet części III, nie szczegółowy pełny scenariusz.
+
+**[DROGA FABULARNA — DO ZAPROJEKTOWANIA]** Przyjaciel po prologu podejmuje próbę przekazania dowodów o „Rubieży” poza Miedziańsk; dyskretny kontakt z pomocą radia CB, zaufany oficer i pieniądze mogą zapewnić wsparcie oraz stworzyć możliwość pokonania części kordonu. Szczególne uprawnienia, prywatne znajomości i możliwość korupcji pasują do fikcyjnych realiów 1992 r., ale trzeba pokazać konkretną decyzję konkretnych ludzi, a nie zasadę „gotówka otwiera każdą bramę”.
+
+**[REALIA CB — ZWERYFIKOWANE]** W 1992 r. CB radio było w Polsce obecne, stosowano je w kontaktach drogowych i ratowniczych; współpraca PL-CB Radio z Policją została opisana w protokole 25.06.1992 [H31]. Artykuł prasowy z 1992 r. podaje, że popularny sprzęt pracował na 40 kanałach, przy wymaganych wówczas zezwoleniach oraz zasięgu zależnym od terenu [H32]. **CB nie jest łącznością szyfrowaną ani narzędziem do pewnego kontaktu na dowolną odległość.** Wątek ukrytego kontaktu może więc polegać na niepełnych sygnałach i ryzyku podsłuchu, a nie na cudownie prywatnym kanale.
+
+**[OTWARTE]** Kto odbiera meldunki, skąd przyjaciel ma dostęp do CB, czy dokumenty wychodzą poza kordon jeszcze przed finałem, komu konkretnie pomaga gotówka i jakie konsekwencje ma ta pomoc. Te szczegóły opracować przy scenariuszu, nie przy zamykaniu szkicu bohaterów.
