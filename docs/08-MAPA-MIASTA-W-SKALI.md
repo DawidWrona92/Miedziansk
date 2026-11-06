@@ -1,6 +1,6 @@
 # Miedziańsk 1992 — roboczy plan miasta w skali metrycznej
 
-**Etap:** 02 — geografia miasta. **Status:** zatwierdzony UKŁAD LOGICZNY (6.11.2026); **PROPOZYCJA** wymiarów i dokładnych współrzędnych.
+**Etap:** 02 — geografia miasta. **Status:** mapa metryczna i odległości **ZATWIERDZONE jako baza koncepcyjna 6.11.2026**. Dane nadal podlegają korektom technicznym przy szczegółowym whiteboxie; nie są siatką produkcyjną 1:1.
 
 **Mapa SVG:** [MIEDZIANSK_1992_PLAN_ROBOCZY.svg](maps/MIEDZIANSK_1992_PLAN_ROBOCZY.svg)  
 **Dane źródłowe:** [layout_1992.json](maps/layout_1992.json)
@@ -92,3 +92,6 @@ Nie są to czasy dojścia ani trasy drogowe. Dróg, schodów, tłumów, blokad i
 ## 9. Uzasadnienie inspiracjami historycznymi
 
 Przedwojenny węzeł Legnicy dysponował dużą stacją kolejową, tunelem dojścia do peronów i rozbudowaną obsługą towarową, co stanowi analogię funkcjonalną, nie 1:1 kopię architektury Miedziańska. Dla układu w pobliżu rzeki inspiracją jest historyczna i współczesna zabudowa Legnicy przy Kaczawie. Patrz `04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`.
+## 10. Decyzja autora (6.11.2026)
+
+Układ mapy i odległości zostały zaakceptowane jako wiarygodne dla miasta i gry. Sceny przemieszczania pomiędzy odległymi obszarami mogą być realizowane **krótkimi przejazdami samochodem, cutscenkami i cięciami czasu**. Szczegółowa nawigacja pieszych/pojazdów jest tematem późniejszego projektowania poziomów, nie wymaga odtworzenia każdej ulicy podczas etapu 02.

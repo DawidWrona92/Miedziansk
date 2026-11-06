@@ -1,6 +1,6 @@
 # Miedziańsk — geografia i struktura miasta (etap 02)
 
-**Status:** UKŁAD LOGICZNY ZATWIERDZONY (6.11.2026). Przyjęto kierunek rzeki zachód–wschód, położenie obszarów i dwa główne mosty, ale dokładne wymiary, geometrię dróg i granice dzielnic nadal projektujemy; patrz `08-MAPA-MIASTA-W-SKALI.md`.
+**Status:** ETAP 02 ZATWIERDZONY (6.11.2026) — układ logiczny i metryczna mapa koncepcyjna przyjęte. Konkretne skrzyżowania, kolizje, układ ulic i wnętrz pozostają do whiteboxa / level designu; patrz `08-MAPA-MIASTA-W-SKALI.md`.
 
 **Data pracy:** 6 listopada 2026. **Okres świata:** październik 1992. Nazwa przedwojenna: **Kupfertal**.
 
@@ -129,7 +129,7 @@ Inspiracje historyczne: [H14] przebudowa centrum Legnicy, [H15] rzeczywiste *Fes
 - [x] Dwie przeprawy drogowe + ewentualna kładka, bez sztucznego zamykania mapy.
 - [x] Pozycja dużego dworca i połączeń z fabryką oraz magazynami wojskowymi.
 - [x] Położenie centralnego szpitala z obu stron dostępu; przynajmniej dwie logiczne drogi do szpitala.
-- [ ] Skala całego miasta, faktycznie grywalnego zakresu oraz odległości — propozycja w `08-MAPA-MIASTA-W-SKALI.md`.
+- [x] Skala i odległości jako zaakceptowana koncepcja w `08-MAPA-MIASTA-W-SKALI.md`. Fizyczny zasięg grywalności nadal do ustalenia podczas level designu.
 
 Układ logiczny zaakceptowany; po dopracowaniu mapy metrycznej i zasięgu dostępnej rozgrywki przejść do etapu 03 (garnizon, szpital i podział odpowiedzialności).
 
@@ -138,3 +138,5 @@ Układ logiczny zaakceptowany; po dopracowaniu mapy metrycznej i zasięgu dostę
 - [H14] Studium i przekształcenia Legnicy (historyczny wzorzec mieszania zabudowy), szczegóły w `04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`.
 - [H15] Historia prawdziwego *Festung Glogau* jako analogia dla fikcyjnego *Festung Kupfertal*.
 - [H16]/[H17] Urząd Legnicy i Archiwum Państwowe we Wrocławiu — wydzielone kompleksy i losy budynków wojskowych.
+
+**Zmiana 6.11.2026:** metryczna baza mapy i odległości zaakceptowane. Dopuszczono podróże piesze, krótkie przejazdy samochodem i narracyjne skróty odległości. Etap 02 zakończony na poziomie planistycznym.

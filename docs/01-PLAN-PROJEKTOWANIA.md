@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.6  
+**Wersja:** 0.7  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -16,8 +16,8 @@
 | Nr | Status | Temat | Rezultat | Kryterium zakończenia |
 |---|---|---|---|---|
 | 01 | **ZATWIERDZONY ZARYS** | **Historia Miedziańska: geneza przed 1930 i lata 1930–1992** | Dawne wydobycie miedzi i pochodzenie nazwy, przemysł, garnizon, szpital, rok 1992, małe muzeum | Oś czasu bez sprzeczności, co najmniej 8 lokacji wynikających z historii, decyzja o profilu gospodarczym i muzeum |
-| 02 | **W TOKU — układ logiczny zatwierdzony; mapa metryczna do akceptacji** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
-| 03 | DO ZROBIENIA | Garnizon i szpital | Dowództwo rosyjskie, Polska komisja, hierarchia, jawna funkcja szpitala, kolejne rozbudowy | Wiadomo kto, co i kiedy kontroluje, skąd zna informacje, jakie ma możliwości |
+| 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
+| 03 | **W TOKU — jawna część gotowa do akceptacji** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
 | 04 | DO ZROBIENIA | Tajny program i epidemia | Pochodzenie, incydent pierwotny, reguły zakażenia, skala i tempo | Zakażenia i reakcja służb spójne z 36 h, brak magicznych wygodnych wyjątków |
 | 05 | DO ZROBIENIA | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
@@ -32,8 +32,8 @@
 
 ## Dalszy tok prac
 
-1. **Teraz:** przegląd metrycznej mapy w `08-MAPA-MIASTA-W-SKALI.md` oraz `docs/maps/MIEDZIANSK_1992_PLAN_ROBOCZY.svg`. Układ logiczny został zatwierdzony; skala, granice obszarów i koordynaty są propozycją.
-2. **Następnie:** po ocenie metrycznej mapy doprecyzować układ ulic, mosty, wejścia i zasięg faktycznej grywalności. Dopiero potem oznaczyć etap 02 jako ukończony.
+1. **Teraz:** etap 03 — ocenić realistyczną część garnizonu i szpitala w `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`; autor zaakceptował metryczną bazę mapy jako założenie geograficzne.
+2. **Następnie:** po zatwierdzeniu legalnej i codziennej organizacji garnizonu oraz szpitala przejść do etapu 04 (tajny program i epidemia). Szczegółowe ulice, fizyczne wejścia i whitebox poziomów dopracujemy później, bez blokowania dalszego worldbuildingu.
 3. **Potem:** dopiero precyzować instytucję rosyjską i podziemny program. Historia i geografia muszą uzasadniać ich położenie.
 4. **W dalszej kolejności:** projektować przeszłość i motywacje bohaterów na tle tej historii, a nie niezależnie od niej.
 
@@ -53,3 +53,7 @@ Niektóre wątki można opracowywać równolegle, ale połączenia między nimi 
 - **[KANON]** Rosyjski kwartał ma sztab w dawnym poniemieckim garnizonie/szkole, mieszkania, szkołę i usługi. Szpital stanowi inny, centralny obiekt o podzielonym dostępie; magazyny i bocznice do rozmieszczenia na mapie.
 - Jak mocno pokazać represje z lat 1981–1982 w rodzinnych historiach bohaterów? (otwarte, wymaga taktu i badań).
 **[KANON] Nazwa przedwojenna:** **Kupfertal**. Od 1945 r. nazwa polska: **Miedziańsk**. Decyzja zamknięta; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`.
+
+### Decyzja autora — etap 02 (6 listopada 2026)
+
+Autor zatwierdził rozrysowane miasto, odległości i funkcjonalną geografię. **Etap 02 jest zakończony na poziomie GDD, nie stanowi gotowej mapy do silnika.** Dozwolone są krótkie przejazdy samochodem oraz przeskoki fabularne przy przemieszczaniu się między obszarami. Przedmiotem etapu 03 są wyłącznie **jawne i realistyczne** funkcje garnizonu oraz Szpitala Miejskiego; tajne laboratorium zostanie opracowane w etapie 04.

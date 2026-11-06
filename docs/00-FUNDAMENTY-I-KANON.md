@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.6  
+**Wersja:** 0.7  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -72,6 +72,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - Style gry obu postaci muszą być różne, **ale równowartościowe**; dziennikarka nie może być „słabszą wersją żołnierza”.
 - Walka wręcz jest użyteczna, lecz kontakt z zakażonym nadal ryzykowny.
 - Ograniczone zasoby, silny nacisk na omijanie zagrożeń, wykorzystywanie otoczenia i eksplorację.
+- **[KANON — decyzja produkcyjna]** Przemieszczanie między dzielnicami może być piesze, samochodem lub skrócone sceną/przeskokiem czasu; nie trzeba przechodzić każdego odcinka mapy. Szczegółowa mechanika jazdy pozostaje otwarta.
 - Obszary gry są ponownie odwiedzane w odmiennym stanie; docelowy poziom współdzielenia geometrii **około 70–75%** to **propozycja produkcyjna**, nie zatwierdzony wymóg.
 - **Uwaga techniczna:** zmiana wyglądu przez podmianę assetów jest korzystna, ale zmiany barykad, wejść, NPC i zagrożeń będą także wymagać zarządzania kolizją, nawigacją AI, punktami spawnu i stanem questów. Nie zakładać, że każdą zmianę załatwia wyłącznie zmiana tekstury/dekoracji.
 - Przestrzenie mają być częściowo otwarte; ograniczenia wynikają z wiarygodnych przeszkód i sytuacji, nie ze sztucznego korytarzowania.
@@ -102,3 +103,7 @@ Rzeka przez historyczne centrum, stara kopalnia pod dzisiejszym przemysłem, wys
 ## 11. Akceptacja układu logicznego Miedziańska (6.11.2026)
 
 Układ przedstawiony w `07-GEOGRAFIA-I-UKLAD-MIASTA.md` został zaakceptowany przez użytkownika. W etapie 02 pozostaje zatwierdzenie **metrycznego projektu** (`08-MAPA-MIASTA-W-SKALI.md` i mapa SVG). Nazwa rzeki, geometria ulic, szczegółowe granice dzielnic oraz współrzędne nie stanowią na razie kanonu.
+
+## 12. Zatwierdzenie mapy i początek etapu 03 (6.11.2026)
+
+Autor zaakceptował mapę Miedziańska z etapu 02 oraz logiczność zaproponowanych odległości. Metryczna mapa z `08-MAPA-MIASTA-W-SKALI.md` staje się bazą koncepcyjną (nie pełnym, zamkniętym układem ulic). Dopuszczono przejazdy samochodem i cięcia fabularne. Rozpoczęto etap 03: `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md` to **propozycja** oficjalnego życia garnizonu i szpitala, bez mrocznej tajnej części, na którą przeznaczono etap 04.

@@ -71,3 +71,24 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
 
 - **[H18] Fotopolska — Legnica, historia Dworca Głównego.** Przedwojenny węzeł kolejowy, modernistyczny dworzec z lat 1927–1929, hala peronowa i dojścia tunelowe jako analogia projektowa (nie rekonstrukcja Miedziańska).
   https://fotopolska.eu/Legnica/b15819%2CDworzec_kolejowy_.html
+
+## Dodatkowe źródła etapu 03 — organizacja garnizonu i szpitala
+
+- **[H19] Legnica Travel — trasa „Śladami Małej Moskwy”.** Radziecka szkoła, sztab, Komendantura, Dom Oficera, Kwadrat i wille; fakty o dzielnicy Legnicy.  
+  https://www.legnica.travel/trasy-turystyczne/sladami-malej-moskwy-tajemnice-radzieckiej-legnicy-i-zakazanej-milosci
+- **[H20] IPN — 31. rocznica rozpoczęcia wycofywania wojsk.** Porozumienia z 22.05.1992 i ostatni etap wyprowadzania.  
+  https://ipn.gov.pl/pl/dla-mediow/komunikaty/162515%2C31-rocznica-rozpoczecia-wycofywania-wojsk-sowieckich-z-terytorium-Polski.html
+- **[H21] ELI — umowa PRL–ZSRR o statusie prawnym wojsk z 17.12.1956 r.** Ogólne ramy prawne stacjonowania; nie dotyczy wyraźnie fikcyjnego podziału miedziańskiego szpitala.  
+  https://eli.gov.pl/eli/DU/1957/127/ogl
+- **[H22] Archiwa Państwowe — Biuro Pełnomocnika do Spraw Pobytu Wojsk Radzieckich/Federacji Rosyjskiej.** Akta pełnomocnika, legnicka ekspedytura, protokoły przekazań, kontrola mienia; w 1992 zmiana oficjalnej nazwy urzędu.  
+  https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/50705
+- **[H23] Rosyjskie MChS — nazwa wojsk RChB od sierpnia 1992 r.** Historyczne przemianowanie wojsk chemicznych, nie dowód na tajne laboratoria.  
+  https://44.mchs.gov.ru/deyatelnost/press-centr/novosti/4880417
+- **[H24] ELI — ustawa z 30.08.1991 r. o zakładach opieki zdrowotnej.** Ramy dla cywilnego szpitala i ZOZ-u w 1992 r.  
+  https://eli.gov.pl/api/acts/DU/1991/408/text.html
+- **[H25] Komenda Główna PSP — historia PSP.** Straż została zorganizowana 1 lipca 1992 r.  
+  https://www.gov.pl/web/kgpsp/historia-psp
+- **[H26] Archiwum Państwowe we Wrocławiu — „Koniec Małej Moskwy”.** Historia przekazywania rosyjskich obiektów w Legnicy.  
+  https://www.wroclaw.ap.gov.pl/sites/default/files/koniec-malej-moskwy/index.html
+
+**Zastrzeżenie:** model jednego szpitala z polskim i rosyjskim skrzydłem oraz lokalny etat garnizonu są fikcją. Wykorzystanie odpowiednich realiów prawnych i obyczajowych nie zamienia ich w potwierdzone zdarzenia historyczne.
