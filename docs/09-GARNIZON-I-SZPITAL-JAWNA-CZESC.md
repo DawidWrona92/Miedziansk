@@ -238,3 +238,7 @@ Elementy te są codzienne, oficjalne i możliwe do pokazania bez żadnego parano
 ## 14. Decyzja autora (6.11.2026)
 
 Autor zatwierdził realizm oficjalnego garnizonu, Kwadratu i wspólnego szpitala. Ten dokument pozostaje opisem **jawnej warstwy świata**. Tajny program, jego przeznaczenie i przyczyna katastrofy są opracowywane jako propozycja w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`; osobisty udział bohaterów dopiero w części III.
+
+## 15. Scena szpitalna — uwaga do skali (6.11.2026)
+
+Dotychczasowe 150–200 łóżek polskich oraz 25–45 łóżek rosyjskich pozostaje roboczym szacunkiem **pojemności łóżkowej**, nie całkowitej liczby osób w budynku. Autor zakłada wyjątkową masową eskalację obejmującą **około 200 zakażonych opuszczających cały szpital**, po dołączeniu personelu, pacjentów, odwiedzających i nowych przypadków podczas załamania kontroli nad całą placówką. To propozycja sceny science fiction, nie 200 zakażonych z niewielkiego rosyjskiego skrzydła. Zob. `11-R4-I-ZAKAZENI.md`.

@@ -39,3 +39,7 @@ W dokumencie `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md` opisano model **jednego p
 ### Ustalenie przyczynowe — 6 listopada 2026
 
 Pierwszy spór wewnątrz Rubieży kończy się przejęciem oficjalnej decyzji przez zwolenników zatajenia problemu. Zespół przewozi podejrzanych chorych na obserwację do rosyjskiego, zamkniętego skrzydła szpitalnego. W dniu 13 października rozwinięte objawy u pacjentów doprowadzają do gwałtownej utraty kontroli i ponownego konfliktu personelu. Skutki **wcześniejszego** incydentu ujawniają się także w Miedziańsku. Szczegółowa droga zakażenia, mechanizm choroby i rozkład godzin pozostają do dopracowania.
+
+## Korekta dramaturgii epidemii — szpitalny punkt przełomowy (6.11.2026)
+
+Autor chce, aby przed 13 października Policja i inne służby interweniowały przy pojedynczych pogryzieniach, agresji, pobiciach i podpaleniach. Dnia 13 X szpital staje się sceną masowego kryzysu: w zamkniętym rosyjskim skrzydle chorzy wchodzą w fazę objawową, po czym kryzys obejmuje również polską część. W wariancie roboczym **około 200 zakażonych opuszcza CAŁY kompleks szpitalny kilkoma wyjściami podczas narastającego kryzysu**. Nie jest to liczba samych rosyjskich pacjentów. W świecie science fiction R-4 przemiana może trwać od dni do sekund, a rola poszczególnych przypadków będzie różna. Szczegóły i reguły zob. `11-R4-I-ZAKAZENI.md`.

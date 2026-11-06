@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.9  
+**Wersja:** 0.10  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -119,3 +119,7 @@ Dnia 6.11.2026 użytkownik zatwierdził koncepcję lokalnego rosyjskiego garnizo
 ## 14. Korekta fabuły Rubieży (6.11.2026)
 
 Zatwierdzono nazwę „Rubież”. Użytkownik zaproponował: chaotyczne pakowanie, pojedynczy wcześniejszy incydent, przypadki początkowo obserwowane w odciętym rosyjskim skrzydle, przewagę frakcji tuszującej, narastający konflikt oraz gwałtowne objawy tych pacjentów 13 października i późniejsze rozpoznanie konsekwencji na ulicach. Brak podstaw do dopisywania drugiego technicznego incydentu 13 października.
+
+## 15. Korekta kierunku science fiction (6.11.2026)
+
+Autor wyraźnie zdecydował, że **science fiction Rubieży nie powinno być ograniczane przez wiarygodność realnej wirusologii**. Zakażenie może przechodzić od pierwszych przypadków rozwijających się przez doby do wyjątkowo szybkich przemian, nawet w sekundach. Wcześniejsze epizody w mieście: pogryzienia, agresja, pobicia i podpalenia; kluczowy przełom to kryzys wielkiego wspólnego szpitala i masowa ucieczka **około 200 zakażonych z CAŁEGO kompleksu**, nie tylko z rosyjskiej strefy. Szczegółowe nazwy, rodzaje potworów i reguły w `11-R4-I-ZAKAZENI.md` są propozycjami do zatwierdzenia.

@@ -250,3 +250,7 @@ Po zatwierdzeniu tego dokumentu osobno opracujemy:
 ## 14. Uzupełnienie zgodne z pomysłem autora (6 listopada 2026)
 
 Autor zatwierdził kryptonim **Rubież** i zaproponował zasadniczą przyczynowość katastrofy: chaotyczne pakowanie → pojedynczy pierwotny incydent → pierwsze nierozpoznane przypadki → celowe zatajenie informacji i obserwacja w zamkniętym rosyjskim skrzydle → konflikt o alarmowanie → pojawienie się gwałtownych objawów u izolowanych pacjentów 13 X → równoległe ujawnienie wcześniejszych przypadków w mieście. Nie wprowadzać drugiego niezależnego wypadku biologicznego 13 X. Nie wprowadzać nowej, niezatwierdzonej historii osobistych związków protagonistów.
+
+## 15. Kategoria science fiction i szpitalny punkt przełomowy
+
+**Nowa dyrektywa autora (6.11.2026):** nie ograniczać science fiction R-4 rzeczywistą wirusologią; dopuszczalne są przeobrażenia w około 10 sekund i gwałtowne hordy. Szpitalny kryzys prowadzi do wydostania się około 200 zakażonych z całego polsko-rosyjskiego kompleksu. Pojedyncze incydenty poprzedzają tę katastrofę. Nowe reguły i typy w `11-R4-I-ZAKAZENI.md` są projektem do zatwierdzenia.
