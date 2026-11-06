@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.13  
+**Wersja:** 0.14  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -39,7 +39,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 ### Dziennikarka
 - Polska dziennikarka **pochodząca z Miedziańska, obecnie mieszkająca we Wrocławiu** [KANON]; entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej ze szpitalem i tropami laboratorium.
 - Rozpoczyna w mieście, prawdopodobnie w hotelowym barze, gdzie zdobywa informacje.
-- Nieprzeszkolona strzelecko: w stresie celuje gorzej i wolniej przeładowuje; sprawna w walce wręcz, improwizacji i tworzeniu prowizorycznych ochraniaczy; może wykorzystywać sprzęt z magazynów policyjnych po dawnej MO.
+- **KANON:** przed spotkaniem z oficerem nie ma broni palnej; nie jest wyszkoloną strzelczynią. Jej wyróżniki to **zagadki detektywistyczne, analogowy aparat, notes i rozpoznawanie ukrytych przejść w rodzinnym Miedziańsku**. Konkretne umiejętności walki, użycie broni po spotkaniu i mechaniki zagadek są jeszcze otwarte.
 - Zna lokalnych mieszkańców i przestrzeń miejską.
 - **Otwarte:** imię, wiek, związki z opozycją, powód umiejętności walki wręcz, zawodowe źródła.
 
@@ -137,3 +137,7 @@ Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijaj�
 **[KANON] Wariant B**: przyjaciel oficera przeżył katastrofę prologu, ale oficer błędnie sądzi, że przyjaciel zginął. Po długiej nieobecności **wraca w finale i ratuje parę bohaterów**. Nie staje się trzecim stałym towarzyszem.
 
 **[ZATWIERDZONY KIERUNEK / SZCZEGÓŁY OTWARTE]** Przyjaciel może próbować wydostać z Miedziańska dowody na „Rubież” (raporty, dokumenty, wyniki), utrzymywać dyskretną łączność radiową (np. CB) i wykorzystać kontakty wojskowe, wpływowego oficera oraz pieniądze, aby zdobyć pomoc w rejonie kordonu. To realistyczne motywy korupcji i prywatnych powiązań w świecie fikcyjnym, **nie oznacza, że każdy posterunek można przekupić ani że dowolny rozkaz można anulować gotówką**. Nie rozstrzygnięto, kto jest po drugiej stronie radia, czy dokumenty opuściły miasto, ani w jaki sposób ostatecznie dochodzi do ratunku. **Część III została zatwierdzona jako szkic fabularny; szczegółowe karty postaci i pełny scenariusz pozostają przyszłymi etapami.**
+
+## 19. Projekt gry dziennikarki — uzgodnione fundamenty
+
+**KANON:** dedukcja i rozwiązywanie zagadek na podstawie dokumentów oraz zeznań, aparat analogowy i notes jako narzędzia śledztwa, pamięć o dawnych skrótach i przejściach Miedziańska. Oficer może poznać istniejące przejście, ale nie ma automatycznie jej lokalnej wiedzy. Dziennikarka nie ma pistoletu przed ich spotkaniem. W około 36 godzin nie powstają nowe RPG-owe umiejętności; rośnie wiedza o sytuacji. **Kierunek konfliktu:** ona popiera demokratyzację, jednocześnie widząc biedę i koszty transformacji; oficer ma własne kontakty i zasoby, nie jest moralnie gorszy ze względu na przeszłość w PRL. Imię Anna Wysocka, redakcja, wiek i osobowość nadal pozostają propozycjami. Szczegóły: `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`.

@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.13  
+**Wersja:** 0.14  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -19,7 +19,7 @@
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
 | 04 | **ZATWIERDZONY KIERUNEK — PARAMETRY SZCZEGÓŁOWE DO ROZWINIĘCIA** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
-| 05 | **W TOKU — ZATWIERDZONY SZKIELET, SZCZEGÓŁOWE KARTY OTWARTE** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
+| 05 | **W TOKU — DZIENNIKARKA: MECHANIKI UZGODNIONE, BIOGRAFIA OTWARTA** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
 | 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
 | 08 | DO ZROBIENIA | Mechanika dwóch postaci | Walka, improwizacja, strach, ekwipunek, zagadki i śledztwo | Każdy archetyp ma unikalne skuteczne strategie, bez dominującej postaci |
@@ -83,3 +83,7 @@ Kanon infekcji został zatwierdzony (15 min najkrótsza przemiana; brak sprintu 
 Autor uznał szkic bezpośrednich powiązań bohaterów z „Rubieżą” za wystarczający do zakończenia **tej części prac**. Przyjaciel oficera **przeżywa i wraca w finale, ratując bohaterów**. Dopuszczone motywy: tajny/dyskretny kontakt, CB-radio, próba wydostania dokumentacji o katastrofie, pomoc wpływowego wojskowego i gotówka w warunkach niespójnego kordonu. Nie zamykać szczegółów ratunku: uprawnienia, lokalizacja kontaktu, chwila otrzymania dokumentów i metody działania pozostają otwarte.
 
 **Rozróżnienie etapów:** zamknięto **część III — szkielet relacji i uwikłania bohaterów**. Nie zamknięto jeszcze w całości etapu 05 (karty postaci) ani etapu 07 (pełny scenariusz). Rozwiązania finału należy przygotować na etapie 07 i powiązać ze znajdźkami i decyzjami gracza.
+
+### Uzgodniony styl gry dziennikarki (v0.14)
+
+Dziennikarka rozwiązuje **zagadki detektywistyczne** za pomocą notesu, aparatu analogowego i łączenia faktów; zna ukryte miejskie skróty, które oficer może poznać później. **Brak broni palnej przed spotkaniem z oficerem; brak drzewka umiejętności w 36 godzin.** Polska 1992 to społeczne koszty transformacji, bez moralnego stereotypu „dobra demokratka kontra zły żołnierz”. W `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md` oddzielono zaakceptowany kierunek od roboczych propozycji interfejsu i scen. Osobowość i imię nadal do zatwierdzenia.

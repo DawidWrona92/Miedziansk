@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.13 — 6 listopada 2026  
+**Wersja:** 0.14 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -27,6 +27,8 @@
 
 14. [`docs/11-R4-I-ZAKAZENI.md`](docs/11-R4-I-ZAKAZENI.md) — zatwierdzony charakter zakażonych: żywi, nieodczuwający bólu, przeważnie chodzący lub truchtający; kontakt z krwią i płynami ustrojowymi, najkrótsza przemiana około 15 minut.
 15. [`docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`](docs/12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md) — **część III z zatwierdzonym szkieletem**: pochodzenie bohaterów, struktura prologu, przyjaciel przeżywa i wraca w finale; scenariusz szczegółowy nadal otwarty.
+
+16. [`docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`](docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md) — dziennikarka: zagadki detektywistyczne, analogowy aparat, notes, ukryte ścieżki i brak broni przed spotkaniem z oficerem. Biografia nadal otwarta.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -108,3 +110,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Autor **ostatecznie wybrał wariant B**: przyjaciel oficera przeżywa zniknięcie po prologu, oficer uważa go za zmarłego, ale w finale przyjaciel powraca i ratuje bohaterów.
 - Zaakceptowano kierunek fabularny wykorzystujący **dyskretny kontakt, radio CB, próbę wydostania dokumentów i wyników dotyczących Rubieży oraz wojskowe znajomości / pieniądze** w realiach Polski 1992. Konkretne sceny i sposób pokonania kordonu pozostają do zaprojektowania.
 - **Część III — powiązanie głównych bohaterów z Rubieżą — zamknięta na poziomie szkieletu fabularnego.** Etap 05 (szczegółowe karty postaci), postacie drugoplanowe i pełny scenariusz pozostają otwarte.
+
+## Zmiany w wersji 0.14
+
+- **KANON KONCEPCJI:** własny styl rozgrywki dziennikarki: dedukcja, fotografie, notes i zapamiętane skróty rodzinnego Miedziańska.
+- **KANON:** przed spotkaniem z oficerem nie ma broni palnej; poznawanie faktów zamiast uczenia się nowych umiejętności w 36 godzin.
+- Polska roku 1992 pokazana bez idealizacji transformacji i bez prostego moralnego przeciwstawienia dziennikarki żołnierzowi.
+- Mechaniki i osobowość w `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md` zawierają także propozycje niezatwierdzone.
