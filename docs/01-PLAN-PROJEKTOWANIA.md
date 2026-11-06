@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.3  
+**Wersja:** 0.4  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -52,4 +52,4 @@ Niektóre wątki można opracowywać równolegle, ale połączenia między nimi 
 - **[KANON]** Małe muzeum miedzi i historii miasta w centrum. Jego szczegółowa funkcja w kampanii nadal otwarta.
 - Czy radziecki garnizon ma **dwa odrębne kompleksy**: reprezentacyjny kwartał sztabowy i szpital z zapleczem, plus bocznicę/magazyn? (rekomendacja: tak).
 - Jak mocno pokazać represje z lat 1981–1982 w rodzinnych historiach bohaterów? (otwarte, wymaga taktu i badań).
-**Otwarta decyzja językowa:** „Kupferstadt Tal” kontra „Kupfertal”; zob. `06-NAZEWNICTWO-NIEMIECKIE.md`.
+**[KANON] Nazwa przedwojenna:** **Kupfertal**. Od 1945 r. nazwa polska: **Miedziańsk**. Decyzja zamknięta; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`.

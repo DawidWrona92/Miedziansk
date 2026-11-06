@@ -55,4 +55,4 @@
 ## Historyczna ostrożność
 
 Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kompetencje służb, konkretna struktura rosyjskich wojsk RChB oraz prawdziwy wygląd wyposażenia wojskowego z 1992 r. wymagają osobnego researchu przy kolejnych etapach. Nie należy podawać historycznych analogii jako dowodu na istnienie tajnego programu biologicznego w Legnicy.
-**Ważne:** „Kupferstadt Tal” i „Kupfertal” są proponowanymi fikcyjnymi nazwami, nie udokumentowanymi przedwojennymi nazwami realnego miasta.
+**Ważne:** „Kupfertal” jest ostateczną niemiecką nazwą fikcyjnego Miedziańska w kanonie gry. Nie jest to twierdzenie o historycznej nazwie żadnego rzeczywistego miasta.

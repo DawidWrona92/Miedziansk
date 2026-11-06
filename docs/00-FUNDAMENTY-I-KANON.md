@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.3  
+**Wersja:** 0.4  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -19,7 +19,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 
 - **Miedziańsk** — miasto fikcyjne, inspirowane **Legnicą**, na Dolnym Śląsku; w realiach 1992 r. umieszczane roboczo na terenie ówczesnego województwa legnickiego.
 - Miasto liczy około **30–40 tys. mieszkańców**; PRL-owskie fabryki i duży szpital są tu całkowicie dopuszczalne.
-- **[KANON] Nazwa Miedziańsk wywodzi się z rzeczywistej, dawnej eksploatacji miedzi w fikcyjnym mieście.** Historyczne złoża, dawne kopalnie i infrastruktura gospodarcza istniały przed wojną. Rozwijający się przemysł niemiecki przejęli po 1945 r. Polacy, zachowując miedziowe skojarzenie w nazwie miasta; dokładna niemiecka nazwa jest otwarta (propozycje: „Kupferstadt Tal”, „Kupfertal”; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`).
+- **[KANON] Nazwa Miedziańsk wywodzi się z rzeczywistej, dawnej eksploatacji miedzi w fikcyjnym mieście.** Historyczne złoża, dawne kopalnie i infrastruktura gospodarcza istniały przed wojną. Rozwijający się przemysł niemiecki przejęli po 1945 r. Polacy, zachowując miedziowe skojarzenie w nazwie miasta; przed 1945 r. miasto nosiło jedyną niemiecką nazwę **Kupfertal**, po wojnie otrzymało polską nazwę **Miedziańsk** (zob. `06-NAZEWNICTWO-NIEMIECKIE.md`).
 - **[KANON]** Niewielkie Muzeum Miedzi i Historii Miasta, z wystawą „Miedź na ziemiach polskich”, w jednym budynku przy Starym Mieście. Patrz `05-MUZEUM-MIEDZI-I-MIASTA.md`.
 - Historyczne centrum, dzielnica przemysłowa/robotnicza, dzielnica rosyjska, osiedla, szpital wojskowy i jego podziemia.
 - Budynek szpitala powstał w okresie niemieckim; początkowo był przy nim **niewielki schron**. Po wojnie zajęli go Sowieci i stopniowo rozbudowali instalację podziemną.
@@ -87,4 +87,8 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - Oficjalna nazwa gry — „Ostatni transport” pozostaje wyłącznie roboczą propozycją.
 ## 8. Zatwierdzenie przez autora (6.11.2026)
 
-Dotychczasowy kierunek świata i historii, muzeum, rama fabuły, dwaj bohaterowie, zmienny stan miasta i los Miedziańska po finale są przyjęte. Nierozstrzygnięte szczegóły (imiona, struktura wojskowa, charakter infekcji, finał, formalna niemiecka nazwa) pozostają otwarte, a nie domyślnie zatwierdzone.
+Dotychczasowy kierunek świata i historii, muzeum, rama fabuły, dwaj bohaterowie, zmienny stan miasta i los Miedziańska po finale są przyjęte. Nierozstrzygnięte szczegóły (imiona, struktura wojskowa, charakter infekcji, finał) pozostają otwarte, a nie domyślnie zatwierdzone.
+
+## 9. Ostateczny wybór nazwy (6.11.2026)
+
+**[KANON] Kupfertal** jest jedyną niemiecką nazwą miasta przed rokiem 1945. Po wojnie obowiązuje **Miedziańsk**. Autor wykluczył inne warianty niemieckiej nazwy i przydomki. Niemieckie „Kupfer” (miedź) i „Tal” (dolina) nawiązują do historycznych złóż i położenia miasta. Ta decyzja zamyka kwestię nazewnictwa; nie należy ponownie przedstawiać jej jako pytania otwartego.

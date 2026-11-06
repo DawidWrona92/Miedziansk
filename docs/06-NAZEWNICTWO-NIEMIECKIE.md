@@ -1,14 +1,22 @@
-# Przedwojenna nazwa Miedziańska
+# Kupfertal — niemiecka nazwa Miedziańska
 
-**Stan:** propozycja — do decyzji autora (6.11.2026).
+**Status: KANON — zatwierdzono ostatecznie 6 listopada 2026 r.**
 
-## „Kupferstadt Tal” — propozycja autora
-Słowo `Kupferstadt` znaczy „miedziane miasto”, a `Tal` — „dolina”. Zestawienie może działać jako przydomek miasta o nazwie własnej `Tal`, ale jako jeden niemiecki toponim jest mniej naturalne. Pasowałoby do stylizowanej starej pocztówki lub lokalnej tradycji.
+## Ustalone nazewnictwo
 
-## „Kupfertal” — rekomendacja językowa
-Zwarte połączenie `Kupfer` i `Tal` („Miedziana Dolina”), brzmi naturalnie jako historyczna nazwa geograficzna, nadaje się na mapy, stemple i niemieckie oznaczenia szpitala. Po 1945 roku nazwa `Miedziańsk` zachowuje miedziowe skojarzenie, nie musi stanowić dosłownego przekładu.
+| Okres | Nazwa urzędowa w świecie gry |
+|---|---|
+| Przed 1945 rokiem | **Kupfertal** |
+| Od 1945 roku | **Miedziańsk** |
 
-## Wzorzec historyczny
-Stolberg w Niemczech rzeczywiście nosi przydomek `Kupferstadt`, oficjalny jako tytuł od 2012 r., wcześniej używany nieformalnie (źródło [H13](04-ZRODLA-I-ODDZIELENIE-FIKCJI.md)). Nie przenosimy automatycznie tego współczesnego statusu na fikcyjne przedwojenne miasto.
+**Kupfertal** to połączenie niemieckich słów *Kupfer* („miedź”) i *Tal* („dolina”). Jest związane z dawnymi złożami miedzi i historią górniczą miasta. Polska nazwa **Miedziańsk** nie stanowi dosłownego tłumaczenia, lecz zachowuje rdzeń kulturowy związany z miedzią.
 
-**Otwarta decyzja:** czy oficjalną nazwą w latach 1930–1945 będzie `Kupferstadt Tal`, `Kupfertal`, czy `Kupfertal` z dodatkowym przydomkiem `Kupferstadt`. Do potwierdzenia kanonem pozostaje tylko polskie `Miedziańsk`.
+**Wyłączność:** zgodnie z decyzją autora **Kupfertal jest jedyną niemiecką nazwą miasta**. Nie stosujemy równoległych historycznych nazw, wariantów ani przydomków jako nazw Miedziańska.
+
+## Zastosowanie w grze
+
+- Przedwojenne mapy, fotografie, napisy na planach technicznych i dokumentach szpitalnych mogą zawierać wyłącznie nazwę *Kupfertal*.
+- Współczesne dla fabuły (październik 1992) oznaczenia polskie używają nazwy *Miedziańsk*.
+- Napisy zachowane z okresu niemieckiego mogą pozostać w oryginale, co będzie czytelnym śladem wcześniejszej historii miasta.
+
+To fikcyjna miejscowość inspirowana Dolnym Śląskiem; nie przypisujemy tej nazwy rzeczywistej Legnicy.

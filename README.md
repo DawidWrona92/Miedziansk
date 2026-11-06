@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.3 — 6 listopada 2026  
+**Wersja:** 0.4 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -13,7 +13,7 @@
 5. [`docs/04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`](docs/04-ZRODLA-I-ODDZIELENIE-FIKCJI.md) — historyczne podstawy i świadome fikcyjne odstępstwa.
 6. [`docs/05-MUZEUM-MIEDZI-I-MIASTA.md`](docs/05-MUZEUM-MIEDZI-I-MIASTA.md) — **zatwierdzona mała lokacja muzealna w sercu miasta**.
 
-7. [`docs/06-NAZEWNICTWO-NIEMIECKIE.md`](docs/06-NAZEWNICTWO-NIEMIECKIE.md) — warianty przedwojennej nazwy do zatwierdzenia.
+7. [`docs/06-NAZEWNICTWO-NIEMIECKIE.md`](docs/06-NAZEWNICTWO-NIEMIECKIE.md) — zatwierdzona przedwojenna nazwa Kupfertal.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -37,4 +37,4 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 
 - Zatwierdzono dotychczasowy kierunek historii miasta i cały uzgodniony fundament projektu 6 listopada 2026 r.
 - Etap 01 (historia): zatwierdzony zarys; kolejny etap 02 (geografia).
-- Zanotowano propozycje niemieckiej nazwy „Kupferstadt Tal” i „Kupfertal”; ostateczny wybór jest otwarty.
+- Wersja 0.4: ostatecznie przyjęto **Kupfertal** jako jedyną nazwę niemiecką do 1945 r.; **Miedziańsk** pozostaje nazwą polską po 1945 r. Usunięto alternatywę nazewniczą z kanonu.

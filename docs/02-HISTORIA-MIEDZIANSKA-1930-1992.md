@@ -1,7 +1,7 @@
-<!-- Zarys historii zatwierdzony: 6.11.2026. Nazwy szczegółowe i kwestie otwarte nadal do decyzji. -->
+<!-- Zarys historii i nazwa Kupfertal zatwierdzone: 6.11.2026. Nazwy instytucji, szczegóły geografii oraz inne jawne kwestie otwarte nadal do opracowania. -->
 # Historia Miedziańska: korzenie górnicze i lata 1930–1992
 
-> **STATUS: PROPOZYCJA FABULARNA — WYMAGA AKCEPTACJI.**  
+> **STATUS: ZATWIERDZONY ZARYS HISTORYCZNY.** Szczegółowe daty, rozmieszczenie obiektów i wątki wyraźnie oznaczone jako propozycje nadal wymagają doprecyzowania.  
 > To spójna pierwsza wersja dziejów **fikcyjnego** miasta. Opiera się na rzeczywistych zjawiskach historycznych z Legnicy i Dolnego Śląska, ale wydarzenia w Miedziańsku, mieszkańcy, instytucje miejskie i tajny program są wymyślone. Nie przypisujemy prawdziwym osobom ani faktycznym obiektom zbrodni i eksperymentów.
 
 ## 0. Portret miasta w październiku 1992
@@ -10,7 +10,7 @@
 
 Nie powinien wyglądać jak kolejne anonimowe miasto z PRL. W jednym kadrze można zobaczyć neogotycką kamienicę, przebudowaną fabrykę, wielką płytę, stary niemiecki mur szpitalny i ogrodzony kwartał oficerskich willi. Mieszkańcy żyją między tymi warstwami i mają różne wspomnienia dotyczące każdej z nich.
 
-**Uzgodniona geneza nazwy:** w okolicy miasta **istniały rzeczywiste w świecie gry złoża miedzi**, eksploatowane przed XX wiekiem. Nazwa Miedziańsk zachowuje pamięć o dawnym górnictwie. Po 1945 roku polskie nazewnictwo nawiązało do znaczenia wcześniejszej niemieckiej nazwy — nie oznacza to, że oba słowa brzmiały identycznie. Ostateczna niemiecka nazwa pozostaje otwarta („Kupferstadt Tal” / „Kupfertal”; zob. `06-NAZEWNICTWO-NIEMIECKIE.md`).
+**Uzgodniona geneza nazwy:** w okolicy miasta **istniały rzeczywiste w świecie gry złoża miedzi**, eksploatowane przed XX wiekiem. Nazwa Miedziańsk zachowuje pamięć o dawnym górnictwie. Po 1945 roku polskie nazewnictwo nawiązało do znaczenia wcześniejszej niemieckiej nazwy — nie oznacza to, że oba słowa brzmiały identycznie. Przed 1945 r. miasto nazywało się **Kupfertal**, po 1945 r. **Miedziańsk**. Jedyny wariant nazwy niemieckiej zatwierdzono 6.11.2026; patrz `06-NAZEWNICTWO-NIEMIECKIE.md`.
 
 **Tożsamość gospodarcza:** **dawna miedź → niemiecki przemysł metalowy i kolej → polski przemysł elektromaszynowy dla Zagłębia Miedziowego + garnizon**. Historyczne płytkie złoża mogą zostać wyczerpane lub przestać się opłacać, ale nie znikają warsztaty, bocznica, budynki, fachowcy i tradycje. W 1992 r. miasto **nie potrzebuje dużej czynnej kopalni**. Podział na „stare” lokalne złoża i „nowe” głębokie złoża Legnicko-Głogowskiego Okręgu Miedziowego jest zgodny z realnym historycznym rozwojem regionu [H8, H9, H10].
 
@@ -22,7 +22,7 @@ Nie powinien wyglądać jak kolejne anonimowe miasto z PRL. W jednym kadrze moż
 
 ### XIV–XVII wiek: osada wydobywcza
 
-Na wzgórzach pod przyszłym miastem odkryto płytko zalegające żyły i mineralizację miedziową. Rozwinęła się osada górników, rzemieślników i handlarzy, a następnie niewielki ośrodek targowy obsługujący pobliskie kopalnie. **Konkretne daty praw miejskich, nazwy szybów i niemiecki toponim nie są jeszcze kanonem.** Możemy wzorować się na Miedziance (Kupferbergu), udokumentowanej jako ośrodek eksploatacji miedzi już na początku XIV wieku [H9]. Nie kopiujemy jednak jej losów 1:1.
+Na wzgórzach pod przyszłym miastem odkryto płytko zalegające żyły i mineralizację miedziową. Rozwinęła się osada górników, rzemieślników i handlarzy, a następnie niewielki ośrodek targowy obsługujący pobliskie kopalnie. **Konkretne daty praw miejskich i nazwy szybów nadal są otwarte; nazwa niemiecka Kupfertal jest kanonem.** Możemy wzorować się na Miedziance (Kupferbergu), udokumentowanej jako ośrodek eksploatacji miedzi już na początku XIV wieku [H9]. Nie kopiujemy jednak jej losów 1:1.
 
 ### XVIII–XIX wiek: rozwój i zmiana przemysłu
 
@@ -38,7 +38,7 @@ Dawne szyby są stopniowo zamykane; **roboczo** ostatni zakończyłby wydobycie 
 
 ## 1. Lata 1930–1935 — prowincjonalne miasto niemieckie
 
-Miedziańsk leży w ówczesnych Niemczech, administracyjnie w historycznym regionie Śląska. Jego **przedwojenna niemiecka nazwa pozostaje otwarta** — nie wymyślamy jej przypadkowo, zanim zdecydujemy o lokalnym nazewnictwie.
+Miedziańsk leży w ówczesnych Niemczech, administracyjnie w historycznym regionie Śląska. Jego przedwojenna niemiecka nazwa to **Kupfertal**. Po 1945 r. polskie władze wprowadziły nazwę **Miedziańsk**, zachowując tradycję miedziową.
 
 Miasteczko liczy **około 14–18 tys. mieszkańców** [PROPOZYCJA]. Rozwija się dzięki linii kolejowej, warsztatom naprawczym, zakładom metalowym i drobnej produkcji. Wciąż widać dziedzictwo dawnego górnictwa: wyrobiska poza granicami zabudowy, magazyny rudy przekształcone w składy, stare nazwy ulic i rodzinne tradycje. Same kopalnie są już w większości wygaszone. W rynku działają restauracje, apteka, niewielki hotel, księgarnie; obok stoi budynek sądu lub urzędu. Na obrzeżach są sady, ogrody działkowe i nieduży las. Właśnie w tej dekadzie wznoszone są lub modernizowane niektóre budynki publiczne.
 
@@ -200,7 +200,7 @@ Te napięcia mają istnieć już **przed** zakażeniami. Epidemia je wyostrza, z
 
 | Priorytet | Pytanie | Rekomendacja |
 |---|---|---|
-| WYSOKI | Jak brzmi niemiecka nazwa miasta sprzed 1945 roku? | „Kupferstadt Tal” (pomysł autora) lub „Kupfertal” (alternatywa językowa) — do zatwierdzenia |
+
 | UZGODNIONE | Korzenie nazwy i przemysłu | Istnieją dawne złoża miedzi i historyczne wydobycie, potem rozwinęły się zakłady metalowe i kolej |
 | WYSOKI | Profil przemysłu w 1992 r. | Utrzymać zakład elektromaszynowy i bocznicę; wielka czynna kopalnia nie jest potrzebna |
 | ZATWIERDZONE | Małe muzeum miedzi | Jednobudynkowa lokacja w historycznym centrum, z wystawą o miedzi na ziemiach polskich |
@@ -214,7 +214,7 @@ Te napięcia mają istnieć już **przed** zakażeniami. Epidemia je wyostrza, z
 
 **Rekomendowany portret Miedziańska:** miasto, które wyrosło z niemieckiego węzła kolejowo-warsztatowego, po 1945 roku straciło ciągłość ludnościową i część przestrzeni na rzecz Armii Radzieckiej, w PRL zbudowało społeczną tożsamość wokół fabryki i Solidarności, a w 1992 roku stoi przed odzyskaniem garnizonu. Pod jednym z obiektów, dawnym szpitalem, przez dziesięciolecia rozwijała się druga, tajna historia. Kryzys biologiczny uderza w miasto dokładnie wtedy, gdy próbuje ono zdefiniować siebie od nowa.
 
-**Kierunek historyczny zatwierdzony przez autora 6 listopada 2026 r.** Szczegółowe nazewnictwo, geografia i struktura garnizonu zostaną rozstrzygnięte podczas kolejnych etapów.
+**Kierunek historyczny zatwierdzony przez autora 6 listopada 2026 r.** Nazwę niemiecką **Kupfertal** zatwierdzono definitywnie. Geografia, nazwy poszczególnych instytucji oraz struktura garnizonu będą rozstrzygane w kolejnych etapach.
 
 **Źródła historycznych analogii:** patrz `04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`.
 
