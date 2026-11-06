@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.8  
+**Wersja:** 0.9  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -112,6 +112,10 @@ Autor zaakceptował mapę Miedziańska z etapu 02 oraz logiczność zaproponowan
 
 Dnia 6.11.2026 użytkownik zatwierdził koncepcję lokalnego rosyjskiego garnizonu zabezpieczenia, jego Kwadratu, kompetencji służb, cywilnego Szpitala Miejskiego z rosyjskim skrzydłem, historii powojennego podziału budynku oraz oddelegowania polskiego oficera do zespołu kontrolnego. Szczegółowe liczby pozostają szacunkami projektowymi, jeśli nie były osobno zatwierdzane.
 
-**Kanon:** tajny program biologiczny pod szpitalem; trzy historyczne warstwy przestrzeni; nagła katastrofa w związku z wycofywaniem wojsk. **Propozycja etapu 04:** kryptonim „Rubież”, badania nad fikcyjnym zaburzeniem zachowania, niewielki ośrodek obserwacyjny, nieudana likwidacja i dwie fale kryzysu. Szczegóły w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`.
+**Kanon:** tajny program biologiczny pod szpitalem; trzy historyczne warstwy przestrzeni; nagła katastrofa w związku z wycofywaniem wojsk. **[KANON]** Nazwa tajnego programu: **Rubież**. **[KIERUNEK AUTORSKI]** Jeden incydent podczas chaotycznej likwidacji programu (około 9–10 X), nierozpoznane pierwsze przypadki, tajna obserwacja chorych w rosyjskim skrzydle, zwycięstwo zwolenników zatajania informacji, 13 X gwałtowne objawy hospitalizowanych oraz równoległe ujawnianie się wcześniejszych przypadków w mieście. Dwa etapy kryzysu **nie oznaczają dwóch wycieków**. Badania nad fikcyjnym zaburzeniem zachowania i reguły zakażenia pozostają propozycją. Szczegóły w `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`.
 
 **Osobiste związki bohaterów z tym programem nie zostały jeszcze ustalone** i będą osobną częścią III.
+
+## 14. Korekta fabuły Rubieży (6.11.2026)
+
+Zatwierdzono nazwę „Rubież”. Użytkownik zaproponował: chaotyczne pakowanie, pojedynczy wcześniejszy incydent, przypadki początkowo obserwowane w odciętym rosyjskim skrzydle, przewagę frakcji tuszującej, narastający konflikt oraz gwałtowne objawy tych pacjentów 13 października i późniejsze rozpoznanie konsekwencji na ulicach. Brak podstaw do dopisywania drugiego technicznego incydentu 13 października.

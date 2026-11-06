@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.8  
+**Wersja:** 0.9  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -18,7 +18,7 @@
 | 01 | **ZATWIERDZONY ZARYS** | **Historia Miedziańska: geneza przed 1930 i lata 1930–1992** | Dawne wydobycie miedzi i pochodzenie nazwy, przemysł, garnizon, szpital, rok 1992, małe muzeum | Oś czasu bez sprzeczności, co najmniej 8 lokacji wynikających z historii, decyzja o profilu gospodarczym i muzeum |
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
-| 04 | **W TOKU — PROJEKT DO AKCEPTACJI** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Zatwierdzić kryptonim, podstawę fikcyjnej biologii, przyczynę katastrofy, dwie fale oraz logiczną eskalację w 36 h |
+| 04 | **W TOKU — KRYPTONIM I MODEL WSTĘPNEGO KRYZYSU UZGODNIONE** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
 | 05 | DO ZROBIENIA | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
 | 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
@@ -61,3 +61,7 @@ Autor zatwierdził rozrysowane miasto, odległości i funkcjonalną geografię. 
 ### Zatwierdzenie etapu 03 i podział następnych prac (6.11.2026)
 
 Jawną, realistyczną część garnizonu i szpitala autor zatwierdził. Następuje **etap 04: co działo się pod szpitalem**, zakończony osobną akceptacją. **Część III: jak bezpośrednio wplatani są bohaterowie** nastąpi po niej, bez mieszania nowych ustaleń z kanonem z góry.
+
+### Aktualizacja etapu 04 — jeden incydent, dwa etapy (6.11.2026)
+
+Autor nazwał **Rubież** ostateczną nazwą programu i zaproponował silniejszą przyczynowość: nie dwa wycieki, ale **jeden incydent podczas chaotycznego zwijania projektu**, następnie tajna obserwacja pierwszych chorych w zamkniętym rosyjskim skrzydle, zwycięstwo frakcji tuszującej informacje, a 13.10 gwałtowne objawy hospitalizowanych i ujawnianie się wcześniejszych przypadków w mieście. Trzecia część pracy (bezpośrednie związki bohaterów) nie jest jeszcze rozstrzygnięta.

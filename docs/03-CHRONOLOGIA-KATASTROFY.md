@@ -6,7 +6,7 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 
 | Czas | Oficer / laboratorium | Dziennikarka / miasto | Stan przestrzeni |
 |---|---|---|---|
-| **13.10 17:00** | Prolog: nadzoruje wywózkę w podziemiach; dochodzi do awarii i ataku, kolega go ratuje | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
+| **13.10 17:00** | Prolog: przebywa przy kontrolowanej wywózce; trwa ujawniający się gwałtowny kryzys związany z **wcześniejszym incydentem**, dochodzi do ataków, kolega go ratuje (dokładny związek z Rubieżą do części III) | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
 | **13.10 19:00** | Nieprzytomny albo ukryty w części schronu | Rozmowa w hotelowym barze; pierwsza gwałtowna scena | Pierwsze syreny; mieszkańcy nadal nie rozumieją zagrożenia |
 | **13.10 21:00** | Odzyskuje przytomność; próbuje wydostać się z kompleksu | Próbuje zdobyć informacje i bezpieczną drogę przez centrum | Lokalna policja i pogotowie działają, pojedyncze blokady |
 | **13.10 23:00** | Wciąż w kompleksie lub przy wyjściu | Widzi nasilające się działania służb | Strefa szpitala zamykana; pierwsze wojskowe punkty kontrolne; niepełny kordon |
@@ -34,4 +34,8 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 - Dlaczego żołnierz nie może po prostu ujawnić stopnia i wyjechać przez kordon? Możliwy status „zakażony/niezidentyfikowany”, brak łączności, sprzeczne komendy — **propozycje, nie rozwiązanie kanoniczne**.
 ## Aneks — podziemny program (propozycja etapu 04)
 
-W dokumencie `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md` opisano **roboczy** model wcześniejszych, nielicznych przypadków z 10–12 października oraz większego incydentu 13 października podczas likwidacji fikcyjnego ośrodka. Godziny kampanii (13–15 października) pozostają zgodne z poprzednią ramą; **żadne konkretne źródło zakażenia ani reguła transmisji nie stają się kanonem bez decyzji autora**. Osobisty udział bohaterów zostaje w późniejszej części III.
+W dokumencie `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md` opisano model **jednego pierwotnego incydentu z około 9–10 października** podczas chaotycznej likwidacji fikcyjnego ośrodka, a następnie dwóch etapów widocznych konsekwencji: dyskretnych przypadków z 10–12 października i gwałtownej fazy objawowej 13 października. **Nie ma drugiego niezależnego wycieku 13 października.** Godziny kampanii (13–15 października) pozostają zgodne z poprzednią ramą; **żadne konkretne źródło zakażenia ani reguła transmisji nie stają się kanonem bez decyzji autora**. Osobisty udział bohaterów zostaje w późniejszej części III.
+
+### Ustalenie przyczynowe — 6 listopada 2026
+
+Pierwszy spór wewnątrz Rubieży kończy się przejęciem oficjalnej decyzji przez zwolenników zatajenia problemu. Zespół przewozi podejrzanych chorych na obserwację do rosyjskiego, zamkniętego skrzydła szpitalnego. W dniu 13 października rozwinięte objawy u pacjentów doprowadzają do gwałtownej utraty kontroli i ponownego konfliktu personelu. Skutki **wcześniejszego** incydentu ujawniają się także w Miedziańsku. Szczegółowa droga zakażenia, mechanizm choroby i rozkład godzin pozostają do dopracowania.

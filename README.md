@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.8 — 6 listopada 2026  
+**Wersja:** 0.9 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -23,7 +23,7 @@
 
 12. [`docs/09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`](docs/09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md) — etap 03: historycznie wiarygodna, jawna organizacja garnizonu i szpitala (projekt do zatwierdzenia).
 
-13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: projekt ukrytego ośrodka i zarzewia epidemii, **do zatwierdzenia**; powiązania bohaterów w odrębnej części III.
+13. [`docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`](docs/10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md) — etap 04: program **Rubież**, nazwa zatwierdzona; przyczyna epidemii uzupełniona przez autora: jeden incydent, dwa etapy kryzysu. Osobiste powiązania bohaterów w osobnej części III.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -73,3 +73,10 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Rozpoczęto etap 04: tajny podziemny program. Nowa nazwa „Rubież”, szczegóły badań, dwufalowa eskalacja i koncepcja zakażonych są **propozycjami** wymagającymi akceptacji.
 - Historycznym punktem odniesienia są rzeczywiste wydarzenia kwietnia–września 1992 r. wokół zakończenia radzieckiego programu biologicznego. Nie są dowodem na tajne prace w Legnicy.
 - Projekt osobistego uwikłania dziennikarki i oficera w program został świadomie przesunięty do części III.
+
+## Zmiany w wersji 0.9
+
+- Zatwierdzono kryptonim **Rubież** jako jedyną nazwę tajnego programu.
+- Wprowadzono autorską wersję przyczyn katastrofy: jeden wcześniejszy incydent w chaosie likwidacji, obserwacja chorych w zamkniętym rosyjskim skrzydle, tuszowanie i ujawnienie się ostrych objawów 13 października.
+- Usunięto domyślny drugi „wyciek” 13 października; dwie fale znaczą dwie fazy widoczności skutków jednego zdarzenia.
+- Część III o osobistych motywacjach i uwikłaniu dwojga bohaterów pozostaje jeszcze niewymyślona.

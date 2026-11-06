@@ -1,6 +1,6 @@
 # Etap 04 — podziemny ośrodek i program „Rubież”
 
-**Status: PROPOZYCJA FABULARNA DO ZATWIERDZENIA.**  
+**Status: częściowo zatwierdzony kanon i kierunek autora, szczegóły fabularne do dopracowania.** Kryptonim „Rubież” jest ostateczny. Jeden incydent podczas chaotycznej likwidacji, dwufazowa eskalacja i początkowe tuszowanie to kierunek zaproponowany przez autora 6.11.2026. Efekty fikcyjnej biologii, jej dokładne zasady oraz ostateczny przebieg scen wymagają osobnej akceptacji.  
 **Data opracowania:** 6 listopada 2026 r.  
 **Uzgodniony kanon wejściowy:** istnieje niemiecki schron pod Szpitalem Miejskim, po 1945 r. rozbudowany przez Rosjan; poniżej działa nielegalny program biologiczny, którego kryzys przyczynia się do epidemii w dniach 13–15 października 1992 r.  
 **Nowe elementy do akceptacji:** nazwa „Rubież”, funkcja programu, przebieg badań, topologia podziemi, wewnętrzne konflikty, reguły zakażenia i możliwa przyczyna katastrofy.
@@ -128,45 +128,57 @@ Badano fikcyjne zjawisko biologiczne, którego konsekwencje są związane z **uk
 - **Nie zatwierdzamy** jeszcze dokładnej drogi przenoszenia, długości poszczególnych faz i procentu ludności, który zachoruje. To wymaga osobnego testu spójności fabularnej.
 - Mutacje potworów i ich statystyki trafią do etapu 09, po ustaleniu zasad tego świata.
 
-## 8. Dlaczego wybuch nastąpił właśnie 13 października 1992? [REKOMENDOWANY WARIANT]
+## 8. Jak zaczęła się katastrofa? Jeden incydent i dwa etapy kryzysu
 
-**Zalecana przyczyna główna:** wymuszona likwidacja programu spotyka się z niechęcią do utraty wyników i odpowiedzialności za nielegalne eksperymenty. Błędy organizacyjne, spory o decyzje i zatajenie pierwszych incydentów składają się na jedną katastrofę.
+**[ZAŁOŻENIE AUTORA / PRZYJĘTY KIERUNEK]** Podczas coraz bardziej chaotycznego zwijania programu „Rubież” w dniach poprzedzających 13 października dochodzi do **pierwszego i zasadniczego incydentu z fikcyjnym czynnikiem zakaźnym**. Nie tworzymy drugiego osobnego „wycieku” 13 października tylko po to, by przyspieszyć fabułę. Rozwój wydarzeń wynika ze stopniowego ujawniania się konsekwencji pierwszego zdarzenia oraz z decyzji kierownictwa.
 
-### Wcześniejsze sygnały — 10–12 października [PROPOZYCJA]
+Zespół jest podzielony: część pracowników chce zatrzymać likwidację, zawiadomić przełożonych i chronić ludzi; część za wszelką cenę próbuje ukryć charakter projektu, błędy i konsekwencje. **Pierwszą walkę o decyzje wygrywają zwolennicy tuszowania**, nie dlatego, że wszyscy im wierzą, lecz dlatego, że kontrolują oficjalne meldunki i rozkazy dotyczące strefy. To jest zwycięstwo administracyjne, nie absolutna kontrola nad ludźmi i biologią.
 
-- Już przed właściwym początkiem gry dochodzi do kilku dziwnych zdarzeń na terenie rosyjskiego skrzydła.
-- Co najmniej jeden przypadek zostaje błędnie zakwalifikowany jako zwykłe zaburzenie medyczne. Polscy lekarze nie widzą niczego wystarczająco charakterystycznego, by połączyć to z utajnioną strefą.
-- Niektóre osoby z rosyjskiej części szpitala i jego otoczenia przemieszczają się normalnie; to tłumaczy **pierwsze, nieliczne punkty zapalne w mieście jeszcze przed kryzysem**.
-- Skala pozostaje niewielka i dwuznaczna. Nikt 12 października nie powinien jeszcze uznać Miedziańska za zombie-miasto.
+### Chronologia [PROPOZYCJA szczegółowych dat i przebiegu]
 
-### 13 października — kulminacja [PROPOZYCJA, godziny zależne od fabuły]
-
-| Moment | Wydarzenie | Reakcja |
+| Okres | Sytuacja wewnątrz ośrodka i szpitala | Co dzieje się poza nim |
 |---|---|---|
-| **Poranek** | Otrzymano lub ponowiono pilny rozkaz zamknięcia wybranych działań oraz opróżnienia strefy. | Osoby odpowiedzialne za program spierają się, co ma zostać przekazane, zniszczone lub ujawnione. |
-| **Popołudnie** | Podczas zwijania placówki dochodzi do krytycznego incydentu w części zamkniętej. | Nadzór nad ośrodkiem traci spójność; część personelu próbuje ratować ludzi, inni przede wszystkim odizolować obiekt. **Nie precyzujemy technicznej metody awarii.** |
-| **Około 17:00** | Narasta bezpośrednie zagrożenie pod szpitalem. | Konflikt i chaos uderzają w jawne struktury wojskowego skrzydła. Ten moment pokrywa się z uzgodnioną ramą prologu oficera; **jego osobiste uwikłanie pozostaje do części III**. |
-| **Wieczór** | Pojawiają się incydenty na styku rosyjskiego i polskiego szpitala oraz w najbliższym sąsiedztwie. | Personel, Policja i pogotowie początkowo reagują na konkretne wezwania, nie na rozpoznaną epidemię. |
-| **Noc** | Meldunki o zagrożeniu są niepełne, sprzeczne lub zatajne. | Polskie i rosyjskie ośrodki dowodzenia rozumieją sytuację inaczej, a działania ochronne są spóźnione i nieskoordynowane. |
+| **9–10 X** | Pakowanie wyposażenia i dokumentacji jest chaotyczne, trwa spór o zakres i sposób likwidacji; dochodzi do **jednego incydentu**. Jego techniczny przebieg pozostaje nieokreślony. | Miasto funkcjonuje normalnie; nikt nie ogłasza alarmu. |
+| **10–11 X** | Pojawiają się pierwsze podejrzane przypadki. Część specjalistów domaga się reakcji; kierownictwo decyduje o ograniczonej, tajnej obserwacji i zaniżaniu znaczenia meldunków. | Nieliczne osoby niepoddane obserwacji lub z nierozpoznanymi objawami nadal funkcjonują poza zamkniętą strefą. |
+| **11–12 X** | Podejrzani pacjenci trafiają **do zamkniętej rosyjskiej części szpitala** na obserwację. Pracownicy wciąż próbują ustalić, czy przypadki mają wspólne źródło; nie zakładamy pełnej wiedzy o chorobie. | Pojawiają się pojedyncze niepokojące zdarzenia bez rozpoznania ich związku z ośrodkiem. |
+| **13 X rano** | U części pacjentów pojawiają się niebudzące już wątpliwości ciężkie objawy. Specjaliści próbują ponownie wymusić alarm. Konflikt w kierownictwie wraca, tym razem już w obliczu niezbitych dowodów. | Pierwsze lokalne wezwania do pomocy, jeszcze bez obrazu sytuacji obejmującej miasto. |
+| **13 X późne popołudnie** | Obserwowani pacjenci wchodzą w gwałtowną fazę objawową i atakują ludzi w rosyjskim skrzydle. Personel medyczny, wojskowi i kierownictwo podejmują sprzeczne decyzje. **Nie następuje nowy, niezależny wyciek.** | U części osób przebywających poza szpitalem ujawniają się wcześniej niewidoczne problemy; lokalne służby widzą oddzielne zdarzenia. |
+| **13 X wieczór i noc 13/14 X** | Personel próbuje ratować pacjentów i izolować zagrożenie; część dowódców nadal ukrywa źródło. Granica administracyjna między rosyjskim skrzydłem a polską częścią komplikuje wspólną reakcję. | Narasta kryzys szpitala i sąsiednich ulic. Dopiero z czasem rozpoznawane są powiązania między zdarzeniami. |
 
-**Rekomendacja dramaturgiczna:** bez jednoznacznego sabotażysty. Wystarczy tajny program, presja polityczna, źle zarządzana likwidacja i ludzie, którzy długo ukrywali błędy. Można zostawić podejrzenia sabotażu jako **fałszywy lub niepotwierdzony trop**, jeśli później wyniknie z tego ciekawsza zagadka.
+**Uwaga:** nie definiujemy tu sposobu zakażenia, długości inkubacji, technicznej przyczyny incydentu ani procedur laboratoryjnych. To autorska chronologia fabularna, nie opis realnego czynnika biologicznego.
 
-## 9. Jak rozwinąć epidemię w 36 godzin bez scenariuszowego oszustwa? [PROPOZYCJA MODELU DWÓCH FAL]
+### Dlaczego kierownictwo wierzy, że sprawę można ukryć?
 
-### Fala A — rozproszone, wcześniejsze przypadki
-- Kilka przypadków już 10–12 października. Nie wszystkie wyglądają groźnie.
-- Niektóre osoby przebywają poza szpitalem zanim służby dostrzegą prawidłowość.
-- Pierwsze pojawiające się w grze zagrożenia **nie muszą** być osobami zakażonymi dopiero o 17:00.
+- Pierwsze objawy są niejednoznaczne; nie ma od razu oczywistej „armii potworów”.
+- Ośrodek ma zostać zamknięty w ciągu dni. Niektórzy liczą, że pojedyncze przypadki nie będą wymagały ujawnienia prawdziwej działalności.
+- Poszczególne osoby dysponują **niepełnymi, sprzecznymi informacjami**. Część naukowców widzi więcej niż wojskowe kierownictwo, ale nie ma decyzyjnej władzy.
+- Ujawnienie oznaczałoby nie tylko przerwanie ewakuacji, lecz także odpowiedzialność za wieloletni nielegalny program.
 
-### Fala B — gwałtowny kryzys pod szpitalem
-- Incydent 13 października prowadzi do nagłego wzrostu liczby ciężkich przypadków i bezpośredniego zagrożenia w szpitalu.
-- Policja i pogotowie próbują działać normalnie, ale liczba wezwań, brak wiedzy i zamieszanie między służbami powodują utratę kontroli nad wybranymi rejonami.
-- Kordon w pierwszych godzinach **nie** jest magicznie gotową, jednolitą i strzelającą do wszystkiego ścianą wojskową. Początkowo obejmuje szpital i najważniejsze ulice, a później staje się zewnętrzną izolacją miasta.
+**Punkt nieodwracalny:** gdy 13 października rano skala zagrożenia staje się jasna, kierownictwo mogłoby jeszcze ułatwić reakcję polskim służbom. Zamiast tego część ludzi kontynuuje ukrywanie informacji. To katastrofa nie tylko biologiczna, lecz przede wszystkim moralna i instytucjonalna.
 
-### Istotne ograniczenie
-**Nie zakładamy**, że wszyscy zakażeni rozwijają pełne objawy w kilka minut ani że całe miasto umiera podczas jednej nocy. Różny moment początkowego zakażenia i rozwój wielu małych ognisk pozwalają utrzymać dynamiczną, lecz nie kompletnie opustoszałą przestrzeń w dniu 14 października.
+## 9. Dwie fale — wyraźne rozróżnienie [ZAŁOŻENIE AUTORA]
 
-**Reguły zakaźności i objawów pozostają otwarte.** Bez ich określenia jest to koncepcja dramaturgiczna, nie zatwierdzony model epidemiologiczny.
+W tej wersji **„dwie fale” nie oznaczają dwóch oddzielnych uwolnień wirusa**. Chodzi o dwa etapy *ujawnienia skutków jednego incydentu*.
+
+### Fala A — cicha, ukryta
+
+- Dotyczy pierwszych przypadków z dni 10–12 października.
+- Podejrzanych pacjentów kieruje się do zamkniętego skrzydła rosyjskiego na obserwację. Kierownictwo liczy na ograniczoną skalę problemu.
+- Część zdarzeń poza placówką nie jest jeszcze rozpoznawana jako związana z programem. Nie twierdzimy, że wszyscy zakażeni wychodzą ze szpitala.
+- Personel próbuje przekazać ostrzeżenia, ale oficjalne stanowisko osłabia ich znaczenie.
+
+### Fala B — gwałtowna, widoczna
+
+- **13 października**, podczas kulminacji konfliktu, chorzy poddani obserwacji w rosyjskim skrzydle gwałtownie wchodzą w fazę objawową i atakują personel oraz innych pacjentów.
+- Jednocześnie **w mieście zaczynają się ujawniać konsekwencje wcześniejszych, nierozpoznanych przypadków** — nie jest to koniecznie zupełnie nowe zakażenie.
+- Spór pomiędzy stroną chcącą alarmować a stroną chcącą ukryć sprawę uniemożliwia szybki wspólny komunikat dla polskiego szpitala, Policji i władz.
+- Służby początkowo reagują na **konkretne wezwania**. Kordon rozwija się od lokalnych blokad do szerszej izolacji, nie pojawia się od razu jako gotowa ściana.
+
+### Dlaczego ta koncepcja pasuje do gry trwającej około 36 godzin?
+
+Część ludzi przechodzi kryzys wcześniej, ponieważ ich historia zaczęła się przed rozpoczęciem gry. Inni mają objawy później albo wcale nie zachorują. Wydarzenia nie wymagają, żeby **cały Miedziańsk został zakażony w jedną noc**. Przeciwnie: pozostają działające fragmenty miasta, schronienia cywilów, patrole, szpitalne grupy ratunkowe i możliwość komunikowania się między niektórymi dzielnicami.
+
+Sposób przenoszenia i szczegółowy rytm objawów wciąż wymagają osobnego projektowania fabularnego.
 
 ## 10. O co kłócą się ludzie kierujący programem? [PROPOZYCJA POSTAW]
 
@@ -207,10 +219,10 @@ Ważne, by podziemia opowiadały historię przestrzenią, a nie tylko zapiskami.
 - Dlaczego podziemia mają trzy różne warstwy architektury.
 
 ### Co nadal wymaga decyzji autora?
-- Czy zatwierdzamy kryptonim **„Rubież”**?
-- Czy zakażeni mają być **żywymi ludźmi**, z zachowanymi fragmentami nawyków i niestabilną agresją, a nie literalnymi ożywionymi trupami?
-- Czy przyczyną główną jest **nieudana likwidacja programu i zatajenie wcześniejszych incydentów**, bez potwierdzonego sabotażu?
-- Czy utrzymujemy **dwie fale kryzysu**, tak aby nie trzeba było w jedną noc zakazić wszystkich mieszkańców?
+- **[KANON] Kryptonim „Rubież” został ostatecznie zatwierdzony przez autora 6.11.2026.**
+- Czy zakażeni mają być **żywymi ludźmi**, z zachowanymi fragmentami nawyków i niestabilną agresją, a nie literalnymi ożywionymi trupami? **[WCIĄŻ OTWARTE]**
+- **[KIERUNEK AUTORSKI]** Kryzys wynika z chaosu podczas likwidacji, jednego wcześniejszego incydentu oraz **tuszowania pierwszych zachorowań**. Szczegółowa przyczyna incydentu oraz ewentualna rola sabotażu nie są rozstrzygnięte.
+- **[KIERUNEK AUTORSKI]** Utrzymujemy dwa etapy kryzysu: ciche przypadki obserwowane w rosyjskim skrzydle i gwałtowne objawy 13.10. To **nie są dwa odrębne wycieki**.
 - Jakie są dokładne reguły przebiegu choroby i kontaktu z zakażonymi? (najpierw zatwierdzić estetykę i dramaturgię, potem uściślić zasady dla gameplayu).
 - Jak wygląda formalna nadrzędność komórki „Rubież” nad lokalnym garnizonem? (możliwa mała, odrębna pionowa struktura wojskowa; do doprecyzowania bez kopiowania rzeczywistych tajnych etatów).
 
@@ -234,3 +246,7 @@ Po zatwierdzeniu tego dokumentu osobno opracujemy:
 - [H2], [H20] IPN — historia wycofywania wojsk rosyjskich z Polski w 1992 r., odnośniki w `04-ZRODLA-I-ODDZIELENIE-FIKCJI.md`.
 
 **Ważne:** program Rubież nie jest identyfikowany jako historyczna gałąź Biopreparatu; to oryginalna fikcja inspirowana dokumentowanym kontekstem politycznym. Fakt, że wokół realnego legnickiego szpitala krążyły opowieści o podziemnych tunelach, nie stanowi źródła dla tajnego programu biologicznego w Legnicy.
+
+## 14. Uzupełnienie zgodne z pomysłem autora (6 listopada 2026)
+
+Autor zatwierdził kryptonim **Rubież** i zaproponował zasadniczą przyczynowość katastrofy: chaotyczne pakowanie → pojedynczy pierwotny incydent → pierwsze nierozpoznane przypadki → celowe zatajenie informacji i obserwacja w zamkniętym rosyjskim skrzydle → konflikt o alarmowanie → pojawienie się gwałtownych objawów u izolowanych pacjentów 13 X → równoległe ujawnienie wcześniejszych przypadków w mieście. Nie wprowadzać drugiego niezależnego wypadku biologicznego 13 X. Nie wprowadzać nowej, niezatwierdzonej historii osobistych związków protagonistów.
