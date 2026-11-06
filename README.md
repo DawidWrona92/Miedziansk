@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.5 — 6 listopada 2026  
+**Wersja:** 0.6 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -15,7 +15,11 @@
 
 7. [`docs/06-NAZEWNICTWO-NIEMIECKIE.md`](docs/06-NAZEWNICTWO-NIEMIECKIE.md) — zatwierdzona przedwojenna nazwa Kupfertal.
 
-8. [`docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md`](docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md) — geografia, położenie dzielnic, rzeka, kolej, szpital i węzły komunikacji; etap 02 w toku.
+8. [`docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md`](docs/07-GEOGRAFIA-I-UKLAD-MIASTA.md) — geografia, położenie dzielnic, rzeka, kolej, szpital i węzły komunikacji; zatwierdzony układ logiczny, plan metryczny w przygotowaniu.
+
+9. [`docs/08-MAPA-MIASTA-W-SKALI.md`](docs/08-MAPA-MIASTA-W-SKALI.md) — mapa metryczna, punkty i odległości (propozycja do zatwierdzenia).
+10. [`docs/maps/MIEDZIANSK_1992_PLAN_ROBOCZY.svg`](docs/maps/MIEDZIANSK_1992_PLAN_ROBOCZY.svg) — edytowalna wektorowa mapa 1992.
+11. [`docs/maps/layout_1992.json`](docs/maps/layout_1992.json) — metryczny model układu miasta.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -46,3 +50,9 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - Zaakceptowano założenia geograficzne: dolina rzeczna, przepływ rzeki przez Stare Miasto, dawne zalane kopalnie pod/obok późniejszych terenów przemysłowych, miasto zniszczone w obronie Festung Kupfertal (fikcyjne), kontrast kamienic i bloków.
 - Zatwierdzono centralne położenie jednego miejskiego szpitala oraz istnienie odseparowanego skrzydła rosyjskiego; dawny opis szpitala na peryferyjnym wzgórzu jest nieaktualny.
 - Rozpoczęto etap 02: szkic topografii, dzielnic, kolei, mostów, tras i propozycja mapy logicznej. Szczegóły liczbowo-topograficzne pozostają propozycjami do akceptacji.
+
+## Zmiany w wersji 0.6
+
+- Zatwierdzono układ logiczny miasta z etapu 02, zgodnie z decyzją autora.
+- Opracowano propozycję skali 6 × 4 km, kilometrowej siatki, tras, mostów, torów, głównych obiektów i obszarów.
+- Dodano źródło danych metrycznych JSON i wektorową mapę SVG. Współrzędne i skala wymagają jeszcze przeglądu; to nie jest pełny poziom gry.

@@ -1,0 +1,571 @@
+{
+  "schema_version": "0.1",
+  "title": "Miedziańsk — siatka urbanistyczna",
+  "year": 1992,
+  "status": "propozycja skali i współrzędnych; zatwierdzony układ logiczny",
+  "coordinate_system": {
+    "units": "meters",
+    "origin": "southwest edge of schematic urban frame",
+    "x_positive": "east",
+    "y_positive": "north",
+    "width": 6000,
+    "height": 4000,
+    "geographic_coordinates": false
+  },
+  "population_range": [
+    30000,
+    40000
+  ],
+  "city_limit_warning": "Prostokąt 6x4 km jest roboczym arkuszem, a nie granicą administracyjną ani gwarancją, że cała powierzchnia będzie grywalna.",
+  "river": {
+    "id": "RIV-01",
+    "name": "rzeka miejska (nazwa do ustalenia)",
+    "flow": "west-east",
+    "width_m_proposal": 14,
+    "polyline": [
+      [
+        0,
+        2170
+      ],
+      [
+        800,
+        2200
+      ],
+      [
+        1500,
+        2170
+      ],
+      [
+        2300,
+        2190
+      ],
+      [
+        3100,
+        2130
+      ],
+      [
+        3900,
+        2100
+      ],
+      [
+        4700,
+        2190
+      ],
+      [
+        5400,
+        2120
+      ],
+      [
+        6000,
+        2170
+      ]
+    ]
+  },
+  "districts": [
+    {
+      "id": "ZON-01N",
+      "name": "Stare Miasto — północ",
+      "bbox": [
+        1700,
+        2330,
+        3380,
+        3120
+      ],
+      "kind": "historic"
+    },
+    {
+      "id": "ZON-01S",
+      "name": "Stare Miasto — południe",
+      "bbox": [
+        2400,
+        1730,
+        3440,
+        2090
+      ],
+      "kind": "historic"
+    },
+    {
+      "id": "ZON-04",
+      "name": "MZE i pas przemysłowy",
+      "bbox": [
+        680,
+        1100,
+        2360,
+        1930
+      ],
+      "kind": "industry"
+    },
+    {
+      "id": "ZON-06",
+      "name": "Kwadrat — kwartał rosyjski",
+      "bbox": [
+        3630,
+        2550,
+        4900,
+        3400
+      ],
+      "kind": "military"
+    },
+    {
+      "id": "ZON-07",
+      "name": "Szpital miejski",
+      "bbox": [
+        3550,
+        1450,
+        4270,
+        1990
+      ],
+      "kind": "hospital"
+    },
+    {
+      "id": "ZON-03",
+      "name": "Stacja i dworzec",
+      "bbox": [
+        2350,
+        720,
+        3460,
+        1170
+      ],
+      "kind": "rail"
+    },
+    {
+      "id": "ZON-05A",
+      "name": "Zabudowa mieszkalna północna",
+      "bbox": [
+        450,
+        2640,
+        1660,
+        3440
+      ],
+      "kind": "residential"
+    },
+    {
+      "id": "ZON-05B",
+      "name": "Osiedle robotnicze",
+      "bbox": [
+        900,
+        610,
+        2210,
+        1070
+      ],
+      "kind": "residential"
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "POI-01",
+      "name": "Rynek",
+      "x": 2700,
+      "y": 2670,
+      "zone": "ZON-01N"
+    },
+    {
+      "id": "POI-02",
+      "name": "Hotel",
+      "x": 2260,
+      "y": 2810,
+      "zone": "ZON-01N"
+    },
+    {
+      "id": "POI-03",
+      "name": "Muzeum Miedzi",
+      "x": 3110,
+      "y": 2830,
+      "zone": "ZON-01N"
+    },
+    {
+      "id": "POI-04",
+      "name": "Most historyczny A",
+      "x": 2780,
+      "y": 2170,
+      "zone": "ZON-02"
+    },
+    {
+      "id": "POI-05",
+      "name": "Most przemysłowy B",
+      "x": 4300,
+      "y": 2160,
+      "zone": "ZON-02"
+    },
+    {
+      "id": "POI-06",
+      "name": "Dawne zatopione szyby",
+      "x": 950,
+      "y": 1720,
+      "zone": "ZON-04"
+    },
+    {
+      "id": "POI-07",
+      "name": "MZE",
+      "x": 1660,
+      "y": 1550,
+      "zone": "ZON-04"
+    },
+    {
+      "id": "POI-08",
+      "name": "Dworzec Główny",
+      "x": 2850,
+      "y": 940,
+      "zone": "ZON-03"
+    },
+    {
+      "id": "POI-09",
+      "name": "Sztab — dawna szkoła",
+      "x": 4250,
+      "y": 2950,
+      "zone": "ZON-06"
+    },
+    {
+      "id": "POI-10",
+      "name": "Szpital Miejski",
+      "x": 3900,
+      "y": 1770,
+      "zone": "ZON-07"
+    },
+    {
+      "id": "POI-11",
+      "name": "Bocznica wojskowa i magazyny",
+      "x": 4550,
+      "y": 1410,
+      "zone": "ZON-09"
+    },
+    {
+      "id": "POI-12",
+      "name": "Wyjazd na drogę przelotową",
+      "x": 5000,
+      "y": 440,
+      "zone": "ZON-09"
+    }
+  ],
+  "transport": {
+    "roads": [
+      {
+        "id": "RD-01",
+        "name": "Trakt śródmiejski — A — dworzec",
+        "category": "primary",
+        "polyline": [
+          [
+            2750,
+            3320
+          ],
+          [
+            2710,
+            2790
+          ],
+          [
+            2780,
+            2170
+          ],
+          [
+            2790,
+            1700
+          ],
+          [
+            2850,
+            940
+          ],
+          [
+            2840,
+            440
+          ]
+        ]
+      },
+      {
+        "id": "RD-02",
+        "name": "Kwadrat — B — szpital",
+        "category": "primary",
+        "polyline": [
+          [
+            4250,
+            3400
+          ],
+          [
+            4250,
+            2950
+          ],
+          [
+            4300,
+            2160
+          ],
+          [
+            3900,
+            1770
+          ],
+          [
+            4300,
+            1220
+          ],
+          [
+            5000,
+            440
+          ]
+        ]
+      },
+      {
+        "id": "RD-03",
+        "name": "Aleja przemysłowa",
+        "category": "primary",
+        "polyline": [
+          [
+            390,
+            1580
+          ],
+          [
+            950,
+            1620
+          ],
+          [
+            1660,
+            1550
+          ],
+          [
+            2750,
+            1630
+          ],
+          [
+            3900,
+            1770
+          ],
+          [
+            5280,
+            1710
+          ]
+        ]
+      },
+      {
+        "id": "RD-04",
+        "name": "Ulica północna",
+        "category": "secondary",
+        "polyline": [
+          [
+            400,
+            3200
+          ],
+          [
+            1300,
+            3150
+          ],
+          [
+            2450,
+            3150
+          ],
+          [
+            3200,
+            3130
+          ],
+          [
+            4250,
+            3080
+          ],
+          [
+            5350,
+            3070
+          ]
+        ]
+      },
+      {
+        "id": "RD-05",
+        "name": "Obwodnica wschodnia",
+        "category": "secondary",
+        "polyline": [
+          [
+            5350,
+            3070
+          ],
+          [
+            5300,
+            2130
+          ],
+          [
+            5280,
+            1710
+          ],
+          [
+            5100,
+            1260
+          ],
+          [
+            5000,
+            440
+          ]
+        ]
+      },
+      {
+        "id": "RD-06",
+        "name": "Dojazd MZE do dworca",
+        "category": "secondary",
+        "polyline": [
+          [
+            1660,
+            1550
+          ],
+          [
+            1950,
+            1150
+          ],
+          [
+            2850,
+            940
+          ]
+        ]
+      },
+      {
+        "id": "RD-07",
+        "name": "Szpital — dworzec",
+        "category": "secondary",
+        "polyline": [
+          [
+            3900,
+            1770
+          ],
+          [
+            3340,
+            1330
+          ],
+          [
+            2850,
+            940
+          ]
+        ]
+      },
+      {
+        "id": "RD-08",
+        "name": "Zachodni dojazd z dzielnic mieszkalnych",
+        "category": "secondary",
+        "polyline": [
+          [
+            1250,
+            3210
+          ],
+          [
+            1300,
+            2460
+          ],
+          [
+            1450,
+            2190
+          ],
+          [
+            1660,
+            1550
+          ]
+        ]
+      },
+      {
+        "id": "RD-09",
+        "name": "Droga przelotowa przy południowej granicy arkusza",
+        "category": "through",
+        "polyline": [
+          [
+            0,
+            440
+          ],
+          [
+            6000,
+            440
+          ]
+        ]
+      }
+    ],
+    "rail": [
+      {
+        "id": "RL-01",
+        "name": "Główna linia kolejowa",
+        "polyline": [
+          [
+            0,
+            900
+          ],
+          [
+            6000,
+            900
+          ]
+        ]
+      },
+      {
+        "id": "RL-02",
+        "name": "Bocznica MZE",
+        "polyline": [
+          [
+            1490,
+            900
+          ],
+          [
+            1490,
+            1450
+          ],
+          [
+            1660,
+            1550
+          ]
+        ]
+      },
+      {
+        "id": "RL-03",
+        "name": "Bocznica wojskowa i magazynowa",
+        "polyline": [
+          [
+            4530,
+            900
+          ],
+          [
+            4530,
+            1320
+          ],
+          [
+            4550,
+            1410
+          ]
+        ]
+      }
+    ],
+    "crossings": [
+      {
+        "id": "BR-01",
+        "name": "Most A",
+        "x": 2780,
+        "y": 2170,
+        "category": "road",
+        "status": "zaakceptowany układ"
+      },
+      {
+        "id": "BR-02",
+        "name": "Most B",
+        "x": 4300,
+        "y": 2160,
+        "category": "road",
+        "status": "zaakceptowany układ"
+      },
+      {
+        "id": "BR-03",
+        "name": "Kładka piesza",
+        "x": 3480,
+        "y": 2115,
+        "category": "footbridge",
+        "status": "opcjonalne"
+      }
+    ]
+  },
+  "gameplay_scope": {
+    "urban_frame_sq_km": 24,
+    "suggested_core_playable_bbox_m": [
+      1100,
+      1000,
+      4850,
+      3300
+    ],
+    "warning": "Obszar rdzenia to jedynie pułap planistyczny, nie zobowiązanie do wykonania wszystkich wnętrz i ulic.",
+    "state_variants": [
+      "13_X_wieczor",
+      "13_14_X_noc",
+      "14_X_ranek",
+      "14_X_wieczor"
+    ]
+  },
+  "approximation_notes": [
+    "To fikcyjny układ w lokalnym układzie metrycznym, nie prawdziwa mapa Legnicy.",
+    "Odległości mierzone w linii prostej, a nie po dostępnych ulicach.",
+    "Drogi są liniami osi, bez szerokości i skrzyżowań gotowych do użycia w silniku.",
+    "Dalsza praca: walidacja topologii, skrzyżowań, spadków i rozwiązań dla pieszych."
+  ]
+}

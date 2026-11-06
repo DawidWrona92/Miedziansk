@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.5  
+**Wersja:** 0.6  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -16,7 +16,7 @@
 | Nr | Status | Temat | Rezultat | Kryterium zakończenia |
 |---|---|---|---|---|
 | 01 | **ZATWIERDZONY ZARYS** | **Historia Miedziańska: geneza przed 1930 i lata 1930–1992** | Dawne wydobycie miedzi i pochodzenie nazwy, przemysł, garnizon, szpital, rok 1992, małe muzeum | Oś czasu bez sprzeczności, co najmniej 8 lokacji wynikających z historii, decyzja o profilu gospodarczym i muzeum |
-| 02 | **W TOKU — założenia zatwierdzone, układ szczegółowy do akceptacji** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
+| 02 | **W TOKU — układ logiczny zatwierdzony; mapa metryczna do akceptacji** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | DO ZROBIENIA | Garnizon i szpital | Dowództwo rosyjskie, Polska komisja, hierarchia, jawna funkcja szpitala, kolejne rozbudowy | Wiadomo kto, co i kiedy kontroluje, skąd zna informacje, jakie ma możliwości |
 | 04 | DO ZROBIENIA | Tajny program i epidemia | Pochodzenie, incydent pierwotny, reguły zakażenia, skala i tempo | Zakażenia i reakcja służb spójne z 36 h, brak magicznych wygodnych wyjątków |
 | 05 | DO ZROBIENIA | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
@@ -32,8 +32,8 @@
 
 ## Dalszy tok prac
 
-1. **Teraz:** domknąć etap 02 — zatwierdzić szkic przestrzenny w `07-GEOGRAFIA-I-UKLAD-MIASTA.md`, ewentualnie poprawić orientację, skalę i mosty.
-2. **Następnie:** narysować prostą mapę z realnymi relacjami: rynek–dworzec–fabryka–Kwadrat–szpital–drogi wylotowe.
+1. **Teraz:** przegląd metrycznej mapy w `08-MAPA-MIASTA-W-SKALI.md` oraz `docs/maps/MIEDZIANSK_1992_PLAN_ROBOCZY.svg`. Układ logiczny został zatwierdzony; skala, granice obszarów i koordynaty są propozycją.
+2. **Następnie:** po ocenie metrycznej mapy doprecyzować układ ulic, mosty, wejścia i zasięg faktycznej grywalności. Dopiero potem oznaczyć etap 02 jako ukończony.
 3. **Potem:** dopiero precyzować instytucję rosyjską i podziemny program. Historia i geografia muszą uzasadniać ich położenie.
 4. **W dalszej kolejności:** projektować przeszłość i motywacje bohaterów na tle tej historii, a nie niezależnie od niej.
 

@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.5  
+**Wersja:** 0.6  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -25,7 +25,7 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 - **[KANON]** Główne obszary: Stare Miasto, osiedla, dzielnica przemysłowa/robotnicza, rosyjski kwartał, dworzec i bocznice, wspólny szpital miejski z podziemiami.
 - **[KANON]** Jest to zasadniczo **jeden szpital dla całego miasta**, z cywilną polską częścią i odseparowanym rosyjskim skrzydłem wojskowym, do którego dostęp jest kontrolowany dokumentami. Powstał jeszcze w okresie niemieckim, pierwotnie miał mały schron, który później Rosjanie rozbudowali w podziemny kompleks. **Szpital znajduje się blisko śródmieścia i zakładów przemysłowych, nie na dalekich obrzeżach**. Powiązania administracyjne i techniczne tej nietypowej placówki są fikcyjne i będą wyjaśnione w etapie 03.
 - **[KANON]** Dzielnica rosyjska ma własne budynki sztabu, koszary, mieszkania, domy oficerów, małą szkołę, sklepy i stołówki. Sztab mieści się w dawnym poniemieckim garnizonie, powstałym przez adaptację wcześniejszej szkoły; charakter jednostki i dokładna historia adaptacji do opracowania w etapie 03.
-- **[KANON]** Miasto posiada duży dworzec, bocznice kolejowe i dobre połączenie drogowe z trasą przebiegającą w pobliżu. Liczba mostów, kierunki ulic, układ kordonu oraz punkty dostępu do dzielnic pozostają propozycjami etapu 02.
+- **[KANON]** Miasto posiada duży dworzec, bocznice kolejowe i dobre połączenie drogowe z trasą przebiegającą w pobliżu. Zatwierdzono **układ logiczny** z rzeką zachód–wschód, dwoma głównymi mostami, miastem rozciągniętym na oba brzegi, przemysłowym południowym zachodem, wschodnim szpitalem, północno-wschodnim Kwadratem i dworcem na południu; dokładne współrzędne, droga przelotowa i fizyczna skala są projektem w `08-MAPA-MIASTA-W-SKALI.md`.
 - **13 października 1992 r. późnym popołudniem:** początek gry. **Noc 13/14 października:** pierwszy śnieg w fikcyjnym Miedziańsku, okres spotkania bohaterów. **14 października:** mroźny ranek ze śniegiem.
 - Cała opowieść ma objąć **nie więcej niż dwa dni** — proponowany okres od późnego popołudnia 13 października do wczesnego ranka 15 października (~36 godzin).
 - Ośrodek pod szpitalem prowadził tajny **program biologiczny**; geneza zakażenia i szczegółowe właściwości patogenu nie są jeszcze ustalone.
@@ -98,3 +98,7 @@ Dotychczasowy kierunek świata i historii, muzeum, rama fabuły, dwaj bohaterowi
 ## 10. Zatwierdzone zmiany urbanistyczne (6.11.2026)
 
 Rzeka przez historyczne centrum, stara kopalnia pod dzisiejszym przemysłem, wysoka skala zniszczeń wojennych i powojenne mieszane pierzeje, rozbudowany dworzec oraz dojazd do trasy, dawny budynek szkolny przejęty na garnizon, komplet rosyjskiej dzielnicy, wspólny miejski szpital z zamkniętym rosyjskim skrzydłem **w centrum lub niedalekim śródmieściu przy przemysłowym pasie** są nowymi elementami kanonicznymi. Wcześniejszy szpital na leśnym wzgórzu poza miastem został jawnie zastąpiony. Warianty szczegółowego przebiegu dróg, mostów i dzielnic są jeszcze do oceny.
+
+## 11. Akceptacja układu logicznego Miedziańska (6.11.2026)
+
+Układ przedstawiony w `07-GEOGRAFIA-I-UKLAD-MIASTA.md` został zaakceptowany przez użytkownika. W etapie 02 pozostaje zatwierdzenie **metrycznego projektu** (`08-MAPA-MIASTA-W-SKALI.md` i mapa SVG). Nazwa rzeki, geometria ulic, szczegółowe granice dzielnic oraz współrzędne nie stanowią na razie kanonu.

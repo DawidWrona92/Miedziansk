@@ -1,6 +1,6 @@
 # Miedziańsk — geografia i struktura miasta (etap 02)
 
-**Status:** W TOKU. **Uzgodniony kanon** wyraźnie oznaczono poniżej; szczegółowa orientacja dzielnic, ich wzajemne odległości, liczba przepraw i sposób dostępu pozostają **propozycją do akceptacji**.
+**Status:** UKŁAD LOGICZNY ZATWIERDZONY (6.11.2026). Przyjęto kierunek rzeki zachód–wschód, położenie obszarów i dwa główne mosty, ale dokładne wymiary, geometrię dróg i granice dzielnic nadal projektujemy; patrz `08-MAPA-MIASTA-W-SKALI.md`.
 
 **Data pracy:** 6 listopada 2026. **Okres świata:** październik 1992. Nazwa przedwojenna: **Kupfertal**.
 
@@ -16,7 +16,7 @@
 
 ## 2. Topografia — robocza propozycja
 
-**[PROPOZYCJA]** Wzniesienia na północy i południu, dolina biegnąca z **zachodu na wschód**. Niewielka rzeka miejska, roboczo **Miedzica** (nazwa niezatwierdzona), przepływa przez Starówkę i stanowi naturalny ciąg spacerowy, a miejscami utrudnia ruch pojazdów. Nie musi być szeroka jak Odra: wymaga wystarczających skarp i koryta, by mosty były ważnymi węzłami.
+**[KANON UKŁADU LOGICZNEGO]** Wzniesienia na północy i południu, dolina biegnąca z **zachodu na wschód**. Niewielka rzeka miejska, roboczo **Miedzica** (nazwa niezatwierdzona), przepływa przez Starówkę i stanowi naturalny ciąg spacerowy, a miejscami utrudnia ruch pojazdów. Nie musi być szeroka jak Odra: wymaga wystarczających skarp i koryta, by mosty były ważnymi węzłami.
 
 - **Zachodnia część doliny:** dawne szyby, częściowo zalane wyrobiska pod współczesnymi magazynami i zakładami. Woda ze starych kopalń wynika z naturalnego napływu wód gruntowych; nie tworzymy bez badania nieprawdopodobnej podziemnej „rzeki” pod całym miastem.
 - **Oba brzegi w centrum:** Stare Miasto historycznie obejmuje **oba brzegi rzeki**. Rynek i część kamienic leżą na północnym brzegu, zaś na południowym ciągną się stare ulice rzemieślnicze, zabudowa nadrzeczna i historyczny trakt do dworca. Dopiero dalej na południe leży powojenny pas przemysłowo-kolejowy.
@@ -24,9 +24,9 @@
 - **Południowa część doliny:** za południowym fragmentem Starego Miasta znajdują się oś kolejowa, duży dworzec, zakłady przemysłowe i osiedle robotnicze.
 - **Wschodnia, śródmiejska część południowego brzegu:** duży szpital przy głównej drodze oraz stosunkowo blisko przemysłu i jednego z mostów. Przed szpitalem ruch uliczny; odrębny wjazd techniczny rosyjskiego skrzydła od strony podwórza.
 
-Nazwa rzeki, przepływ i dokładny przebieg granic dzielnic to **szkic**, nie zatwierdzone nazewnictwo.
+Kierunek przepływu rzeki i położenie głównych dzielnic zostały zaakceptowane. **Nazwa rzeki, precyzyjne granice i szerokości ulic są nadal do opracowania**.
 
-## 3. Schemat przestrzenny (nie w skali)
+## 3. Schemat przestrzenny (układ logiczny zaakceptowany, sam schemat nie w skali)
 
 ```text
                       PÓŁNOC / WZNIESIENIA
@@ -70,7 +70,7 @@ ZACHÓD --------- ~~~~ RZEKA PRZEZ STARÓWKĘ ~~~~ -------- WSCHÓD
 
 ZON-* to identyfikatory tego dokumentu; istniejące LOC-* w historii mają charakter opisowy, do późniejszego scalenia, aby nie utrzymywać dwóch niezsynchronizowanych rejestrów.
 
-## 5. Mosty, trasy i węzły (wszystko [PROPOZYCJA])
+## 5. Mosty, trasy i węzły (układ z dwoma mostami zaakceptowany, szczegóły techniczne [PROPOZYCJA])
 
 - **Most A — historyczny:** łączy Stare Miasto z rejonem dworca i przemysłu; piesi, auta, lokalny transport. Może być zamykany na etapie paniki.
 - **Most B — przemysłowy:** łączy rosyjskie i wschodnie dzielnice z szpitalem, zakładami i drogą wylotową; umożliwia przejazd ciężarówek. To logiczny transport między sztabem, szpitalem i bocznicą.
@@ -122,16 +122,16 @@ Inspiracje historyczne: [H14] przebudowa centrum Legnicy, [H15] rzeczywiste *Fes
 5. **Festung a ocalały szpital:** potrzebna konsekwentna mapa zniszczeń z 1945 r. — całe centrum może być zrujnowane, ale wybrane budynki pozostają możliwe do użytkowania.
 6. **Transport kolejowy:** dworzec musi posiadać wiarygodną organizację torów. Nie tworzyć kilku przypadkowych, niepołączonych bocznic.
 
-## 10. Lista zatwierdzeń potrzebna do ukończenia etapu 02
+## 10. Przegląd decyzji etapu 02
 
-- [ ] Kierunek rzeki i przybliżony zasięg doliny (propozycja: zachód–wschód).
-- [ ] Rozmieszczenie dzielnic po północnej i południowej stronie rzeki.
-- [ ] Dwie przeprawy drogowe + ewentualna kładka, bez sztucznego zamykania mapy.
-- [ ] Pozycja dużego dworca i połączeń z fabryką oraz magazynami wojskowymi.
-- [ ] Położenie centralnego szpitala z obu stron dostępu; przynajmniej dwie logiczne drogi do szpitala.
-- [ ] Skala dostępnej mapy gry versus całego miasta; wytyczne do pierwszego whiteboxa.
+- [x] Kierunek rzeki i przybliżony zasięg doliny (propozycja: zachód–wschód).
+- [x] Rozmieszczenie dzielnic po północnej i południowej stronie rzeki.
+- [x] Dwie przeprawy drogowe + ewentualna kładka, bez sztucznego zamykania mapy.
+- [x] Pozycja dużego dworca i połączeń z fabryką oraz magazynami wojskowymi.
+- [x] Położenie centralnego szpitala z obu stron dostępu; przynajmniej dwie logiczne drogi do szpitala.
+- [ ] Skala całego miasta, faktycznie grywalnego zakresu oraz odległości — propozycja w `08-MAPA-MIASTA-W-SKALI.md`.
 
-Po akceptacji tych parametrów: przejść do etapu 03 (garnizon, szpital i odpowiedzialność za ich funkcjonowanie).
+Układ logiczny zaakceptowany; po dopracowaniu mapy metrycznej i zasięgu dostępnej rozgrywki przejść do etapu 03 (garnizon, szpital i podział odpowiedzialności).
 
 ## Źródła
 

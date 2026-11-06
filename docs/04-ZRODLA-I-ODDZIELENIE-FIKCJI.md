@@ -68,3 +68,6 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
 **Ważne:** „Kupfertal” jest ostateczną niemiecką nazwą fikcyjnego Miedziańska w kanonie gry. Nie jest to twierdzenie o historycznej nazwie żadnego rzeczywistego miasta.
 
 **Uzupełnienie fikcji (6.11.2026):** *Festung Kupfertal* (fikcyjna decyzja dowództwa niemieckiego z zimy 1944/45) jest inspirowana prawdziwym *Festung Glogau* [H15]; nie twierdzimy, że Legnica była analogiczną twierdzą. Szpital polsko-rosyjski z jedną wspólną bryłą i pilnowanym skrzydłem to rozwiązanie **fabularne**, nie potwierdzony historycznie model funkcjonowania szpitala w Legnicy [H16, H17].
+
+- **[H18] Fotopolska — Legnica, historia Dworca Głównego.** Przedwojenny węzeł kolejowy, modernistyczny dworzec z lat 1927–1929, hala peronowa i dojścia tunelowe jako analogia projektowa (nie rekonstrukcja Miedziańska).
+  https://fotopolska.eu/Legnica/b15819%2CDworzec_kolejowy_.html
