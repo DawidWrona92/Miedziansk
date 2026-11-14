@@ -1,7 +1,7 @@
 # Fundamenty i stan ustaleń
 
 **Wersja:** 0.18  
-**Zakres:** stan projektu po rozmowach do 6 listopada 2026.
+**Zakres:** stan projektu po rozmowach do 14 listopada 2026.
 
 ## 1. Pitch
 

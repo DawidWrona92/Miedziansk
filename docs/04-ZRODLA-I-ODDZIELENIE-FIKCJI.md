@@ -1,6 +1,6 @@
 # Źródła historyczne i granice fikcji
 
-**Stan źródeł:** 6 listopada 2026. Zapisano wyłącznie wybrane zweryfikowane analogie; poniższa lista nie oznacza, że wszystkie wymyślone wydarzenia mają odpowiedniki historyczne.
+**Stan źródeł:** 14 listopada 2026. Zapisano wyłącznie wybrane zweryfikowane analogie; poniższa lista nie oznacza, że wszystkie wymyślone wydarzenia mają odpowiedniki historyczne.
 
 ## Źródła
 
