@@ -1,6 +1,6 @@
 # Plan projektowania — Miedziańsk
 
-**Wersja:** 0.17  
+**Wersja:** 0.18  
 **Cel:** od fabularnego pomysłu do spójnego, możliwego do zbudowania GDD oraz grywalnego fragmentu.
 
 ## Zasady pracy
@@ -19,9 +19,9 @@
 | 02 | **ZATWIERDZONY — 6.11.2026** | Geografia i struktura miasta | `07-GEOGRAFIA-I-UKLAD-MIASTA.md`: dolina, rzeka przez Starówkę, przemysł/kopalnie, dworzec, rosyjski Kwadrat, szpital w śródmieściu, mosty i dojazdy | Wybrać kierunki, przeprawy, skalę, połączenia i miejsca kordonu; uwzględnić relacje dzielnic bez sztucznego tunelowania |
 | 03 | **ZATWIERDZONY — 6.11.2026** | Garnizon i szpital (bez tajnego laboratorium) | `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`: rosyjskie zaplecze PGW, Kwadrat, polski zespół kontrolny, ZOZ i dwa skrzydła szpitala | Uzgodnić kompetencje, transporty, podział szpitala, rozmiary i oficjalną funkcję garnizonu |
 | 04 | **ZATWIERDZONY KIERUNEK — PARAMETRY SZCZEGÓŁOWE DO ROZWINIĘCIA** | Tajny program i epidemia | `10-RUBIEZ-TAJNY-PROGRAM-I-KATASTROFA.md`: historyczne tło, fikcyjny ośrodek, cele i kryzys; zasady zakażenia nadal robocze | Kryptonim **Rubież** zatwierdzony; model **jednego wcześniejszego incydentu, zatajenia i dwóch etapów ujawnienia** wniesiony przez autora. Pozostało rozstrzygnąć zasady fikcyjnej choroby, reakcję służb i szczegóły scen |
-| 05 | **W TOKU — ANNA ZATWIERDZONA, KARTA OFICERA DO OCENY** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
+| 05 | **CZĘŚCIOWO ZATWIERDZONY — PERSONALIA OBU GOTOWE, PSYCHOLOGIA OTWARTA** | Pełne karty bohaterów | Imiona, motywacje, przeszłość, konflikt, relacja z dwiema osobami poszukiwanymi | Postacie wiarygodne dla wieku i realiów 1981/1992; obie mają podmiotowość |
 | 06 | DO ZROBIENIA | Postacie drugoplanowe i frakcje | Władze polskie, jednostki rosyjskie, policja, szpital, mieszkańcy, cywile | Każda ważna frakcja ma cel, wiedzę, zasoby i zmieniające się decyzje |
-| 07 | DO ZROBIENIA | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
+| 07 | **W TOKU — ZATWIERDZONE OTWARCIA OBU KAMPANII** | Pełna struktura fabuły | Sceny, odkrycia, zwroty, akty, zakończenia | Gracz zna stawkę i cel bez czytania wszystkiego; zegar fabuły nie pęka |
 | 08 | DO ZROBIENIA | Mechanika dwóch postaci | Walka, improwizacja, strach, ekwipunek, zagadki i śledztwo | Każdy archetyp ma unikalne skuteczne strategie, bez dominującej postaci |
 | 09 | DO ZROBIENIA | Zakażeni i spotkania | Archetypy wrogów, behawior, telegraphy, zasady starć | Każde spotkanie testuje coś innego; ucieczka jest uczciwą opcją |
 | 10 | DO ZROBIENIA | Żywe i zmienne dzielnice | Stany przestrzeni, migracja NPC, barykady, kolizje, nawigacja, wydarzenia | Ta sama lokacja przechodzi trzy czytelne stany bez soft-locków |
@@ -32,7 +32,7 @@
 
 ## Dalszy tok prac
 
-1. **Teraz:** po zatwierdzeniu części III na poziomie szkieletu przejść do **szczegółowych kart postaci (etap 05)** lub rozpisania kluczowych scen prologu w ramach etapu 07. Wariant B przyjaciela jest już kanonem.
+1. **Teraz:** personalia Anny i Piotra oraz szkielety dwóch otwarć gry są zatwierdzone; w **etapie 07** zaprojektować logiczny łącznik od dojścia Anny pod szpital i wyjścia Piotra z –2 do **spotkania podczas pierwszego śniegu**, następnie pierwszy wspólny cel i dynamikę współpracy.
 2. **Następnie:** zaprojektować powody zniknięcia przyjaciela, jego próbę przekazania dokumentów i radiowe ślady, wyjaśnić finałowy ratunek z pomocą kontaktów / wpływów. Pracę prowadzić jako szczegóły fabuły, nie ponowne otwieranie zaakceptowanego wariantu B.
 3. **Potem:** przetestować spójność reguł zakażonych i eskalacji konfliktu na tle ustalonej historii, geografii i służb. Nie traktować roboczej biologii jako realnej nauki.
 4. **W dalszej kolejności:** projektować przeszłość i motywacje bohaterów na tle tej historii, a nie niezależnie od niej.
@@ -99,3 +99,9 @@ Zatwierdzone przez autora: **Leszek** jako imię przyjaciela; wz. 89 „Puma” 
 ### Korekta prologu v0.17 — przyjaciel od dawna, zamknięta klatka, karabinek
 
 **[KANON]** Leszek i polski oficer od początku gry są wieloletnimi przyjaciółmi — żadnego poznawania się w szpitalu. Oficer podczas inspekcji –2 ma obowiązek katalogować skrzynie z numerami wojskowymi **niepasującymi do manifestu**, ale nie ma dostępu do strzeżonej klatki. **AK-74** pochodzi od poległego Rosjanina; polskie karabinki epoki: **AKM/AKMS oraz wz. 88 Tantal**. **[OTWARTE]** Utrata karabinka w prologu jest widoczna i logiczna: kończy się amunicja albo poważnie uszkadza się mechanizm podczas awarii parowej. Nie wybrać jednego wariantu bez kolejnej decyzji autora.
+
+### V0.18 — zatwierdzenie dwóch kart bazowych i otwarcia Anny (14.11.2026)
+
+**ZAMKNIĘTE NA POZIOMIE PODSTAWOWYM:** Piotr Bielecki — **kapitan, 35 lat, urodzony w 1957 r. w Krakowie**, 6 Brygada Desantowo-Szturmowa, służba od około 1980 r., przyjechał 9–10 X na inspekcję przekazywania rosyjskich obiektów; Anna Wysocka — reporterka **„Słowa Polskiego”**, Wrocław, przyjazd **pociągiem późnym popołudniem 13 X**. Hotelowy informator — **kierowca karetki**, który widział wcześniejsze przypadki. Hotelowy atak pochodzi z wcześniejszego rozproszonego zakażenia. Otwarcie Anny: **hotel → świadek → atak → znany skrót → dedukcja z dat → podejście do szpitala**, jedna główna dedukcja, jedna zagadka przestrzenna oraz tropy opcjonalne. Docelowa długość około **80–90 min**, do playtestów. Zagadkę i rytm opisano w `16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`.
+
+**NADAL W TOKU:** pełny scenariusz i level design obu prologów, personalia NPC i przyjaciółki, szczegóły mechaniki aparatu i notesu, uzasadnienie ewentualnych trudności na drodze do szpitala, rozwiązanie spotkania Piotra z Anną oraz **głęboka psychologia postaci** — zgodnie z decyzją autora zostaje rozwijana dopiero przy wspólnych scenach. Nie wracać do dyskusji o zatwierdzonych ośmiu decyzjach bez nowej uwagi autora.

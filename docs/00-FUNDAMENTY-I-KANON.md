@@ -1,6 +1,6 @@
 # Fundamenty i stan ustaleń
 
-**Wersja:** 0.17  
+**Wersja:** 0.18  
 **Zakres:** stan projektu po rozmowach do 6 listopada 2026.
 
 ## 1. Pitch
@@ -39,17 +39,18 @@ Jesienią 1992 roku polski oficer nadzorujący wycofywanie wojsk rosyjskich i dz
 ### Dziennikarka
 - **[KANON] Imię i nazwisko: Anna Wysocka.**
 - Polska dziennikarka **pochodząca z Miedziańska, obecnie mieszkająca we Wrocławiu** [KANON]; entuzjastycznie nastawiona do przemian demokratycznych; prowadzi śledztwo dotyczące szpitala i **zaginięcia bliskiej przyjaciółki** związanej ze szpitalem i tropami laboratorium.
-- Rozpoczyna w mieście, prawdopodobnie w hotelowym barze, gdzie zdobywa informacje.
+- **[KANON]** Pracuje w **„Słowie Polskim” we Wrocławiu** przy tematach lokalnych i społecznych; 13 października 1992 przyjeżdża do Miedziańska **pociągiem późnym popołudniem**. Około 19:00 spotyka w hotelowym barze na Starym Mieście **kierowcę karetki**, świadka wcześniejszych przypadków. Spotkanie przerywa atak zakażonego z wcześniejszego rozproszonego łańcucha zakażeń; kieruje się następnie w stronę szpitala.
 - **KANON:** przed spotkaniem z oficerem nie ma broni palnej; nie jest wyszkoloną strzelczynią. Jej wyróżniki to **zagadki detektywistyczne, analogowy aparat, notes i rozpoznawanie ukrytych przejść w rodzinnym Miedziańsku**. Konkretne umiejętności walki, użycie broni po spotkaniu i mechaniki zagadek są jeszcze otwarte.
 - Zna lokalnych mieszkańców i przestrzeń miejską.
-- **Otwarte:** imię, wiek, związki z opozycją, powód umiejętności walki wręcz, zawodowe źródła.
+- **Otwarte:** dokładny wiek Anny, szczegóły biografii i psychologii, związki z opozycją, przeszłość przyjaciółki, personalia hotelowego informatora oraz sposób prowadzenia szczegółowych dialogów i zagadek. Imię, nazwisko i redakcja Anny zostały zatwierdzone.
 
 ### Oficer
+- **[KANON] Kapitan Piotr Bielecki, 35 lat w październiku 1992 r.; urodzony w 1957 r. w Krakowie (urodziny do 13 X).** Zawodowy oficer **6 Brygady Desantowo-Szturmowej**, rozpoczął służbę zawodową około 1980 r., a do Miedziańska przyjechał **9–10 X** w polskim zespole kontrolno-zabezpieczającym.
 - Polski oficer wojsk powietrznodesantowych **pochodzący z Krakowa, od kilku dni przebywający w Miedziańsku** jako przedstawiciel Wojska Polskiego przy wycofywaniu rosyjskich wojsk [KANON]. Szkolony w realiach końca PRL. Nie jest automatycznie przeciwnikiem wolnej Polski; ma odmienną od dziennikarki wizję porządku i obowiązku.
 - Ma nadzorować/opiniować wycofywanie rosyjskiego personelu i wyposażenia. Nie zna prawdziwej funkcji laboratorium.
 - Rozpoczyna prolog z przyjacielem podczas inspekcji, **w radzieckim zapleczu na poziomie –2**, gdzie na skutek wcześniej istniejącego kryzysu dochodzi do utraty kontroli. Bohater zostaje ranny/traci przytomność; **ratuje go przyjaciel**, który **znika po prologu**. **[KANON] Przyjaciel przeżywa, lecz oficer sądzi, że umarł; w finale przyjaciel wraca i ratuje oboje bohaterów.** Szczegóły ucieczki i kordonu otwarte.
 - **[KANON]** Przeszkolony w **każdej broni palnej występującej w grze**; silniejszy i wytrzymalszy od Anny, może biec szybciej i dłużej. Mundur **wz. 89 Puma** i **bechatka w Pumie**. Bez nieludzkich parametrów; szczegóły balansu do etapu 08.
-- **Otwarte:** imię i nazwisko oficera („Piotr Bielecki” tylko propozycja), stopień (kapitan — propozycja), historia służby i wydarzenia z lat 80.; przynależność do 6 Brygady Desantowo-Szturmowej jest sugestią. **[KANON] Przyjaciel nazywa się Leszek, przeżywa i wraca w finale**; jego nazwisko i historia pozostają otwarte.
+- **Otwarte:** szczegóły kariery służbowej Piotra i wydarzeń z lat 80., psychologia, rodzina, formalny zakres uprawnień podczas inspekcji i nazwisko Leszka. **[KANON] Leszek przeżywa i wraca w finale.** Tożsamość Piotra, stopień i jednostka macierzysta są zatwierdzone.
 
 ### Relacja
 - Początek: nieufność i uprzedzenia. Potem wymuszona współpraca, otwarty konflikt moralny oraz ewentualny wzajemny szacunek.
@@ -162,3 +163,11 @@ Autor wyraźnie zatwierdził: pojawienie się Polaków w połowie już rozwijaj�
 **[KANON]** Na poziomie –2 oficer widzi skrzynie oznaczone wojskowymi numerami, ale **niezgodne z katalogowanym spisem**. Skrzynie przenoszone są z pomieszczeń przy **zamkniętej klatce schodowej**, której pilnuje wartownik i do której polska strona nie ma prawa wejść. Napięcie bierze się z konfliktu obowiązku katalogowania z ograniczonym dostępem, nie z bezpośredniego ujawnienia „Rubieży”.
 
 **[KANON TŁA]** AKM/AKMS i wz. 88 Tantal to poprawne przykłady broni polskiej w 1992 r.; karabinek AK-74 znaleziony podczas prologu należy do rosyjskiego żołnierza. **[DWA OTWARTE WARIANTY]** Brak AK-74 po przebudzeniu wynika z zużycia całej zdobytej amunicji lub jego poważnego mechanicznego uszkodzenia w awarii węzła parowego, a nie automatycznego usunięcia z ekwipunku. Konkretną wersję wybierzemy na etapie scenariusza.
+
+## 23. Decyzje z 14.11.2026 — Piotr Bielecki i otwarcie kampanii Anny [KANON]
+
+Autor zatwierdził **wszystkie osiem decyzji przedstawionych do akceptacji**: (1) **Piotr Bielecki, 35 lat, kapitan**, urodzony w 1957 r. w Krakowie; (2) **6 Brygada Desantowo-Szturmowa**, oddelegowanie do zabezpieczenia i kontroli przekazywania rosyjskich obiektów, służba od około 1980 r., przyjazd do Miedziańska **9–10 X**; (3) **Anna Wysocka**, reporterka spraw lokalnych i społecznych w redakcji **„Słowa Polskiego” we Wrocławiu**; (4) przyjazd Anny **pociągiem późnym popołudniem 13 X**; (5) hotelowy informator to **kierowca karetki**, świadek interwencji z 10–12 X; (6) hotelowy atak pochodzi z **wcześniejszej rozproszonej fali zakażeń**, niezależnej od masowej fali około 200 osób z całego szpitala; (7) w pierwszym odcinku Anny **jedna główna dedukcja, jedna zagadka przestrzenna, opcjonalne tropy**, notes i aparat; (8) Anna zmierza do **Szpitala Miejskiego**, gdzie urywa się ślad przyjaciółki.
+
+**[KANON ZARYSU]** Otwarcie Anny „Ostatni spokojny wieczór”: hotel/bar, informator, atak gościa, przejście znanym skrótem, zagadka o rozbieżnych datach pierwszych zakażeń, droga do szpitala. **[PROPOZYCJA OPERACYJNA]** Około **80–90 minut** gry, w czasie fabularnym mniej więcej **19:00–21:00**; dokładne tempo do playtestu. **[KANON ZAGADKI]** Dowody: wcześniejsza notatka przyjaciółki, świadectwo kierowcy o 11 X, publiczny komunikat wskazujący dopiero 13 X; wniosek: zdarzenia są wcześniejsze, niż oficjalnie przyznano. Nie można na tym etapie dedukować pełnej biologii „Rubieży” ani automatycznie świadomego fałszerstwa. Szczegóły: `16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`.
+
+**Zachowane ograniczenia:** brak broni u Anny przed spotkaniem z Piotrem; Leszek jest wieloletnim przyjacielem Piotra i wraca w finale; podziemia –3 na późny etap; spotkanie protagonistów dopiero nocą 13/14 X podczas pierwszego śniegu. **[NADAL OTWARTE]** rodzinne i głębokie psychologiczne profile, imię informatora, tożsamość przyjaciółki, rozwiązanie sceny wspólnego spotkania, typ pistoletu Piotra (P-83 pozostaje propozycją), los AK-74 (wyczerpanie amunicji lub uszkodzenie) i pełna inscenizacja.

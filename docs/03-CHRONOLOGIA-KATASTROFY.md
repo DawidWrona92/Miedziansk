@@ -6,9 +6,9 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 
 | Czas | Oficer / laboratorium | Dziennikarka / miasto | Stan przestrzeni |
 |---|---|---|---|
-| **13.10 ok. 17:00** | Po wcześniejszym spokojnym rozpoczęciu inspekcji szpitala, rosyjskiego skrzydła, –1 i –2, oficer wraz z **Leszkiem** trafiają na załamanie kontroli. Dochodzi do ataków, czasowego użycia **AK-74** i awarii węzła parowego. Leszek ratuje oficera i znika; **przeżywa i wróci w finale**, choć oficer tego nie wie. **–3** pozostaje na późną część gry | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
-| **13.10 19:00** | Nieprzytomny albo ukryty w części schronu | Rozmowa w hotelowym barze; pierwsza gwałtowna scena | Pierwsze syreny; mieszkańcy nadal nie rozumieją zagrożenia |
-| **13.10 21:00** | Odzyskuje przytomność; próbuje wydostać się z kompleksu | Próbuje zdobyć informacje i bezpieczną drogę przez centrum | Lokalna policja i pogotowie działają, pojedyncze blokady |
+| **13.10 ok. 17:00** | **Kapitan Piotr Bielecki** po wcześniejszym spokojnym rozpoczęciu inspekcji szpitala, rosyjskiego skrzydła, –1 i –2 wraz z **Leszkiem** trafia na załamanie kontroli. Dochodzi do ataków, czasowego użycia **AK-74** i awarii węzła parowego. Leszek ratuje oficera i znika; **przeżywa i wróci w finale**, choć oficer tego nie wie. **–3** pozostaje na późną część gry | Przygotowuje hotelowe spotkanie | Miasto żywe, ruszają zmiany w fabryce, działają sklepy |
+| **13.10 ok. 19:00** | Nieprzytomny albo ukryty w części schronu | **Anna Wysocka**, reporterka „Słowa Polskiego”, po przyjeździe pociągiem późnym popołudniem spotyka w barze **kierowcę karetki**. Rozmowę przerywa atak jednego z **wcześniej zakażonych gości**, niezależny od głównej fali szpitalnej | Pierwsze syreny; mieszkańcy nadal nie rozumieją zagrożenia |
+| **13.10 ok. 21:00** | Odzyskuje przytomność; próbuje wydostać się z kompleksu | Anna porównuje świadectwa i niezgodne daty wcześniejszych przypadków, korzysta z pamiętanego skrótu i **kieruje się do szpitala**; przejście między scenami i rzeczywiste minuty pozostają elastyczne | Lokalna policja i pogotowie działają, pojedyncze blokady |
 | **13.10 23:00** | Wciąż w kompleksie lub przy wyjściu | Widzi nasilające się działania służb | Strefa szpitala zamykana; pierwsze wojskowe punkty kontrolne; niepełny kordon |
 | **14.10 02:00** | Wydostaje się na powierzchnię | Dociera w okolice szpitala / wojskowej dzielnicy | **Początek śniegu; spotkanie bohaterów** [rama uzgodniona, godzina robocza] |
 | **14.10 04:00** | Współpraca wymuszona zagrożeniem | Pierwsza wspólna próba ucieczki | Kordon rozszerzony, drogi zamykane, sporadyczne starcia |
@@ -28,7 +28,7 @@ Cała historia trwa **około 36 godzin**. Tempo rozgrywki nie musi odpowiadać t
 ## Pułapki fabularne do rozwiązania
 
 - Skąd polskie dowództwo wie tak szybko, że ma izolować cały Miedziańsk? Potrzebny wiarygodny kanał ostrzegania albo etapowe reagowanie na zgłoszenia.
-- Dlaczego dziennikarka nie uciekła samochodem o 19:00? Potrzebuje konkretnej motywacji i fizycznych ograniczeń.
+- Dlaczego Anna nie wróciła od razu **pociągiem** lub innym środkiem transportu, skoro przyjechała koleją? **[KANON MOTYWACJI]** Przyjaciółka zaginęła, ślad prowadzi do szpitala, a informator i sprzeczne dokumenty potwierdzają, że sprawa jest poważna. Dokładne utrudnienia w transporcie i skala ryzyka pozostają do dopracowania; nie używać sztucznej „niewidzialnej ściany”.
 - Dlaczego rosyjski dowódca nie ewakuuje wszystkiego przed 17:00? Tajny, nielegalny albo politycznie trudny ładunek i spóźnione przygotowania.
 - Dlaczego większość miasta nadal żyje rankiem? Infekcja rozwija się ogniskowo, służby i cywile miejscami skutecznie się bronią.
 - Dlaczego żołnierz nie może po prostu ujawnić stopnia i wyjechać przez kordon? Możliwy status „zakażony/niezidentyfikowany”, brak łączności, sprzeczne komendy — **propozycje, nie rozwiązanie kanoniczne**.
@@ -59,3 +59,7 @@ Wcześniejszy wpis **„warianty otwarte: przyjaciel ginie / przeżywa”** zost
 ### Uszczegółowiony prolog oficera (v0.16)
 
 **[KANON]** Przed załamaniem sytuacji gracz wchodzi do miejskiego szpitala, ogląda rosyjski sektor, dokumenty, poziom –1 i katalogowane zaplecze –2. Rosyjska eskorta towarzyszy Polakom. Strzeżona klatka schodowa oraz skrzynie z niezgodnym spisem zapowiadają późne odkrycie poziomu –3. **[KANON]** Przyjaciel nazywa się **Leszek**. Po kryzysie i krótkim użyciu AK-74 znalezionego przy poległym rosyjskim wojskowym następuje awaria węzła parowego. Oficer po utracie przytomności budzi się zakrwawiony, z bólem głowy, z tylko pistoletem, dwoma magazynkami i latarką leżącą obok. Leszek jest zaginiony, przeżywa i wróci w finale. **[PROPOZYCJA]** Konkretne minuty, utrata karabinka i przyczyna awarii. Zob. `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`.
+
+### Zatwierdzony początek Anny — decyzje z 14 listopada 2026
+
+Anna Wysocka pracuje w **„Słowie Polskim”** we Wrocławiu i **13 X przyjeżdża pociągiem późnym popołudniem**. Około godziny 19:00 spotyka w hotelu **kierowcę karetki**, świadka interwencji z 10–12 X. Hotelowy atak to **wcześniejszy rozproszony przypadek zakażenia**, nie automatycznie jedna z około 200 osób opuszczających szpital po eskalacji. Po tym zdarzeniu Anna przechodzi **zapamiętanym skrótem**, bada notatkę przyjaciółki, relację medyka o **11 X** i komunikat szpitala wskazujący dopiero **13 X**, wyciąga wniosek o niezgodności dat i **kieruje się do szpitala**. Pierwszy odcinek Anny obejmuje **jedną główną dedukcję, jedną zagadkę przestrzenną i opcjonalne tropy**, bez broni palnej, około **80–90 minut rozgrywki (do testów)**. Szpital pozostaje czynny w warunkach narastającego kryzysu; całe miasto nie jest opustoszałe. Spotkanie z Piotrem nadal nocą **13/14 X podczas pierwszego śniegu**, bez konfliktu z ok. 21:00 jako roboczym zakończeniem początkowego rozdziału. Szczegóły: `16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`.

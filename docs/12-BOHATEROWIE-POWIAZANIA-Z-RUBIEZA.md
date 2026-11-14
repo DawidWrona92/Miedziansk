@@ -2,7 +2,7 @@
 
 **STATUS: ZATWIERDZONY SZKIELET CZĘŚCI III; szczegóły biografii, scen i techniki finału nadal otwarte. Wariant B przyjaciela jest KANONEM.**
 **Data projektu:** 6 listopada 2026 r.
-**Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i kolegi oficera, spotkanie oraz ślady pozostawione graczowi. **Anna Wysocka jest zatwierdzonym imieniem dziennikarki**; imię oficera, wiek i głęboka psychologia obu postaci, los przyjaciółki oraz szczegóły scen nadal pozostają otwarte.
+**Zakres:** motywacja i ścieżki dwojga grywalnych bohaterów, rola zaginionej przyjaciółki i Leszka, spotkanie oraz ślady pozostawione graczowi. **[KANON] Anna Wysocka i kapitan Piotr Bielecki (35 lat, 6 Brygada Desantowo-Szturmowa)**. Głęboka psychologia obu, los zaginionej przyjaciółki oraz szczegóły dialogów nadal pozostają otwarte.
 
 > Nie mylić z zatwierdzonymi założeniami świata: polski oficer wojsk powietrznodesantowych, dziennikarka, jej zaginiona przyjaciółka powiązana ze szpitalem, kolega oficera ratujący go po pierwszych atakach, spotkanie pary w nocy 13/14 października podczas pierwszego śniegu.
 
@@ -14,11 +14,11 @@
 
 ## 2. Dziennikarka — początek jej własnego dochodzenia [PROPOZYCJA]
 
-**[KANON] Anna Wysocka** pochodzi z Miedziańska, ale obecnie **mieszka we Wrocławiu**. **[PROPOZYCJA]** Pracuje jako dziennikarka regionalna, ma około 29 lat, zna miasto i mieszkańców, jest zdecydowanie przychylna przemianom demokratycznym. Dokładny wiek, redakcja i imię **nie są kanonem**.
+**[KANON] Anna Wysocka** pochodzi z Miedziańska, mieszka we Wrocławiu i pracuje jako **reporterka spraw lokalnych i społecznych „Słowa Polskiego”**. Zna miasto i mieszkańców; szczegółowe poglądy i jej **dokładny wiek pozostają otwarte**. Jest przychylna przemianom demokratycznym, ale widzi ich społeczne koszty.
 
 **Cel jawny:** odnaleźć bliską przyjaciółkę, z którą urwał się kontakt. Obok osobistej troski pojawia się podejrzenie, że szpital i rosyjski garnizon coś ukrywają. Nie zaczyna od wiedzy o programie biologicznym.
 
-**Punkt wyjścia [PROPOZYCJA]:** 13 października przyjeżdża do Miedziańska, a wieczorem w **hotelowym barze na Starym Mieście** ma spotkać osobę, która obiecuje wyjaśnienie ostatnich wydarzeń i dostarczenie informacji. Nie wiemy jeszcze, czy informator dotrze na spotkanie i kim jest.
+**Punkt wyjścia [KANON]:** 13 października **późnym popołudniem przyjeżdża pociągiem** do Miedziańska. Około 19:00 spotyka w **hotelowym barze na Starym Mieście** informatora — **kierowcę karetki**, świadka wcześniejszych nietypowych interwencji. Do rozmowy dochodzi, ale przerywa ją **atak zakażonego gościa z wcześniejszego, rozproszonego łańcucha zakażeń**. Anna później przechodzi znanym skrótem przez podwórka, rozwiązuje zagadkę sprzecznych dat i kieruje się do szpitala, szukając przyjaciółki. Dokładne dialogi i rozmiar dostępnego miasta pozostają do zaprojektowania.
 
 **Dlaczego nie ucieka natychmiast, gdy zaczyna się zamieszanie?** Może usłyszeć, że przyjaciółka nadal jest w szpitalu albo w pobliżu. Jej motywacja musi być osobista i wiarygodna, ale konkretna wiadomość, chwila jej otrzymania oraz zagrożenia blokujące odjazd są **otwarte**. Nie zmuszać jej sztucznym „niewidzialnym murem” do pozostania w mieście.
 
@@ -137,3 +137,9 @@ Zgodnie z ustalonym stylem gry **pełna prawda jest rozproszona** między miejsc
 ## 14. Leszek i scena rozdzielenia (6.11.2026)
 
 **[KANON]** Imię wojskowego przyjaciela oficera: **Leszek**. Towarzyszy oficerowi podczas spokojnej inspekcji szpitala i poziomów –1 i –2, katalogowania wyposażenia oraz podczas narastającego kryzysu. Po utracie kontroli i awarii węzła parowego ratuje przyjaciela, znika, ale przeżywa i wraca w finale. Oficer po przebudzeniu znajduje tylko pistolet, dwa magazynki i pobliską latarkę. **[OTWARTE]** Nazwisko Leszka, jego motywacja do odejścia, własna misja z dokumentami Rubieży i ślady dla gracza. Uzgodniony prolog szczegółowo opisano w `15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`. Imię oficera „Piotr Bielecki” wciąż pozostaje propozycją.
+
+## 15. Zatwierdzenie personaliów oficera i otwarcia Anny (14.11.2026)
+
+**[KANON] Kapitan Piotr Bielecki, 35 lat, ur. 1957 r. w Krakowie**, zawodowa służba od około **1980 r.**, 6 Brygada Desantowo-Szturmowa; do Miedziańska przyjechał około **9–10 X**, aby uczestniczyć w kontroli bezpieczeństwa i przekazywania rosyjskich obiektów. **[KANON] Anna Wysocka** pracuje we wrocławskim **„Słowie Polskim”**, 13 X przyjeżdża koleją późnym popołudniem, spotyka w hotelu informatora — **kierowcę karetki**, a wydarzenia wieczoru prowadzą ją przez atak jednego z **wcześniejszych zakażonych** oraz **główną dedukcję o datach**, **zagadkę skrótu** i opcjonalne dowody ku szpitalowi. **[ZATWIERDZONY SZKIELET]** Pierwsza godzina–półtorej gry Anny nie ma być shooterem: rozgrywka bazuje na notesie, obserwacji, aparacie analogowym i unikaniu zagrożeń. Szczegóły w `16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`.
+
+**[OTWARTE]** Personalna historia i psychologia Piotra i Anny (opracować razem), osoba zaginionej przyjaciółki, imię i życiorys kierowcy karetki, pełny przebieg spotkania Anny i Piotra podczas pierwszego śniegu, uzasadnienie postępowania i decyzji, efekty zakończenia. Ustawione wstępne czasy podlegają playtestom. Typ pistoletu Piotra (P-83) nadal propozycją.
