@@ -1,6 +1,6 @@
 # MIEDZIAŃSK — dokumentacja projektowa
 
-**Wersja:** 0.17 — 6 listopada 2026  
+**Wersja:** 0.18 — 6 listopada 2026  
 **Typ:** roboczy pakiet GDD / worldbuilding  
 **Projekt:** niezależny survival horror osadzony w fikcyjnym polskim mieście w październiku 1992 roku.
 
@@ -30,9 +30,11 @@
 
 16. [`docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`](docs/13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md) — dziennikarka: zagadki detektywistyczne, analogowy aparat, notes, ukryte ścieżki i brak broni przed spotkaniem z oficerem. Biografia nadal otwarta.
 
-17. [`docs/14-OFICER-POSTAC-I-GAMEPLAY.md`](docs/14-OFICER-POSTAC-I-GAMEPLAY.md) — projekt oficera z Krakowa: historyczna 6 Brygada Desantowo-Szturmowa, proponowany kapitan Piotr Bielecki, wojskowe kompetencje, sprzęt 1992 i prolog. Imię, stopień oraz biografia do zatwierdzenia.
+17. [`docs/14-OFICER-POSTAC-I-GAMEPLAY.md`](docs/14-OFICER-POSTAC-I-GAMEPLAY.md) — **zatwierdzony kapitan Piotr Bielecki, 35 lat**, 6 Brygada Desantowo-Szturmowa, wojskowe kompetencje i sprzęt z 1992 r.; psychologia nadal otwarta.
 
 18. [`docs/15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md`](docs/15-PROLOG-OFICERA-OSTATNI-ZALADUNEK.md) — uzgodniony przebieg prologu: Leszek, spokojna inspekcja szpitala i poziomów –1/–2, skrzynie z zakazanej klatki, AK-74, awaria parowa i przebudzenie. Dokładne sceny nadal projektowe.
+
+19. [`docs/16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`](docs/16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md) — **zatwierdzony szkielet pierwszych 80–90 minut Anny**, hotel z kierowcą karetki, wcześniejszy zakażony, miejskie skróty, zagadka dat i droga do szpitala; dialogi i whitebox jeszcze otwarte.
 
 ## Zasada prowadzenia dokumentacji
 
@@ -144,3 +146,12 @@ To **nowa gra**, niezależna od „Weleszy”. Dokumentacja znajduje się w dedy
 - **[KANON]** Skrzynie przy zamkniętej, strzeżonej klatce –2 mają typowe oznaczenia wojskowe i numery, ale **nie odpowiadają spisowi wyposażenia**, który oficjalnie weryfikuje polska inspekcja. Oficer ma obowiązek katalogowania, ale nie prawo wejścia w każdą strefę; nie odkrywa jeszcze –3.
 - **[KANON KIERUNKU]** AK-74 podczas prologu nadal pochodzi od poległego rosyjskiego żołnierza; **AKM/AKMS oraz wz. 88 Tantal to poprawne typy polskich karabinków w 1992 r.**
 - **[OTWARTE między wariantami autora]** AK-74 po prologu nie działa/nie nadaje się do dalszego użycia, ponieważ **wyczerpuje się amunicja** lub **awaria parowa niszczy jego mechanizm**. Odrzucono domyślny pomysł przypadkowego zgubienia karabinka bez jasnej przyczyny.
+
+## Zmiany w wersji 0.18 — 14 listopada 2026
+
+- **ZATWIERDZONE:** kapitan **Piotr Bielecki**, **35 lat**, urodzony **w 1957 r. w Krakowie**, z **6 Brygady Desantowo-Szturmowej**; służba od ok. **1980 r.**, przybycie do Miedziańska ok. **9–10 X** z polską inspekcją bezpieczeństwa i przekazywanego mienia. Głęboka psychologia i dokładne zdarzenia z lat 80. wciąż otwarte.
+- **ZATWIERDZONE:** Anna Wysocka jest reporterką tematów lokalnych i społecznych w redakcji **„Słowa Polskiego” we Wrocławiu**. Przyjeżdża **pociągiem późnym popołudniem 13 X**.
+- **ZATWIERDZONE:** hotelowy informator to **kierowca karetki**, który widział wcześniejsze zachorowania. Spotkanie przerywa **atak zakażonego z wcześniejszego rozproszonego łańcucha**, nie z głównej fali około 200 osób ze szpitala.
+- **ZATWIERDZONE:** początek kampanii Anny to **hotel, informator, atak, zapamiętany skrót, dedukcja z trzech sprzecznych źródeł, kierunek szpital**. Jedna główna zagadka detektywistyczna, jedna przestrzenna i opcjonalne ślady; około **80–90 min** gry jako długość docelowa do playtestów.
+- Szczegóły całego pierwszego rozdziału w `docs/16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`. Zaktualizowano kanon, plan, chronologię, obie karty postaci i historię.
+- **Wciąż otwarte:** imię i nazwisko przyjaciółki, tożsamość informatora, dokładne dialogi, moment/warunki spotkania Anny i Piotra, szczegółowa psychologia obu oraz P-83 (typ pistoletu Piotra) i sposób utraty AK-74.

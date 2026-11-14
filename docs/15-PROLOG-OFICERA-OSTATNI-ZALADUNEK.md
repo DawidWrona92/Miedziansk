@@ -2,7 +2,7 @@
 
 **Stan:** KANON SZKIELETU zaakceptowany przez autora / PROPOZYCJA konkretnego rytmu, dialogów i interakcji.  
 **Data:** 6 listopada 2026 r.  
-**Postacie:** polski oficer z Krakowa (imię „Piotr Bielecki”, stopień kapitana nadal tylko propozycją), **Leszek — jego wieloletni przyjaciel jeszcze sprzed gry [KANON]**, rosyjski oficer eskortujący [IMIĘ OTWARTE], personel rosyjskiego skrzydła szpitala.  
+**Postacie:** **[KANON] kapitan Piotr Bielecki, 35 lat, z Krakowa, 6 Brygada Desantowo-Szturmowa**, **Leszek — jego wieloletni przyjaciel jeszcze sprzed gry**, rosyjski oficer eskortujący [IMIĘ OTWARTE], personel rosyjskiego skrzydła szpitala.  
 **Zasady:** jeden pierwotny incydent zakażenia około 9–10 października; przyjazd polskiej inspekcji 13 października nie wywołuje epidemii, lecz przypadkowo zbiega się ze wzrostem napięć. Prologiczna katastrofa ma miejsce na technicznym poziomie **–2**, nie na tajnym poziomie **–3**, który zostanie odwiedzony późno w grze.
 
 ## 1. Dlaczego prolog zaczyna się powoli
@@ -71,7 +71,7 @@ R-4 przenosi się przez kontakt z zakażoną krwią i płynami ustrojowymi, nie 
 
 ## 6. Co jest jeszcze OTWARTE?
 
-- Imię i nazwisko oficera („Piotr Bielecki” nadal propozycją), ostateczny stopień i macierzysta jednostka.
+- **[ZATWIERDZONE]** Kapitan Piotr Bielecki, 35 lat (ur. 1957), 6 Brygada Desantowo-Szturmowa, przyjazd do Miedziańska 9–10 X; dalsze szczegóły kariery i psychologia pozostają otwarte.
 - Nazwisko Leszka, jego wygląd i charakter. Dokładny przebieg dialogów i momentu rozdzielenia.
 - Czas trwania prologu, szczegółowa trasa oraz rozmieszczenie poziomów –1 i –2.
 - Mechaniczny przebieg awarii parowej, skutki urazu, źródło krwi na mundurze.
@@ -92,3 +92,7 @@ R-4 przenosi się przez kontakt z zakażoną krwią i płynami ustrojowymi, nie 
 - **[KANON]** Skrzynie przy klatce –2 mają zwykłe numery i oznaczenia wojskowe, lecz nie pokrywają się z przekazanym spisem rzeczy do katalogowania. Oficer zauważa sprzeczność i ma obowiązek ją wyjaśnić, ale nie ma prawa wejść do strzeżonej strefy. To może być opcjonalna lub główna zagadka inspekcyjna; dokładna konstrukcja zagadki do decyzji.
 - **[KANON]** Zdobyczny AK-74 pochodzi od poległego rosyjskiego wojskowego. Poprawne karabinki polskie z epoki to także AKM/AKMS i wz. 88 Tantal [H40]; nie mylić pochodzenia rosyjskiego egzemplarza z polskim etatowym uzbrojeniem.
 - **[OTWARTE]** Nie znika „magicznie” broń długa po przebudzeniu: przyczyną może być **wyczerpanie amunicji** albo **poważne uszkodzenie mechanizmu w awarii węzła parowego**. Gracz musi zobaczyć powód. Nie wybierać wariantu bez akceptacji autora.
+
+## 9. Decyzja dotycząca oficera (14.11.2026)
+
+**[KANON]** Inspekcję prowadzi **kapitan Piotr Bielecki, 35 lat, urodzony w 1957 r. w Krakowie**, oficer zawodowy 6 Brygady Desantowo-Szturmowej, z doświadczeniem służby od ok. 1980 r. W Miedziańsku jest od 9–10 X i sprawdza bezpieczeństwo oraz protokoły przekazywania rosyjskich obiektów. **Leszek** pozostaje jego wieloletnim przyjacielem; nie wprowadzać sceny ich poznania. Pistolet **P-83 Wanad** oraz wariant utraty AK-74 po prologu jeszcze do decyzji. Ustalony szkielet prologu nie wymaga zmiany w związku z zatwierdzeniem personaliów.

@@ -1,6 +1,6 @@
 # Etap 05 — oficer Wojska Polskiego: postać i rozgrywka
 
-**Status: KANON TŁA, WYGLĄDU, OGÓLNEJ SPRAWNOŚCI I PROLOGU / PROPOZYCJA PERSONALII I SZCZEGÓŁÓW.**
+**Status: KANON PERSONALII, PRZYDZIAŁU, WYGLĄDU, SPRAWNOŚCI I SZKIELETU PROLOGU / PROPOZYCJE SZCZEGÓŁOWE WCIĄŻ OTWARTE.**
 **Data:** 6 listopada 2026.
 **Źródła świata:** `00-FUNDAMENTY-I-KANON.md`, `09-GARNIZON-I-SZPITAL-JAWNA-CZESC.md`, `12-BOHATEROWIE-POWIAZANIA-Z-RUBIEZA.md`, `13-DZIENNIKARKA-POSTAC-I-GAMEPLAY.md`.
 **Uwaga autorska:** nie projektować jeszcze głębokiej psychologii oficera ani dziennikarki. Dynamika ich relacji powinna wyniknąć z ustalenia obu funkcji w grze, a potem ze scenariusza.
@@ -9,8 +9,8 @@
 
 - **[KANON]** Polak **pochodzący z Krakowa**; oficer wojsk powietrznodesantowych. W Miedziańsku jest **od kilku dni**, na zadaniach zespołu Wojska Polskiego związanych z „wyprowadzką” rosyjskich wojsk.
 - **[KANON]** Nie zna miejskich skrótów Anny Wysockiej, nie wie o tajnym projekcie **Rubież**, nie dowodzi miejscowym garnizonem rosyjskim.
-- **[PROPOZYCJA]** Imię i nazwisko: **kapitan Piotr Bielecki**. Wiek **34–37 lat** w październiku 1992 r. Ostateczne imię, nazwisko, wiek i stopień nie są zatwierdzone.
-- **[PROPOZYCJA]** Służba w krakowskiej **6 Brygadzie Desantowo-Szturmowej**. Historycznie w 1992 r. istniała pod dokładnie tą nazwą (od 1991), a 6 Brygada Powietrznodesantowa to późniejsza nazwa. Historia jednostki: [H35].
+- **[KANON] Kapitan Piotr Bielecki, 35 lat w październiku 1992 r., urodzony w 1957 r. w Krakowie** (urodziny przed 13 X). Służy zawodowo od około **1980 r.** Imię, nazwisko, wiek, stopień i macierzysta jednostka zostały zatwierdzone **14 listopada 2026 r.**
+- **[KANON]** Służba w krakowskiej **6 Brygadzie Desantowo-Szturmowej**. Historycznie w 1992 r. istniała pod dokładnie tą nazwą (od 1991); późniejsza nazwa 6 Brygada Powietrznodesantowa byłaby anachronizmem. Historia jednostki: [H35].
 - **[PROPOZYCJA]** Jego znajomość jednostki z czasów 6 PDPD / późniejszej reorganizacji wynika z rzeczywistej służby zawodowej, nie z uczestnictwa w fikcyjnych tajnych operacjach.
 
 ### Dlaczego właśnie kapitan?
@@ -23,7 +23,7 @@ Można później rozważyć majora, jeżeli fabuła wymaga większego formalnego
 
 **[KANON]** Reprezentuje stronę polską przy przekazywaniu części rosyjskiego mienia, obiektów i wyposażenia. Przyjechał kilka dni przed 13 października. Nie jest lokalnym komendantem ani politycznym pełnomocnikiem.
 
-**[PROPOZYCJA]** Jest wojskowym uczestnikiem **polskiego zespołu kontrolno-zabezpieczającego**, zleconego do sprawdzenia stanu obiektów, bezpieczeństwa udostępnionych pomieszczeń i zgodności protokołów przekazania. Współpracuje z przedstawicielami MON oraz cywilną administracją, lecz nie zastępuje ich uprawnień. Ma rosyjskiego oficera prowadzącego po udostępnionych przestrzeniach.
+**[KANON GŁÓWNEJ FUNKCJI]** Jest wojskowym uczestnikiem **polskiego zespołu kontrolno-zabezpieczającego**, zleconego do sprawdzenia stanu obiektów, bezpieczeństwa udostępnionych pomieszczeń i zgodności protokołów przekazania. Współpracuje z przedstawicielami MON oraz cywilną administracją, lecz nie zastępuje ich uprawnień. Ma rosyjskiego oficera prowadzącego po udostępnionych przestrzeniach.
 
 Przed wybuchem epidemii może zauważyć **braki w spisach, zamknięte pomieszczenia, niestandardowy ruch sprzętu**. Nie zna ich biologicznego znaczenia i nie rozwiązuje sam całej zagadki.
 
@@ -71,9 +71,9 @@ Najpierw ustalimy **obu protagonistów i ich możliwości w grze**, a potem przy
 
 ## 7. Otwarte decyzje do autora
 
-1. Czy zatwierdzamy **kapitana Piotra Bieleckiego** czy inne imię / nazwisko?
-2. Czy jego służba w **6 Brygadzie Desantowo-Szturmowej** i wiek 34–37 lat odpowiadają zamierzonej postaci?
-3. Jaką konkretną funkcję w polskim zespole pełni w dniu 13 października: bezpieczeństwo i oględziny techniczne czy inny obszar?
+1. **[ZATWIERDZONE] Kapitan Piotr Bielecki, 35 lat, urodzony w 1957 r. w Krakowie.** Nie otwierać ponownie bez decyzji autora.
+2. **[ZATWIERDZONE]** 6 Brygada Desantowo-Szturmowa, służba od około 1980 r., przyjazd do Miedziańska **9–10 X 1992**. Szczegółowy przebieg kariery do zaprojektowania.
+3. **[ZATWIERDZONE]** Kontrola bezpieczeństwa i procesu przekazywania rosyjskich obiektów. Dokładny zakres odpowiedzialności i skład komisji są jeszcze otwarte.
 4. Czy nosi podczas inspekcji P-83 i w jakich okolicznościach zachowuje broń po wypadku?
 5. Jak długi ma być prolog i jakie pierwsze czynności wykonuje w nim gracz?
 6. Jak szczegółowo mają działać jego rozkazy, legitymacja, wojskowe kontakty i prośby o pomoc?
@@ -100,3 +100,9 @@ Najpierw ustalimy **obu protagonistów i ich możliwości w grze**, a potem przy
 **[KANON] Leszek i oficer są wieloletnimi przyjaciółmi, zanim rozpoczyna się gra**. Ich zgranie należy pokazać w działaniach i rozmowach przy inspekcji, nie w scenie poznania w szpitalu. **[KANON]** Oficer musi katalogować sprzęt, ale nie może wejść do wszystkich stref; wojskowe numery skrzyń z zamkniętej klatki nie pokrywają się z oficjalnymi dokumentami. **[KANON SPRZĘTU]** AK-74 znaleziony po poległym rosyjskim żołnierzu podczas prologu pozostaje. W polskich oddziałach epoki występują AKM/AKMS (7,62 × 39 mm) i wz. 88 Tantal (5,45 × 39 mm), przyjęty do uzbrojenia w 1991 r. [H40].
 
 **[NIEZAMKNIĘTA INSCENIZACJA]** Po pierwszej walce gracz nie ma już użytecznego AK-74: zużywa amunicję albo wskutek awarii parowej karabinek staje się mechanicznie niesprawny. Konkretny wariant musi być czytelnie pokazany. Nie dodawać arbitralnego automatycznego zniknięcia broni z ekwipunku. Dla polskich broni używać własnych realiów ekwipunkowych; to, że AK-74 oraz Tantal używają tego samego kalibru, nie oznacza automatycznie, że bohater ma w prologu dostęp do amunicji z polskich magazynów.
+
+## 10. Zatwierdzenie personaliów i przydziału (14.11.2026)
+
+**[KANON]** **Kapitan Piotr Bielecki, 35 lat**, urodzony **w 1957 r. w Krakowie**, zawodowo w wojsku od około **1980 r.** i służący w krakowskiej **6 Brygadzie Desantowo-Szturmowej**. Przebywa w Miedziańsku od **9–10 października 1992 r.** w związku z kontrolą bezpieczeństwa, wyposażenia i oficjalnego przekazywania rosyjskiej infrastruktury; uczestniczy w szpitalnej inspekcji z wieloletnim przyjacielem **Leszkiem**. Kapitan ma realne możliwości i wojskowe kontakty, ale nie dowodzi rosyjskim garnizonem ani tajnym poziomem –3.
+
+**[OTWARTE]** Dokładna szkoła oficerska i przebieg kariery, nazwisko Leszka, relacje rodzinne, szczegółowe poglądy i psychologia, formalna przepustka i skład inspekcji, **P-83 Wanad jako typ pistoletu** (wciąż propozycja), oraz wariant wyczerpania amunicji lub uszkodzenia AK-74 przed pobudką. **Wspólna psychologia Anny i Piotra zostaje do etapu ich spotkania.**

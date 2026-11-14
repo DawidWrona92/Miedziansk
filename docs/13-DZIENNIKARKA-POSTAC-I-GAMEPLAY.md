@@ -2,7 +2,7 @@
 
 **Status: KANON KONCEPCJI / propozycje wykonawcze oddzielone.**
 **Data:** 6 listopada 2026 r.
-**Kanon postaci:** **Anna Wysocka**, pochodzi z Miedziańska, mieszka we Wrocławiu, pracuje jako dziennikarka, szuka zaginionej przyjaciółki. **Dokładny wiek, redakcja, rodzina i psychologia nadal niezatwierdzone.**
+**Kanon postaci:** **Anna Wysocka**, pochodzi z Miedziańska, mieszka we Wrocławiu, pracuje w dzienniku **„Słowo Polskie” jako reporterka spraw lokalnych i społecznych** oraz szuka zaginionej przyjaciółki. **Dokładny wiek, rodzina i psychologia nadal niezatwierdzone.**
 
 ## Trzy fundamenty rozgrywki [KANON]
 
@@ -32,7 +32,7 @@ Różnica między nimi to rozumienie odpowiedzialności: ona może uważać, że
 
 ## Otwarte decyzje o osobowości i gameplayu
 
-- **Imię i nazwisko Anna Wysocka — KANON.** Otwarty jest wiek, redakcja i relacja z rodziną.
+- **Imię i nazwisko Anna Wysocka oraz redakcja „Słowo Polskie” (Wrocław) — KANON.** Otwarty jest dokładny wiek i relacja z rodziną.
 - Charakter: cyniczna, idealistyczna lub bardziej złożona mieszanina tych cech.
 - Kim jest jej zaginiona przyjaciółka i jaki ślad uruchamia poszukiwania.
 - Jak precyzyjnie działają interfejs notesu, aparat i odkrywanie skrótów.
@@ -44,3 +44,9 @@ Różnica między nimi to rozumienie odpowiedzialności: ona może uważać, że
 ## 1A. Doprecyzowanie kontaktu z bronią i płci w realiach PRL (6.11.2026)
 
 **[KANON POSTACI]** Anna Wysocka nie ma praktycznej wprawy w obsłudze pistoletów ani karabinów, mimo że istniało szkolne przysposobienie obronne. Realna różnica społeczna dotyczy przede wszystkim doświadczenia pokoleń mężczyzn objętych zasadniczą służbą wojskową i kobiet, które na ogół nie miały analogicznej praktyki. Nie zamieniamy tego w tezę, że żadna kobieta nie znała broni. Ustawowe istnienie PO nie mówi, ile skutecznego praktycznego szkolenia miała Anna. **Nie trzeba wyszukiwać fabularnych wyjątków, by przydzielić jej na początku pistolet — nie ma go.**
+
+## 2. Zatwierdzony rozdział wstępny Anny (14.11.2026)
+
+**[KANON]** Anna przyjeżdża **pociągiem późnym popołudniem 13 października 1992 r.** i jako reporterka „Słowa Polskiego” spotyka w hotelowym barze **kierowcę karetki**, który był świadkiem wcześniejszych, nietypowych interwencji. Dochodzi do ataku **jednego zakażonego z wcześniejszego rozproszonego łańcucha**, nie z zasadniczej fali około 200 osób ze szpitala. W dalszej części Anna korzysta z **pamiętanej drogi przez podwórka**, bada **rozbieżność dat w notatce przyjaciółki, zeznaniu kierowcy i oficjalnym komunikacie** i idzie ku szpitalowi.
+
+**[KANON GAMEPLAYU]** Jedna główna dedukcja, jedna przestrzenna zagadka oraz opcjonalne wskazówki. Notes, aparat analogowy, obserwacja, uniki, brak broni palnej. **Docelowo 80–90 minut, lecz testy mogą zmienić tempo.** Uznajemy tylko logiczny wniosek o niekompletnej chronologii wcześniejszych przypadków, nie wiedzę Anny o laboratorium Rubież. Konkretna forma układania dowodów, zdjęcia i lokalizacja pozyskiwania dokumentów pozostają do zaprojektowania; patrz `16-ANNA-OSTATNI-SPOKOJNY-WIECZOR.md`.

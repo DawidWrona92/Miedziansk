@@ -127,3 +127,5 @@ Właściwości realnych patogenów, procedury bezpieczeństwa biologicznego, kom
 - **[H39] U.S. Army, FM 100-2-3, *The Soviet Army: Troops, Organization, and Equipment* (6.06.1991).** AK-74, AKS-74 i ich powszechność w siłach radzieckich. Nie potwierdza konkretnej broni każdego żołnierza fikcyjnego garnizonu. https://irp.fas.org/doddir/army/fm100-2-3.pdf
 
 - **[H40] Polska Zbrojna, nr 6/2019 — zestawienie AKM, Tantal wz. 88, Beryl.** AKM 7,62 × 39 mm w polskim wojsku, Tantal 5,45 × 39 mm przyjęty w 1991 r. (zob. też muzeum wirtualne). https://zbrojni.blob.core.windows.net/pzdata2/TinyMceFiles/pz6_2019.pdf ; https://v-museum.org/pl/museum/weapons-xxi/bron-dluga-karabiny-i-karabinki/karabinek-automatyczny-wz-88-tantal
+
+- **[H41] Śląska Biblioteka Cyfrowa — „Słowo Polskie” (zestaw wydań z 1992 roku).** Potwierdza wydawanie dziennika regionalnego we Wrocławiu w 1992 r. Nie potwierdza zatrudnienia fikcyjnej Anny Wysockiej. https://www.sbc.org.pl/dlibra/publication/917286
